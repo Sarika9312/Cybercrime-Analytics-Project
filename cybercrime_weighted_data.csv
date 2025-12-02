@@ -1,0 +1,1401 @@
+complaint_id,type,state,city,amount_lost,age,gender,date,description,status
+1,Crypto Scam,Maharashtra,Nagpur,3498,51,Female,2023-05-13 00:00:00,Victim reported crypto scam incident in Nagpur.,Open
+2,Identity Theft,Maharashtra,Mumbai,7890,39,Female,2023-11-27 00:00:00,Victim reported identity theft incident in Mumbai.,Under Investigation
+3,KYC Scam,Maharashtra,Nagpur,6745,41,Female,2023-01-22 00:00:00,Victim reported kyc scam incident in Nagpur.,Closed
+4,Social Media Hack,Maharashtra,Pune,38943,19,Female,2023-07-19 00:00:00,Victim reported social media hack incident in Pune.,Under Investigation
+5,Social Media Hack,Maharashtra,Mumbai,4209,52,Female,2023-02-27 00:00:00,Victim reported social media hack incident in Mumbai.,Closed
+6,Phishing,Maharashtra,Nagpur,38218,31,Male,2023-10-02 00:00:00,Victim reported phishing incident in Nagpur.,Open
+7,Online Shopping Fraud,Maharashtra,Pune,45662,24,Female,2023-03-10 00:00:00,Victim reported online shopping fraud incident in Pune.,Under Investigation
+8,Job Scam,Maharashtra,Pune,6566,51,Female,2023-12-17 00:00:00,Victim reported job scam incident in Pune.,Closed
+9,Crypto Scam,Maharashtra,Mumbai,38334,47,Female,2023-12-17 00:00:00,Victim reported crypto scam incident in Mumbai.,Closed
+10,Identity Theft,Maharashtra,Mumbai,8620,57,Female,2023-07-08 00:00:00,Victim reported identity theft incident in Mumbai.,Open
+11,Online Shopping Fraud,Maharashtra,Pune,7120,43,Female,2023-09-29 00:00:00,Victim reported online shopping fraud incident in Pune.,Closed
+12,Identity Theft,Maharashtra,Nagpur,48570,59,Male,2023-12-03 00:00:00,Victim reported identity theft incident in Nagpur.,Under Investigation
+13,Crypto Scam,Maharashtra,Mumbai,11186,46,Female,2023-04-27 00:00:00,Victim reported crypto scam incident in Mumbai.,Closed
+14,UPI Fraud,Maharashtra,Mumbai,9652,47,Female,2023-03-04 00:00:00,Victim reported upi fraud incident in Mumbai.,Open
+15,UPI Fraud,Maharashtra,Mumbai,32871,25,Female,2023-04-12 00:00:00,Victim reported upi fraud incident in Mumbai.,Open
+16,UPI Fraud,Maharashtra,Nagpur,7727,56,Male,2023-10-22 00:00:00,Victim reported upi fraud incident in Nagpur.,Open
+17,Phishing,Maharashtra,Mumbai,24598,53,Female,2023-03-24 00:00:00,Victim reported phishing incident in Mumbai.,Under Investigation
+18,Phishing,Maharashtra,Pune,25341,33,Male,2023-08-09 00:00:00,Victim reported phishing incident in Pune.,Closed
+19,Social Media Hack,Maharashtra,Mumbai,27915,53,Male,2023-02-16 00:00:00,Victim reported social media hack incident in Mumbai.,Under Investigation
+20,Job Scam,Maharashtra,Mumbai,6108,55,Female,2023-04-23 00:00:00,Victim reported job scam incident in Mumbai.,Under Investigation
+21,Job Scam,Maharashtra,Nagpur,35287,18,Male,2023-03-29 00:00:00,Victim reported job scam incident in Nagpur.,Open
+22,Online Shopping Fraud,Maharashtra,Mumbai,3094,23,Male,2023-08-04 00:00:00,Victim reported online shopping fraud incident in Mumbai.,Under Investigation
+23,Social Media Hack,Maharashtra,Nagpur,11109,60,Male,2023-04-13 00:00:00,Victim reported social media hack incident in Nagpur.,Under Investigation
+24,Identity Theft,Maharashtra,Mumbai,4005,58,Male,2023-06-25 00:00:00,Victim reported identity theft incident in Mumbai.,Under Investigation
+25,Social Media Hack,Maharashtra,Mumbai,805,23,Female,2023-05-28 00:00:00,Victim reported social media hack incident in Mumbai.,Closed
+26,Social Media Hack,Maharashtra,Mumbai,17410,33,Female,2023-11-24 00:00:00,Victim reported social media hack incident in Mumbai.,Under Investigation
+27,Loan Scam,Maharashtra,Nagpur,30092,47,Male,2023-11-06 00:00:00,Victim reported loan scam incident in Nagpur.,Open
+28,Social Media Hack,Maharashtra,Mumbai,1811,40,Male,2023-10-30 00:00:00,Victim reported social media hack incident in Mumbai.,Under Investigation
+29,Credit Card Fraud,Maharashtra,Nagpur,20512,51,Female,2023-04-07 00:00:00,Victim reported credit card fraud incident in Nagpur.,Closed
+30,Online Shopping Fraud,Maharashtra,Mumbai,45249,18,Male,2023-01-27 00:00:00,Victim reported online shopping fraud incident in Mumbai.,Under Investigation
+31,KYC Scam,Maharashtra,Nagpur,13920,30,Male,2023-08-28 00:00:00,Victim reported kyc scam incident in Nagpur.,Open
+32,Job Scam,Maharashtra,Nagpur,33975,21,Female,2023-09-30 00:00:00,Victim reported job scam incident in Nagpur.,Under Investigation
+33,Credit Card Fraud,Maharashtra,Pune,45533,46,Male,2023-08-19 00:00:00,Victim reported credit card fraud incident in Pune.,Closed
+34,Crypto Scam,Maharashtra,Nagpur,9226,33,Female,2023-12-12 00:00:00,Victim reported crypto scam incident in Nagpur.,Closed
+35,KYC Scam,Maharashtra,Pune,16293,48,Male,2023-10-19 00:00:00,Victim reported kyc scam incident in Pune.,Open
+36,Loan Scam,Maharashtra,Nagpur,42920,51,Female,2023-09-11 00:00:00,Victim reported loan scam incident in Nagpur.,Open
+37,KYC Scam,Maharashtra,Mumbai,4828,39,Female,2023-03-22 00:00:00,Victim reported kyc scam incident in Mumbai.,Under Investigation
+38,Crypto Scam,Maharashtra,Mumbai,36616,59,Male,2023-12-11 00:00:00,Victim reported crypto scam incident in Mumbai.,Under Investigation
+39,Identity Theft,Maharashtra,Mumbai,34116,24,Female,2023-07-26 00:00:00,Victim reported identity theft incident in Mumbai.,Closed
+40,Social Media Hack,Maharashtra,Mumbai,20974,34,Female,2023-12-28 00:00:00,Victim reported social media hack incident in Mumbai.,Open
+41,Online Shopping Fraud,Maharashtra,Mumbai,6496,55,Female,2023-09-07 00:00:00,Victim reported online shopping fraud incident in Mumbai.,Open
+42,UPI Fraud,Maharashtra,Nagpur,49499,50,Female,2023-07-11 00:00:00,Victim reported upi fraud incident in Nagpur.,Closed
+43,Crypto Scam,Maharashtra,Mumbai,35055,58,Male,2023-05-16 00:00:00,Victim reported crypto scam incident in Mumbai.,Closed
+44,Credit Card Fraud,Maharashtra,Nagpur,29328,22,Male,2023-05-28 00:00:00,Victim reported credit card fraud incident in Nagpur.,Under Investigation
+45,Phishing,Maharashtra,Mumbai,32927,50,Male,2023-12-27 00:00:00,Victim reported phishing incident in Mumbai.,Closed
+46,Phishing,Maharashtra,Mumbai,9865,60,Female,2023-09-15 00:00:00,Victim reported phishing incident in Mumbai.,Open
+47,Job Scam,Maharashtra,Nagpur,2360,42,Female,2023-08-09 00:00:00,Victim reported job scam incident in Nagpur.,Open
+48,KYC Scam,Maharashtra,Mumbai,6402,37,Female,2023-01-17 00:00:00,Victim reported kyc scam incident in Mumbai.,Under Investigation
+49,Social Media Hack,Maharashtra,Pune,6281,32,Female,2023-06-15 00:00:00,Victim reported social media hack incident in Pune.,Closed
+50,Phishing,Maharashtra,Pune,5950,49,Male,2023-04-28 00:00:00,Victim reported phishing incident in Pune.,Under Investigation
+51,Social Media Hack,Maharashtra,Pune,4346,45,Male,2023-07-03 00:00:00,Victim reported social media hack incident in Pune.,Under Investigation
+52,Phishing,Maharashtra,Nagpur,45547,46,Female,2023-08-07 00:00:00,Victim reported phishing incident in Nagpur.,Open
+53,Online Shopping Fraud,Maharashtra,Nagpur,40389,60,Male,2023-10-22 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Open
+54,Online Shopping Fraud,Maharashtra,Pune,33874,59,Female,2023-06-05 00:00:00,Victim reported online shopping fraud incident in Pune.,Open
+55,Credit Card Fraud,Maharashtra,Mumbai,31791,44,Male,2023-06-27 00:00:00,Victim reported credit card fraud incident in Mumbai.,Under Investigation
+56,KYC Scam,Maharashtra,Pune,36075,42,Male,2023-02-15 00:00:00,Victim reported kyc scam incident in Pune.,Under Investigation
+57,Identity Theft,Maharashtra,Mumbai,33095,53,Female,2023-04-30 00:00:00,Victim reported identity theft incident in Mumbai.,Closed
+58,Social Media Hack,Maharashtra,Mumbai,8162,29,Female,2023-03-02 00:00:00,Victim reported social media hack incident in Mumbai.,Closed
+59,KYC Scam,Maharashtra,Pune,43089,50,Female,2023-06-06 00:00:00,Victim reported kyc scam incident in Pune.,Under Investigation
+60,Phishing,Maharashtra,Pune,15043,43,Female,2023-09-20 00:00:00,Victim reported phishing incident in Pune.,Open
+61,Credit Card Fraud,Maharashtra,Nagpur,33515,50,Male,2023-12-19 00:00:00,Victim reported credit card fraud incident in Nagpur.,Under Investigation
+62,Crypto Scam,Maharashtra,Mumbai,11055,25,Male,2023-06-08 00:00:00,Victim reported crypto scam incident in Mumbai.,Open
+63,KYC Scam,Maharashtra,Nagpur,1636,49,Male,2023-02-07 00:00:00,Victim reported kyc scam incident in Nagpur.,Open
+64,Online Shopping Fraud,Maharashtra,Pune,3552,39,Female,2023-08-20 00:00:00,Victim reported online shopping fraud incident in Pune.,Closed
+65,Identity Theft,Maharashtra,Pune,24848,40,Female,2023-01-28 00:00:00,Victim reported identity theft incident in Pune.,Open
+66,UPI Fraud,Maharashtra,Nagpur,12235,51,Male,2023-04-10 00:00:00,Victim reported upi fraud incident in Nagpur.,Open
+67,Online Shopping Fraud,Maharashtra,Nagpur,37688,34,Male,2023-08-07 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Under Investigation
+68,UPI Fraud,Maharashtra,Pune,35026,35,Male,2023-04-03 00:00:00,Victim reported upi fraud incident in Pune.,Open
+69,Crypto Scam,Maharashtra,Pune,24655,47,Male,2023-01-02 00:00:00,Victim reported crypto scam incident in Pune.,Closed
+70,KYC Scam,Maharashtra,Mumbai,35274,26,Male,2023-05-05 00:00:00,Victim reported kyc scam incident in Mumbai.,Open
+71,Job Scam,Maharashtra,Nagpur,10877,28,Male,2023-11-09 00:00:00,Victim reported job scam incident in Nagpur.,Closed
+72,Crypto Scam,Maharashtra,Pune,12032,21,Male,2023-11-14 00:00:00,Victim reported crypto scam incident in Pune.,Closed
+73,Online Shopping Fraud,Maharashtra,Nagpur,13921,24,Male,2023-02-16 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Closed
+74,KYC Scam,Maharashtra,Nagpur,27149,27,Male,2023-08-07 00:00:00,Victim reported kyc scam incident in Nagpur.,Closed
+75,KYC Scam,Maharashtra,Nagpur,34600,29,Male,2023-01-09 00:00:00,Victim reported kyc scam incident in Nagpur.,Under Investigation
+76,Phishing,Maharashtra,Pune,872,37,Male,2023-02-06 00:00:00,Victim reported phishing incident in Pune.,Open
+77,Job Scam,Maharashtra,Nagpur,19877,30,Female,2023-10-14 00:00:00,Victim reported job scam incident in Nagpur.,Closed
+78,Loan Scam,Maharashtra,Nagpur,24367,57,Female,2023-04-26 00:00:00,Victim reported loan scam incident in Nagpur.,Closed
+79,Crypto Scam,Maharashtra,Nagpur,39810,30,Male,2023-02-11 00:00:00,Victim reported crypto scam incident in Nagpur.,Closed
+80,Social Media Hack,Maharashtra,Mumbai,24891,46,Male,2023-07-07 00:00:00,Victim reported social media hack incident in Mumbai.,Closed
+81,Online Shopping Fraud,Maharashtra,Nagpur,33955,46,Female,2023-01-01 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Open
+82,Online Shopping Fraud,Maharashtra,Mumbai,38621,58,Male,2023-04-07 00:00:00,Victim reported online shopping fraud incident in Mumbai.,Under Investigation
+83,UPI Fraud,Maharashtra,Mumbai,40399,55,Female,2024-01-01 00:00:00,Victim reported upi fraud incident in Mumbai.,Under Investigation
+84,Credit Card Fraud,Maharashtra,Mumbai,7410,59,Male,2023-10-16 00:00:00,Victim reported credit card fraud incident in Mumbai.,Open
+85,Identity Theft,Maharashtra,Mumbai,34315,59,Female,2023-05-13 00:00:00,Victim reported identity theft incident in Mumbai.,Closed
+86,Crypto Scam,Maharashtra,Pune,17694,48,Male,2023-07-31 00:00:00,Victim reported crypto scam incident in Pune.,Open
+87,Phishing,Maharashtra,Pune,48055,33,Male,2023-12-01 00:00:00,Victim reported phishing incident in Pune.,Open
+88,Crypto Scam,Maharashtra,Nagpur,40027,21,Male,2023-05-17 00:00:00,Victim reported crypto scam incident in Nagpur.,Under Investigation
+89,Identity Theft,Maharashtra,Mumbai,2121,50,Male,2023-11-07 00:00:00,Victim reported identity theft incident in Mumbai.,Closed
+90,Online Shopping Fraud,Maharashtra,Nagpur,42801,33,Female,2023-09-25 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Closed
+91,KYC Scam,Maharashtra,Nagpur,46934,33,Female,2023-07-13 00:00:00,Victim reported kyc scam incident in Nagpur.,Under Investigation
+92,Crypto Scam,Maharashtra,Mumbai,39438,49,Male,2023-06-30 00:00:00,Victim reported crypto scam incident in Mumbai.,Open
+93,Online Shopping Fraud,Maharashtra,Pune,14458,39,Female,2023-02-03 00:00:00,Victim reported online shopping fraud incident in Pune.,Closed
+94,Loan Scam,Maharashtra,Nagpur,14230,24,Female,2023-11-10 00:00:00,Victim reported loan scam incident in Nagpur.,Under Investigation
+95,Identity Theft,Maharashtra,Mumbai,37028,44,Female,2023-04-25 00:00:00,Victim reported identity theft incident in Mumbai.,Open
+96,Crypto Scam,Maharashtra,Pune,40556,26,Female,2023-10-29 00:00:00,Victim reported crypto scam incident in Pune.,Under Investigation
+97,Online Shopping Fraud,Maharashtra,Nagpur,17896,54,Female,2023-08-03 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Closed
+98,KYC Scam,Maharashtra,Mumbai,44565,23,Male,2023-06-24 00:00:00,Victim reported kyc scam incident in Mumbai.,Closed
+99,Credit Card Fraud,Maharashtra,Pune,21802,20,Male,2023-02-16 00:00:00,Victim reported credit card fraud incident in Pune.,Open
+100,Loan Scam,Maharashtra,Nagpur,38095,41,Female,2023-06-07 00:00:00,Victim reported loan scam incident in Nagpur.,Closed
+101,Phishing,Maharashtra,Mumbai,37495,31,Male,2023-07-14 00:00:00,Victim reported phishing incident in Mumbai.,Under Investigation
+102,Identity Theft,Maharashtra,Nagpur,14961,45,Male,2023-10-08 00:00:00,Victim reported identity theft incident in Nagpur.,Open
+103,UPI Fraud,Maharashtra,Pune,20314,46,Male,2023-03-03 00:00:00,Victim reported upi fraud incident in Pune.,Open
+104,Loan Scam,Maharashtra,Mumbai,42072,22,Female,2023-12-19 00:00:00,Victim reported loan scam incident in Mumbai.,Open
+105,Crypto Scam,Maharashtra,Mumbai,1249,27,Female,2023-06-01 00:00:00,Victim reported crypto scam incident in Mumbai.,Under Investigation
+106,KYC Scam,Maharashtra,Mumbai,44399,46,Male,2023-04-10 00:00:00,Victim reported kyc scam incident in Mumbai.,Open
+107,KYC Scam,Maharashtra,Pune,18392,42,Female,2023-11-17 00:00:00,Victim reported kyc scam incident in Pune.,Open
+108,Credit Card Fraud,Maharashtra,Mumbai,42843,38,Female,2023-10-11 00:00:00,Victim reported credit card fraud incident in Mumbai.,Under Investigation
+109,Job Scam,Maharashtra,Nagpur,7800,21,Male,2023-02-28 00:00:00,Victim reported job scam incident in Nagpur.,Under Investigation
+110,Crypto Scam,Maharashtra,Mumbai,44938,56,Male,2023-08-07 00:00:00,Victim reported crypto scam incident in Mumbai.,Open
+111,Social Media Hack,Maharashtra,Mumbai,34392,55,Male,2023-03-15 00:00:00,Victim reported social media hack incident in Mumbai.,Open
+112,Job Scam,Maharashtra,Mumbai,23113,26,Male,2023-11-05 00:00:00,Victim reported job scam incident in Mumbai.,Closed
+113,Identity Theft,Maharashtra,Nagpur,15199,30,Male,2023-06-05 00:00:00,Victim reported identity theft incident in Nagpur.,Closed
+114,Loan Scam,Maharashtra,Pune,39564,39,Male,2023-12-21 00:00:00,Victim reported loan scam incident in Pune.,Open
+115,Online Shopping Fraud,Maharashtra,Nagpur,16379,20,Female,2023-08-16 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Under Investigation
+116,Phishing,Maharashtra,Nagpur,45910,35,Male,2023-11-23 00:00:00,Victim reported phishing incident in Nagpur.,Closed
+117,UPI Fraud,Maharashtra,Mumbai,45273,52,Male,2023-12-01 00:00:00,Victim reported upi fraud incident in Mumbai.,Open
+118,Crypto Scam,Maharashtra,Mumbai,11049,19,Male,2023-03-14 00:00:00,Victim reported crypto scam incident in Mumbai.,Open
+119,Online Shopping Fraud,Maharashtra,Nagpur,15264,28,Female,2023-01-02 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Under Investigation
+120,Job Scam,Maharashtra,Pune,37201,55,Female,2023-07-19 00:00:00,Victim reported job scam incident in Pune.,Open
+121,Credit Card Fraud,Maharashtra,Nagpur,25073,57,Female,2023-05-30 00:00:00,Victim reported credit card fraud incident in Nagpur.,Closed
+122,Job Scam,Maharashtra,Mumbai,48644,60,Female,2023-04-27 00:00:00,Victim reported job scam incident in Mumbai.,Closed
+123,Loan Scam,Maharashtra,Nagpur,26309,37,Male,2023-12-21 00:00:00,Victim reported loan scam incident in Nagpur.,Open
+124,Loan Scam,Maharashtra,Pune,40489,22,Male,2023-11-08 00:00:00,Victim reported loan scam incident in Pune.,Under Investigation
+125,Social Media Hack,Maharashtra,Mumbai,28795,34,Female,2023-03-15 00:00:00,Victim reported social media hack incident in Mumbai.,Under Investigation
+126,Online Shopping Fraud,Maharashtra,Pune,40545,24,Female,2023-09-19 00:00:00,Victim reported online shopping fraud incident in Pune.,Open
+127,Crypto Scam,Maharashtra,Nagpur,3627,49,Male,2023-04-16 00:00:00,Victim reported crypto scam incident in Nagpur.,Closed
+128,Identity Theft,Maharashtra,Mumbai,47555,39,Female,2023-09-05 00:00:00,Victim reported identity theft incident in Mumbai.,Open
+129,Credit Card Fraud,Maharashtra,Pune,42545,27,Female,2023-02-06 00:00:00,Victim reported credit card fraud incident in Pune.,Under Investigation
+130,KYC Scam,Maharashtra,Pune,12367,18,Female,2023-06-13 00:00:00,Victim reported kyc scam incident in Pune.,Open
+131,Credit Card Fraud,Maharashtra,Nagpur,36558,42,Male,2023-07-20 00:00:00,Victim reported credit card fraud incident in Nagpur.,Under Investigation
+132,UPI Fraud,Maharashtra,Pune,4815,54,Male,2023-10-08 00:00:00,Victim reported upi fraud incident in Pune.,Closed
+133,Social Media Hack,Maharashtra,Mumbai,21690,46,Female,2023-03-11 00:00:00,Victim reported social media hack incident in Mumbai.,Open
+134,Social Media Hack,Maharashtra,Mumbai,35856,42,Female,2023-09-11 00:00:00,Victim reported social media hack incident in Mumbai.,Under Investigation
+135,Online Shopping Fraud,Maharashtra,Nagpur,17260,46,Male,2023-05-30 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Closed
+136,Phishing,Maharashtra,Pune,46992,57,Female,2023-07-30 00:00:00,Victim reported phishing incident in Pune.,Open
+137,Phishing,Maharashtra,Mumbai,47069,48,Male,2023-07-19 00:00:00,Victim reported phishing incident in Mumbai.,Under Investigation
+138,Job Scam,Maharashtra,Pune,12481,47,Male,2023-12-14 00:00:00,Victim reported job scam incident in Pune.,Closed
+139,Job Scam,Maharashtra,Mumbai,49495,39,Female,2023-03-12 00:00:00,Victim reported job scam incident in Mumbai.,Open
+140,Online Shopping Fraud,Maharashtra,Pune,43247,30,Male,2023-05-11 00:00:00,Victim reported online shopping fraud incident in Pune.,Closed
+141,Credit Card Fraud,Maharashtra,Pune,18961,45,Female,2023-12-09 00:00:00,Victim reported credit card fraud incident in Pune.,Open
+142,Online Shopping Fraud,Maharashtra,Pune,2849,39,Female,2023-11-11 00:00:00,Victim reported online shopping fraud incident in Pune.,Under Investigation
+143,Crypto Scam,Maharashtra,Nagpur,46492,41,Male,2023-10-24 00:00:00,Victim reported crypto scam incident in Nagpur.,Open
+144,Phishing,Maharashtra,Mumbai,13679,21,Male,2023-06-10 00:00:00,Victim reported phishing incident in Mumbai.,Under Investigation
+145,Identity Theft,Maharashtra,Pune,23560,60,Female,2023-02-11 00:00:00,Victim reported identity theft incident in Pune.,Under Investigation
+146,Credit Card Fraud,Maharashtra,Mumbai,13697,27,Female,2023-07-07 00:00:00,Victim reported credit card fraud incident in Mumbai.,Closed
+147,Crypto Scam,Maharashtra,Mumbai,3015,31,Male,2023-01-05 00:00:00,Victim reported crypto scam incident in Mumbai.,Under Investigation
+148,Credit Card Fraud,Maharashtra,Nagpur,4920,60,Female,2023-08-27 00:00:00,Victim reported credit card fraud incident in Nagpur.,Closed
+149,Crypto Scam,Maharashtra,Nagpur,29142,40,Female,2023-02-14 00:00:00,Victim reported crypto scam incident in Nagpur.,Under Investigation
+150,Phishing,Maharashtra,Pune,45682,50,Female,2023-07-23 00:00:00,Victim reported phishing incident in Pune.,Open
+151,Online Shopping Fraud,Maharashtra,Nagpur,25816,53,Male,2023-12-07 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Under Investigation
+152,Social Media Hack,Maharashtra,Pune,21764,29,Female,2023-10-06 00:00:00,Victim reported social media hack incident in Pune.,Open
+153,Credit Card Fraud,Maharashtra,Pune,34249,51,Female,2023-11-21 00:00:00,Victim reported credit card fraud incident in Pune.,Under Investigation
+154,KYC Scam,Maharashtra,Mumbai,43110,47,Male,2023-02-13 00:00:00,Victim reported kyc scam incident in Mumbai.,Open
+155,UPI Fraud,Maharashtra,Nagpur,33420,18,Male,2023-10-02 00:00:00,Victim reported upi fraud incident in Nagpur.,Closed
+156,Job Scam,Maharashtra,Mumbai,16401,23,Male,2023-05-25 00:00:00,Victim reported job scam incident in Mumbai.,Open
+157,KYC Scam,Maharashtra,Pune,12605,34,Male,2023-10-31 00:00:00,Victim reported kyc scam incident in Pune.,Closed
+158,Social Media Hack,Maharashtra,Nagpur,29725,50,Female,2023-07-28 00:00:00,Victim reported social media hack incident in Nagpur.,Closed
+159,Online Shopping Fraud,Maharashtra,Mumbai,17408,20,Male,2023-10-20 00:00:00,Victim reported online shopping fraud incident in Mumbai.,Under Investigation
+160,Crypto Scam,Maharashtra,Nagpur,6684,44,Male,2023-02-06 00:00:00,Victim reported crypto scam incident in Nagpur.,Under Investigation
+161,Online Shopping Fraud,Maharashtra,Mumbai,37266,34,Male,2023-03-25 00:00:00,Victim reported online shopping fraud incident in Mumbai.,Under Investigation
+162,Loan Scam,Maharashtra,Pune,2670,44,Male,2023-09-11 00:00:00,Victim reported loan scam incident in Pune.,Under Investigation
+163,Social Media Hack,Maharashtra,Mumbai,36894,40,Male,2023-02-21 00:00:00,Victim reported social media hack incident in Mumbai.,Open
+164,Job Scam,Maharashtra,Mumbai,23538,54,Male,2023-11-15 00:00:00,Victim reported job scam incident in Mumbai.,Open
+165,Social Media Hack,Maharashtra,Mumbai,41604,47,Female,2023-01-25 00:00:00,Victim reported social media hack incident in Mumbai.,Closed
+166,Phishing,Maharashtra,Pune,30941,39,Female,2023-06-26 00:00:00,Victim reported phishing incident in Pune.,Closed
+167,Loan Scam,Maharashtra,Nagpur,42213,60,Female,2023-02-20 00:00:00,Victim reported loan scam incident in Nagpur.,Under Investigation
+168,Social Media Hack,Maharashtra,Mumbai,12733,21,Male,2023-12-03 00:00:00,Victim reported social media hack incident in Mumbai.,Open
+169,Phishing,Maharashtra,Pune,48223,38,Female,2023-03-28 00:00:00,Victim reported phishing incident in Pune.,Under Investigation
+170,Online Shopping Fraud,Maharashtra,Nagpur,25836,22,Female,2023-12-12 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Closed
+171,Identity Theft,Maharashtra,Mumbai,28965,38,Female,2023-10-23 00:00:00,Victim reported identity theft incident in Mumbai.,Under Investigation
+172,Online Shopping Fraud,Maharashtra,Pune,14368,25,Male,2023-06-20 00:00:00,Victim reported online shopping fraud incident in Pune.,Open
+173,Online Shopping Fraud,Maharashtra,Pune,20982,42,Male,2023-11-18 00:00:00,Victim reported online shopping fraud incident in Pune.,Open
+174,Job Scam,Maharashtra,Nagpur,9638,51,Female,2023-09-05 00:00:00,Victim reported job scam incident in Nagpur.,Closed
+175,Online Shopping Fraud,Maharashtra,Nagpur,26263,53,Female,2023-03-28 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Closed
+176,Online Shopping Fraud,Maharashtra,Mumbai,6720,23,Female,2023-01-31 00:00:00,Victim reported online shopping fraud incident in Mumbai.,Closed
+177,Crypto Scam,Maharashtra,Mumbai,21862,30,Male,2023-11-30 00:00:00,Victim reported crypto scam incident in Mumbai.,Closed
+178,Identity Theft,Maharashtra,Nagpur,40271,38,Female,2023-10-27 00:00:00,Victim reported identity theft incident in Nagpur.,Open
+179,KYC Scam,Maharashtra,Nagpur,24004,26,Female,2023-09-17 00:00:00,Victim reported kyc scam incident in Nagpur.,Under Investigation
+180,Crypto Scam,Maharashtra,Pune,12730,27,Female,2023-06-18 00:00:00,Victim reported crypto scam incident in Pune.,Under Investigation
+181,KYC Scam,Maharashtra,Mumbai,41675,30,Male,2023-06-16 00:00:00,Victim reported kyc scam incident in Mumbai.,Under Investigation
+182,Phishing,Maharashtra,Pune,16067,60,Female,2023-03-27 00:00:00,Victim reported phishing incident in Pune.,Open
+183,KYC Scam,Maharashtra,Mumbai,19976,44,Male,2023-06-17 00:00:00,Victim reported kyc scam incident in Mumbai.,Closed
+184,UPI Fraud,Maharashtra,Mumbai,26704,45,Female,2023-09-26 00:00:00,Victim reported upi fraud incident in Mumbai.,Closed
+185,Social Media Hack,Maharashtra,Pune,28851,33,Female,2023-08-09 00:00:00,Victim reported social media hack incident in Pune.,Closed
+186,UPI Fraud,Maharashtra,Pune,33049,43,Male,2023-07-12 00:00:00,Victim reported upi fraud incident in Pune.,Closed
+187,Credit Card Fraud,Maharashtra,Pune,30770,60,Male,2023-08-13 00:00:00,Victim reported credit card fraud incident in Pune.,Closed
+188,KYC Scam,Maharashtra,Mumbai,43548,26,Male,2023-01-22 00:00:00,Victim reported kyc scam incident in Mumbai.,Closed
+189,Identity Theft,Maharashtra,Nagpur,47091,36,Female,2023-04-18 00:00:00,Victim reported identity theft incident in Nagpur.,Under Investigation
+190,KYC Scam,Maharashtra,Nagpur,47671,26,Male,2023-04-09 00:00:00,Victim reported kyc scam incident in Nagpur.,Under Investigation
+191,Online Shopping Fraud,Maharashtra,Nagpur,24183,44,Female,2023-07-22 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Open
+192,Identity Theft,Maharashtra,Pune,15482,54,Male,2023-05-31 00:00:00,Victim reported identity theft incident in Pune.,Under Investigation
+193,Job Scam,Maharashtra,Nagpur,16662,47,Female,2023-03-29 00:00:00,Victim reported job scam incident in Nagpur.,Under Investigation
+194,Phishing,Maharashtra,Nagpur,20307,55,Male,2023-04-09 00:00:00,Victim reported phishing incident in Nagpur.,Closed
+195,Phishing,Maharashtra,Mumbai,11705,43,Female,2023-06-27 00:00:00,Victim reported phishing incident in Mumbai.,Open
+196,Social Media Hack,Maharashtra,Pune,32730,57,Male,2023-12-07 00:00:00,Victim reported social media hack incident in Pune.,Closed
+197,Social Media Hack,Maharashtra,Mumbai,34523,33,Female,2023-05-12 00:00:00,Victim reported social media hack incident in Mumbai.,Closed
+198,Online Shopping Fraud,Maharashtra,Nagpur,37676,19,Male,2023-03-14 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Closed
+199,KYC Scam,Maharashtra,Nagpur,15534,54,Male,2023-03-16 00:00:00,Victim reported kyc scam incident in Nagpur.,Under Investigation
+200,Identity Theft,Maharashtra,Nagpur,23111,43,Female,2023-12-19 00:00:00,Victim reported identity theft incident in Nagpur.,Closed
+201,Phishing,Maharashtra,Pune,37240,18,Male,2023-08-22 00:00:00,Victim reported phishing incident in Pune.,Under Investigation
+202,Social Media Hack,Maharashtra,Mumbai,4610,33,Male,2023-07-13 00:00:00,Victim reported social media hack incident in Mumbai.,Under Investigation
+203,Identity Theft,Maharashtra,Nagpur,43544,59,Male,2023-01-26 00:00:00,Victim reported identity theft incident in Nagpur.,Under Investigation
+204,UPI Fraud,Maharashtra,Mumbai,46426,55,Male,2023-08-21 00:00:00,Victim reported upi fraud incident in Mumbai.,Closed
+205,Identity Theft,Maharashtra,Mumbai,40618,41,Male,2023-08-11 00:00:00,Victim reported identity theft incident in Mumbai.,Open
+206,KYC Scam,Maharashtra,Pune,14165,49,Male,2023-05-02 00:00:00,Victim reported kyc scam incident in Pune.,Under Investigation
+207,Phishing,Maharashtra,Pune,25877,56,Male,2023-09-14 00:00:00,Victim reported phishing incident in Pune.,Open
+208,Phishing,Maharashtra,Nagpur,1794,34,Female,2023-02-13 00:00:00,Victim reported phishing incident in Nagpur.,Open
+209,Phishing,Maharashtra,Nagpur,37482,40,Male,2023-07-12 00:00:00,Victim reported phishing incident in Nagpur.,Open
+210,Identity Theft,Maharashtra,Pune,32609,39,Female,2023-11-10 00:00:00,Victim reported identity theft incident in Pune.,Under Investigation
+211,Job Scam,Maharashtra,Nagpur,18327,46,Male,2023-03-18 00:00:00,Victim reported job scam incident in Nagpur.,Closed
+212,Loan Scam,Maharashtra,Pune,5319,39,Female,2023-06-17 00:00:00,Victim reported loan scam incident in Pune.,Closed
+213,Online Shopping Fraud,Maharashtra,Pune,34291,21,Female,2023-09-25 00:00:00,Victim reported online shopping fraud incident in Pune.,Under Investigation
+214,Credit Card Fraud,Maharashtra,Mumbai,18420,30,Male,2023-03-27 00:00:00,Victim reported credit card fraud incident in Mumbai.,Closed
+215,Identity Theft,Maharashtra,Nagpur,13491,55,Female,2023-09-04 00:00:00,Victim reported identity theft incident in Nagpur.,Open
+216,Job Scam,Maharashtra,Mumbai,25477,34,Female,2023-12-01 00:00:00,Victim reported job scam incident in Mumbai.,Under Investigation
+217,Phishing,Maharashtra,Pune,3225,39,Female,2023-10-10 00:00:00,Victim reported phishing incident in Pune.,Closed
+218,KYC Scam,Maharashtra,Nagpur,21464,19,Male,2023-03-16 00:00:00,Victim reported kyc scam incident in Nagpur.,Under Investigation
+219,Loan Scam,Maharashtra,Mumbai,45095,60,Male,2023-02-04 00:00:00,Victim reported loan scam incident in Mumbai.,Open
+220,KYC Scam,Maharashtra,Pune,19284,54,Male,2023-09-07 00:00:00,Victim reported kyc scam incident in Pune.,Closed
+221,Social Media Hack,Maharashtra,Pune,35242,25,Male,2023-02-25 00:00:00,Victim reported social media hack incident in Pune.,Under Investigation
+222,UPI Fraud,Maharashtra,Mumbai,36373,37,Female,2023-01-23 00:00:00,Victim reported upi fraud incident in Mumbai.,Open
+223,Social Media Hack,Maharashtra,Pune,42733,44,Male,2023-01-18 00:00:00,Victim reported social media hack incident in Pune.,Open
+224,KYC Scam,Maharashtra,Pune,15094,52,Male,2023-02-05 00:00:00,Victim reported kyc scam incident in Pune.,Closed
+225,UPI Fraud,Maharashtra,Mumbai,20597,55,Female,2023-04-09 00:00:00,Victim reported upi fraud incident in Mumbai.,Under Investigation
+226,Job Scam,Maharashtra,Mumbai,12169,21,Female,2023-01-09 00:00:00,Victim reported job scam incident in Mumbai.,Open
+227,KYC Scam,Maharashtra,Pune,44452,31,Male,2023-12-07 00:00:00,Victim reported kyc scam incident in Pune.,Under Investigation
+228,Loan Scam,Maharashtra,Mumbai,35022,42,Male,2023-07-03 00:00:00,Victim reported loan scam incident in Mumbai.,Under Investigation
+229,Job Scam,Maharashtra,Pune,25899,56,Male,2023-01-14 00:00:00,Victim reported job scam incident in Pune.,Closed
+230,Loan Scam,Maharashtra,Nagpur,44480,37,Male,2023-04-23 00:00:00,Victim reported loan scam incident in Nagpur.,Under Investigation
+231,Job Scam,Maharashtra,Pune,40989,39,Female,2023-11-27 00:00:00,Victim reported job scam incident in Pune.,Under Investigation
+232,Loan Scam,Maharashtra,Mumbai,34044,58,Male,2023-01-21 00:00:00,Victim reported loan scam incident in Mumbai.,Closed
+233,Phishing,Maharashtra,Mumbai,34124,35,Female,2023-07-06 00:00:00,Victim reported phishing incident in Mumbai.,Closed
+234,Loan Scam,Maharashtra,Pune,7768,39,Female,2023-07-04 00:00:00,Victim reported loan scam incident in Pune.,Open
+235,Identity Theft,Maharashtra,Nagpur,22487,20,Female,2023-11-22 00:00:00,Victim reported identity theft incident in Nagpur.,Open
+236,Online Shopping Fraud,Maharashtra,Mumbai,8626,59,Female,2023-10-03 00:00:00,Victim reported online shopping fraud incident in Mumbai.,Under Investigation
+237,Identity Theft,Maharashtra,Mumbai,5652,22,Male,2023-04-01 00:00:00,Victim reported identity theft incident in Mumbai.,Under Investigation
+238,Credit Card Fraud,Maharashtra,Mumbai,38917,54,Female,2023-02-20 00:00:00,Victim reported credit card fraud incident in Mumbai.,Closed
+239,Job Scam,Maharashtra,Pune,33263,45,Female,2023-10-15 00:00:00,Victim reported job scam incident in Pune.,Closed
+240,Phishing,Maharashtra,Nagpur,3497,38,Male,2023-12-29 00:00:00,Victim reported phishing incident in Nagpur.,Under Investigation
+241,Online Shopping Fraud,Maharashtra,Nagpur,5741,45,Male,2023-08-24 00:00:00,Victim reported online shopping fraud incident in Nagpur.,Open
+242,Phishing,Maharashtra,Nagpur,39222,44,Male,2023-06-16 00:00:00,Victim reported phishing incident in Nagpur.,Closed
+243,Crypto Scam,Maharashtra,Mumbai,48360,43,Male,2023-05-15 00:00:00,Victim reported crypto scam incident in Mumbai.,Under Investigation
+244,KYC Scam,Maharashtra,Pune,23611,20,Male,2023-05-07 00:00:00,Victim reported kyc scam incident in Pune.,Under Investigation
+245,Credit Card Fraud,Maharashtra,Nagpur,4709,35,Male,2023-03-30 00:00:00,Victim reported credit card fraud incident in Nagpur.,Under Investigation
+246,UPI Fraud,Maharashtra,Nagpur,38096,42,Male,2023-09-25 00:00:00,Victim reported upi fraud incident in Nagpur.,Open
+247,Job Scam,Maharashtra,Mumbai,13235,23,Female,2023-06-26 00:00:00,Victim reported job scam incident in Mumbai.,Closed
+248,UPI Fraud,Maharashtra,Nagpur,9982,19,Male,2023-04-23 00:00:00,Victim reported upi fraud incident in Nagpur.,Open
+249,Job Scam,Maharashtra,Pune,1294,48,Female,2023-02-12 00:00:00,Victim reported job scam incident in Pune.,Open
+250,Loan Scam,Maharashtra,Mumbai,12264,34,Male,2023-08-03 00:00:00,Victim reported loan scam incident in Mumbai.,Open
+251,Crypto Scam,Maharashtra,Mumbai,24697,25,Female,2023-07-19 00:00:00,Victim reported crypto scam incident in Mumbai.,Closed
+252,Identity Theft,Maharashtra,Mumbai,10402,54,Male,2023-04-28 00:00:00,Victim reported identity theft incident in Mumbai.,Under Investigation
+253,Social Media Hack,Uttar Pradesh,Varanasi,4367,36,Male,2023-10-12 00:00:00,Victim reported social media hack incident in Varanasi.,Under Investigation
+254,Online Shopping Fraud,Uttar Pradesh,Noida,45397,35,Male,2023-02-06 00:00:00,Victim reported online shopping fraud incident in Noida.,Closed
+255,Loan Scam,Uttar Pradesh,Lucknow,47531,59,Male,2023-03-26 00:00:00,Victim reported loan scam incident in Lucknow.,Open
+256,Identity Theft,Uttar Pradesh,Noida,25052,54,Female,2023-09-08 00:00:00,Victim reported identity theft incident in Noida.,Closed
+257,KYC Scam,Uttar Pradesh,Noida,45447,40,Female,2023-04-23 00:00:00,Victim reported kyc scam incident in Noida.,Open
+258,Social Media Hack,Uttar Pradesh,Lucknow,33823,46,Female,2023-04-15 00:00:00,Victim reported social media hack incident in Lucknow.,Under Investigation
+259,Identity Theft,Uttar Pradesh,Noida,14733,33,Male,2023-07-10 00:00:00,Victim reported identity theft incident in Noida.,Closed
+260,Phishing,Uttar Pradesh,Noida,48726,55,Female,2023-07-29 00:00:00,Victim reported phishing incident in Noida.,Open
+261,Loan Scam,Uttar Pradesh,Noida,22829,24,Female,2023-02-25 00:00:00,Victim reported loan scam incident in Noida.,Open
+262,Credit Card Fraud,Uttar Pradesh,Noida,2657,32,Male,2023-12-15 00:00:00,Victim reported credit card fraud incident in Noida.,Under Investigation
+263,Credit Card Fraud,Uttar Pradesh,Noida,13696,29,Male,2023-12-27 00:00:00,Victim reported credit card fraud incident in Noida.,Closed
+264,Identity Theft,Uttar Pradesh,Lucknow,17246,42,Female,2023-06-10 00:00:00,Victim reported identity theft incident in Lucknow.,Under Investigation
+265,Loan Scam,Uttar Pradesh,Noida,48178,57,Female,2023-03-10 00:00:00,Victim reported loan scam incident in Noida.,Closed
+266,Identity Theft,Uttar Pradesh,Noida,37867,35,Male,2023-03-27 00:00:00,Victim reported identity theft incident in Noida.,Closed
+267,Job Scam,Uttar Pradesh,Lucknow,7018,19,Male,2023-03-20 00:00:00,Victim reported job scam incident in Lucknow.,Open
+268,Online Shopping Fraud,Uttar Pradesh,Noida,33892,51,Female,2023-06-19 00:00:00,Victim reported online shopping fraud incident in Noida.,Under Investigation
+269,Identity Theft,Uttar Pradesh,Lucknow,7871,40,Male,2023-06-15 00:00:00,Victim reported identity theft incident in Lucknow.,Under Investigation
+270,Loan Scam,Uttar Pradesh,Lucknow,3558,52,Male,2023-11-19 00:00:00,Victim reported loan scam incident in Lucknow.,Closed
+271,Credit Card Fraud,Uttar Pradesh,Noida,25756,29,Male,2023-10-27 00:00:00,Victim reported credit card fraud incident in Noida.,Under Investigation
+272,UPI Fraud,Uttar Pradesh,Noida,779,36,Male,2023-10-10 00:00:00,Victim reported upi fraud incident in Noida.,Open
+273,Social Media Hack,Uttar Pradesh,Varanasi,3205,39,Male,2023-05-31 00:00:00,Victim reported social media hack incident in Varanasi.,Open
+274,Identity Theft,Uttar Pradesh,Varanasi,33227,21,Male,2023-12-14 00:00:00,Victim reported identity theft incident in Varanasi.,Open
+275,Loan Scam,Uttar Pradesh,Varanasi,41885,51,Male,2023-06-14 00:00:00,Victim reported loan scam incident in Varanasi.,Closed
+276,Loan Scam,Uttar Pradesh,Lucknow,48414,47,Male,2023-01-19 00:00:00,Victim reported loan scam incident in Lucknow.,Open
+277,Credit Card Fraud,Uttar Pradesh,Varanasi,12596,45,Female,2023-02-28 00:00:00,Victim reported credit card fraud incident in Varanasi.,Open
+278,Crypto Scam,Uttar Pradesh,Lucknow,31343,59,Female,2023-05-25 00:00:00,Victim reported crypto scam incident in Lucknow.,Closed
+279,Credit Card Fraud,Uttar Pradesh,Lucknow,3115,37,Female,2023-07-09 00:00:00,Victim reported credit card fraud incident in Lucknow.,Under Investigation
+280,KYC Scam,Uttar Pradesh,Varanasi,26835,50,Male,2023-06-09 00:00:00,Victim reported kyc scam incident in Varanasi.,Closed
+281,Credit Card Fraud,Uttar Pradesh,Varanasi,39394,37,Male,2023-08-08 00:00:00,Victim reported credit card fraud incident in Varanasi.,Under Investigation
+282,Job Scam,Uttar Pradesh,Lucknow,21899,32,Male,2023-02-18 00:00:00,Victim reported job scam incident in Lucknow.,Under Investigation
+283,Job Scam,Uttar Pradesh,Lucknow,42313,46,Male,2023-12-31 00:00:00,Victim reported job scam incident in Lucknow.,Under Investigation
+284,Loan Scam,Uttar Pradesh,Varanasi,14494,58,Male,2023-01-21 00:00:00,Victim reported loan scam incident in Varanasi.,Closed
+285,Credit Card Fraud,Uttar Pradesh,Varanasi,21663,19,Female,2023-04-07 00:00:00,Victim reported credit card fraud incident in Varanasi.,Under Investigation
+286,Phishing,Uttar Pradesh,Noida,36468,46,Male,2023-01-27 00:00:00,Victim reported phishing incident in Noida.,Open
+287,UPI Fraud,Uttar Pradesh,Lucknow,15138,31,Female,2023-11-02 00:00:00,Victim reported upi fraud incident in Lucknow.,Under Investigation
+288,KYC Scam,Uttar Pradesh,Noida,41735,48,Male,2023-03-21 00:00:00,Victim reported kyc scam incident in Noida.,Closed
+289,Job Scam,Uttar Pradesh,Lucknow,13768,32,Female,2023-02-01 00:00:00,Victim reported job scam incident in Lucknow.,Under Investigation
+290,Credit Card Fraud,Uttar Pradesh,Varanasi,12277,22,Male,2023-12-11 00:00:00,Victim reported credit card fraud incident in Varanasi.,Under Investigation
+291,Identity Theft,Uttar Pradesh,Varanasi,16005,22,Male,2023-12-02 00:00:00,Victim reported identity theft incident in Varanasi.,Under Investigation
+292,Phishing,Uttar Pradesh,Noida,39691,41,Female,2023-04-17 00:00:00,Victim reported phishing incident in Noida.,Open
+293,Online Shopping Fraud,Uttar Pradesh,Lucknow,13147,57,Female,2023-06-30 00:00:00,Victim reported online shopping fraud incident in Lucknow.,Closed
+294,UPI Fraud,Uttar Pradesh,Lucknow,21039,48,Female,2023-06-22 00:00:00,Victim reported upi fraud incident in Lucknow.,Closed
+295,Identity Theft,Uttar Pradesh,Noida,25000,51,Male,2023-07-14 00:00:00,Victim reported identity theft incident in Noida.,Under Investigation
+296,Online Shopping Fraud,Uttar Pradesh,Varanasi,22985,30,Male,2023-08-25 00:00:00,Victim reported online shopping fraud incident in Varanasi.,Closed
+297,Loan Scam,Uttar Pradesh,Varanasi,24036,58,Female,2023-01-10 00:00:00,Victim reported loan scam incident in Varanasi.,Open
+298,Phishing,Uttar Pradesh,Noida,9058,55,Male,2023-08-09 00:00:00,Victim reported phishing incident in Noida.,Closed
+299,Crypto Scam,Uttar Pradesh,Lucknow,31924,51,Female,2023-06-08 00:00:00,Victim reported crypto scam incident in Lucknow.,Closed
+300,Identity Theft,Uttar Pradesh,Varanasi,2368,20,Male,2023-08-16 00:00:00,Victim reported identity theft incident in Varanasi.,Closed
+301,Job Scam,Uttar Pradesh,Lucknow,36623,29,Male,2023-11-20 00:00:00,Victim reported job scam incident in Lucknow.,Under Investigation
+302,UPI Fraud,Uttar Pradesh,Noida,36843,43,Male,2023-01-28 00:00:00,Victim reported upi fraud incident in Noida.,Closed
+303,Social Media Hack,Uttar Pradesh,Noida,27273,34,Female,2023-01-27 00:00:00,Victim reported social media hack incident in Noida.,Closed
+304,Social Media Hack,Uttar Pradesh,Noida,5349,26,Female,2023-06-07 00:00:00,Victim reported social media hack incident in Noida.,Closed
+305,Phishing,Uttar Pradesh,Noida,30011,26,Male,2023-12-06 00:00:00,Victim reported phishing incident in Noida.,Closed
+306,Online Shopping Fraud,Uttar Pradesh,Noida,38904,32,Male,2023-11-03 00:00:00,Victim reported online shopping fraud incident in Noida.,Under Investigation
+307,Job Scam,Uttar Pradesh,Varanasi,49926,48,Female,2023-08-07 00:00:00,Victim reported job scam incident in Varanasi.,Under Investigation
+308,Online Shopping Fraud,Uttar Pradesh,Varanasi,10228,39,Male,2023-02-14 00:00:00,Victim reported online shopping fraud incident in Varanasi.,Closed
+309,Credit Card Fraud,Uttar Pradesh,Varanasi,3855,24,Male,2023-04-27 00:00:00,Victim reported credit card fraud incident in Varanasi.,Open
+310,Online Shopping Fraud,Uttar Pradesh,Varanasi,45212,20,Female,2023-07-06 00:00:00,Victim reported online shopping fraud incident in Varanasi.,Open
+311,Crypto Scam,Uttar Pradesh,Noida,6660,41,Female,2023-11-23 00:00:00,Victim reported crypto scam incident in Noida.,Closed
+312,Phishing,Uttar Pradesh,Lucknow,6347,22,Female,2023-03-26 00:00:00,Victim reported phishing incident in Lucknow.,Under Investigation
+313,Phishing,Uttar Pradesh,Noida,23162,21,Male,2023-12-05 00:00:00,Victim reported phishing incident in Noida.,Under Investigation
+314,UPI Fraud,Uttar Pradesh,Varanasi,16041,37,Female,2023-08-15 00:00:00,Victim reported upi fraud incident in Varanasi.,Under Investigation
+315,Crypto Scam,Uttar Pradesh,Lucknow,42345,35,Female,2023-03-11 00:00:00,Victim reported crypto scam incident in Lucknow.,Under Investigation
+316,Credit Card Fraud,Uttar Pradesh,Noida,705,48,Female,2023-11-15 00:00:00,Victim reported credit card fraud incident in Noida.,Open
+317,Credit Card Fraud,Uttar Pradesh,Varanasi,20684,42,Female,2023-03-04 00:00:00,Victim reported credit card fraud incident in Varanasi.,Closed
+318,Identity Theft,Uttar Pradesh,Varanasi,27725,26,Female,2023-07-16 00:00:00,Victim reported identity theft incident in Varanasi.,Open
+319,Identity Theft,Uttar Pradesh,Noida,3400,53,Male,2023-03-16 00:00:00,Victim reported identity theft incident in Noida.,Under Investigation
+320,Identity Theft,Uttar Pradesh,Noida,19321,51,Female,2023-09-18 00:00:00,Victim reported identity theft incident in Noida.,Under Investigation
+321,Loan Scam,Uttar Pradesh,Varanasi,47327,40,Male,2023-09-02 00:00:00,Victim reported loan scam incident in Varanasi.,Open
+322,Credit Card Fraud,Uttar Pradesh,Noida,27389,48,Female,2023-03-03 00:00:00,Victim reported credit card fraud incident in Noida.,Open
+323,Phishing,Uttar Pradesh,Varanasi,48824,39,Male,2023-05-18 00:00:00,Victim reported phishing incident in Varanasi.,Under Investigation
+324,Online Shopping Fraud,Uttar Pradesh,Noida,46909,50,Female,2023-11-14 00:00:00,Victim reported online shopping fraud incident in Noida.,Open
+325,Identity Theft,Uttar Pradesh,Lucknow,35989,45,Male,2023-06-07 00:00:00,Victim reported identity theft incident in Lucknow.,Closed
+326,Phishing,Uttar Pradesh,Noida,32343,42,Male,2023-07-26 00:00:00,Victim reported phishing incident in Noida.,Open
+327,Loan Scam,Uttar Pradesh,Noida,14113,45,Male,2023-10-21 00:00:00,Victim reported loan scam incident in Noida.,Open
+328,Identity Theft,Uttar Pradesh,Noida,7407,53,Male,2023-04-10 00:00:00,Victim reported identity theft incident in Noida.,Closed
+329,Credit Card Fraud,Uttar Pradesh,Noida,16904,38,Female,2023-11-30 00:00:00,Victim reported credit card fraud incident in Noida.,Open
+330,Identity Theft,Uttar Pradesh,Varanasi,12880,46,Male,2023-10-24 00:00:00,Victim reported identity theft incident in Varanasi.,Under Investigation
+331,Identity Theft,Uttar Pradesh,Lucknow,42958,38,Male,2023-04-21 00:00:00,Victim reported identity theft incident in Lucknow.,Open
+332,Loan Scam,Uttar Pradesh,Noida,38168,20,Female,2023-04-29 00:00:00,Victim reported loan scam incident in Noida.,Closed
+333,Identity Theft,Uttar Pradesh,Varanasi,16040,25,Male,2023-01-30 00:00:00,Victim reported identity theft incident in Varanasi.,Under Investigation
+334,Phishing,Uttar Pradesh,Lucknow,38592,45,Female,2023-10-05 00:00:00,Victim reported phishing incident in Lucknow.,Under Investigation
+335,Loan Scam,Uttar Pradesh,Noida,49635,42,Male,2023-03-06 00:00:00,Victim reported loan scam incident in Noida.,Under Investigation
+336,Identity Theft,Uttar Pradesh,Varanasi,17051,35,Male,2023-09-19 00:00:00,Victim reported identity theft incident in Varanasi.,Open
+337,UPI Fraud,Uttar Pradesh,Noida,36134,53,Male,2023-10-11 00:00:00,Victim reported upi fraud incident in Noida.,Closed
+338,Loan Scam,Uttar Pradesh,Noida,14801,19,Male,2023-08-03 00:00:00,Victim reported loan scam incident in Noida.,Open
+339,Credit Card Fraud,Uttar Pradesh,Lucknow,20131,56,Female,2023-05-26 00:00:00,Victim reported credit card fraud incident in Lucknow.,Under Investigation
+340,KYC Scam,Uttar Pradesh,Noida,22664,56,Female,2023-12-09 00:00:00,Victim reported kyc scam incident in Noida.,Open
+341,Credit Card Fraud,Uttar Pradesh,Noida,35454,32,Male,2023-03-31 00:00:00,Victim reported credit card fraud incident in Noida.,Open
+342,Credit Card Fraud,Uttar Pradesh,Varanasi,29519,37,Male,2023-10-01 00:00:00,Victim reported credit card fraud incident in Varanasi.,Under Investigation
+343,Credit Card Fraud,Uttar Pradesh,Varanasi,25123,53,Male,2023-05-23 00:00:00,Victim reported credit card fraud incident in Varanasi.,Under Investigation
+344,Identity Theft,Uttar Pradesh,Lucknow,45424,29,Male,2023-06-14 00:00:00,Victim reported identity theft incident in Lucknow.,Open
+345,Identity Theft,Uttar Pradesh,Varanasi,27519,41,Female,2023-08-31 00:00:00,Victim reported identity theft incident in Varanasi.,Under Investigation
+346,UPI Fraud,Uttar Pradesh,Varanasi,35475,28,Male,2023-01-01 00:00:00,Victim reported upi fraud incident in Varanasi.,Under Investigation
+347,Job Scam,Uttar Pradesh,Varanasi,49827,23,Male,2023-04-12 00:00:00,Victim reported job scam incident in Varanasi.,Closed
+348,Loan Scam,Uttar Pradesh,Lucknow,30647,55,Male,2023-09-29 00:00:00,Victim reported loan scam incident in Lucknow.,Under Investigation
+349,Credit Card Fraud,Uttar Pradesh,Noida,47746,28,Male,2023-04-19 00:00:00,Victim reported credit card fraud incident in Noida.,Open
+350,Job Scam,Uttar Pradesh,Lucknow,21597,31,Male,2023-07-29 00:00:00,Victim reported job scam incident in Lucknow.,Closed
+351,Loan Scam,Uttar Pradesh,Noida,3274,35,Male,2023-04-18 00:00:00,Victim reported loan scam incident in Noida.,Under Investigation
+352,Crypto Scam,Uttar Pradesh,Varanasi,8411,44,Male,2023-12-29 00:00:00,Victim reported crypto scam incident in Varanasi.,Under Investigation
+353,Crypto Scam,Uttar Pradesh,Varanasi,26168,48,Female,2023-07-18 00:00:00,Victim reported crypto scam incident in Varanasi.,Open
+354,Social Media Hack,Uttar Pradesh,Noida,35244,50,Female,2023-06-02 00:00:00,Victim reported social media hack incident in Noida.,Under Investigation
+355,Identity Theft,Uttar Pradesh,Varanasi,15692,28,Male,2023-07-25 00:00:00,Victim reported identity theft incident in Varanasi.,Under Investigation
+356,UPI Fraud,Uttar Pradesh,Lucknow,26778,32,Male,2023-02-13 00:00:00,Victim reported upi fraud incident in Lucknow.,Under Investigation
+357,KYC Scam,Uttar Pradesh,Varanasi,49423,27,Female,2023-09-26 00:00:00,Victim reported kyc scam incident in Varanasi.,Under Investigation
+358,Loan Scam,Uttar Pradesh,Lucknow,37711,50,Female,2023-07-11 00:00:00,Victim reported loan scam incident in Lucknow.,Closed
+359,Social Media Hack,Uttar Pradesh,Varanasi,37051,25,Male,2023-06-01 00:00:00,Victim reported social media hack incident in Varanasi.,Closed
+360,UPI Fraud,Uttar Pradesh,Noida,22852,55,Male,2023-10-21 00:00:00,Victim reported upi fraud incident in Noida.,Under Investigation
+361,Social Media Hack,Uttar Pradesh,Varanasi,45105,51,Male,2023-12-03 00:00:00,Victim reported social media hack incident in Varanasi.,Under Investigation
+362,Social Media Hack,Uttar Pradesh,Lucknow,44253,35,Female,2023-07-03 00:00:00,Victim reported social media hack incident in Lucknow.,Under Investigation
+363,Job Scam,Uttar Pradesh,Lucknow,49178,19,Female,2023-09-19 00:00:00,Victim reported job scam incident in Lucknow.,Open
+364,UPI Fraud,Uttar Pradesh,Noida,15106,37,Male,2023-04-23 00:00:00,Victim reported upi fraud incident in Noida.,Closed
+365,KYC Scam,Uttar Pradesh,Varanasi,8068,55,Male,2023-03-07 00:00:00,Victim reported kyc scam incident in Varanasi.,Open
+366,Online Shopping Fraud,Uttar Pradesh,Noida,47686,28,Female,2023-03-14 00:00:00,Victim reported online shopping fraud incident in Noida.,Closed
+367,Crypto Scam,Uttar Pradesh,Lucknow,47654,53,Female,2023-04-09 00:00:00,Victim reported crypto scam incident in Lucknow.,Closed
+368,UPI Fraud,Uttar Pradesh,Varanasi,46527,46,Female,2023-11-02 00:00:00,Victim reported upi fraud incident in Varanasi.,Open
+369,Credit Card Fraud,Uttar Pradesh,Varanasi,45728,28,Male,2023-10-27 00:00:00,Victim reported credit card fraud incident in Varanasi.,Open
+370,UPI Fraud,Uttar Pradesh,Varanasi,7636,46,Female,2023-11-17 00:00:00,Victim reported upi fraud incident in Varanasi.,Open
+371,Credit Card Fraud,Uttar Pradesh,Varanasi,35813,21,Female,2023-09-25 00:00:00,Victim reported credit card fraud incident in Varanasi.,Open
+372,UPI Fraud,Uttar Pradesh,Lucknow,13146,33,Male,2023-05-24 00:00:00,Victim reported upi fraud incident in Lucknow.,Open
+373,Job Scam,Uttar Pradesh,Noida,42351,19,Male,2023-12-28 00:00:00,Victim reported job scam incident in Noida.,Under Investigation
+374,Loan Scam,Uttar Pradesh,Noida,15360,40,Male,2023-10-13 00:00:00,Victim reported loan scam incident in Noida.,Closed
+375,Online Shopping Fraud,Uttar Pradesh,Lucknow,23744,27,Male,2023-06-15 00:00:00,Victim reported online shopping fraud incident in Lucknow.,Closed
+376,Crypto Scam,Uttar Pradesh,Lucknow,30215,19,Male,2023-10-28 00:00:00,Victim reported crypto scam incident in Lucknow.,Open
+377,Phishing,Uttar Pradesh,Noida,44719,45,Female,2023-07-13 00:00:00,Victim reported phishing incident in Noida.,Open
+378,KYC Scam,Uttar Pradesh,Varanasi,21197,28,Male,2023-01-29 00:00:00,Victim reported kyc scam incident in Varanasi.,Open
+379,KYC Scam,Uttar Pradesh,Noida,23110,31,Female,2023-10-18 00:00:00,Victim reported kyc scam incident in Noida.,Closed
+380,Social Media Hack,Uttar Pradesh,Varanasi,22608,37,Male,2023-06-18 00:00:00,Victim reported social media hack incident in Varanasi.,Under Investigation
+381,Job Scam,Uttar Pradesh,Varanasi,37601,23,Male,2023-06-14 00:00:00,Victim reported job scam incident in Varanasi.,Under Investigation
+382,Credit Card Fraud,Uttar Pradesh,Lucknow,46314,39,Female,2023-08-31 00:00:00,Victim reported credit card fraud incident in Lucknow.,Closed
+383,Loan Scam,Uttar Pradesh,Noida,28529,31,Female,2023-04-25 00:00:00,Victim reported loan scam incident in Noida.,Open
+384,Identity Theft,Uttar Pradesh,Noida,16429,19,Male,2023-01-06 00:00:00,Victim reported identity theft incident in Noida.,Open
+385,UPI Fraud,Uttar Pradesh,Varanasi,30652,33,Female,2023-06-15 00:00:00,Victim reported upi fraud incident in Varanasi.,Open
+386,UPI Fraud,Uttar Pradesh,Noida,2813,53,Female,2023-12-14 00:00:00,Victim reported upi fraud incident in Noida.,Open
+387,Loan Scam,Uttar Pradesh,Lucknow,30212,20,Female,2023-05-13 00:00:00,Victim reported loan scam incident in Lucknow.,Open
+388,Loan Scam,Uttar Pradesh,Lucknow,20871,37,Female,2023-09-02 00:00:00,Victim reported loan scam incident in Lucknow.,Open
+389,Identity Theft,Uttar Pradesh,Noida,1065,54,Male,2023-03-05 00:00:00,Victim reported identity theft incident in Noida.,Open
+390,Credit Card Fraud,Uttar Pradesh,Lucknow,42281,30,Female,2023-04-25 00:00:00,Victim reported credit card fraud incident in Lucknow.,Open
+391,UPI Fraud,Uttar Pradesh,Lucknow,37340,43,Male,2023-02-21 00:00:00,Victim reported upi fraud incident in Lucknow.,Open
+392,Job Scam,Uttar Pradesh,Noida,23110,19,Male,2023-06-17 00:00:00,Victim reported job scam incident in Noida.,Under Investigation
+393,Credit Card Fraud,Uttar Pradesh,Varanasi,30855,53,Male,2023-01-24 00:00:00,Victim reported credit card fraud incident in Varanasi.,Open
+394,Online Shopping Fraud,Uttar Pradesh,Noida,7372,29,Female,2023-05-10 00:00:00,Victim reported online shopping fraud incident in Noida.,Under Investigation
+395,Online Shopping Fraud,Uttar Pradesh,Varanasi,19828,24,Male,2023-09-26 00:00:00,Victim reported online shopping fraud incident in Varanasi.,Under Investigation
+396,KYC Scam,Uttar Pradesh,Lucknow,28971,55,Female,2023-04-24 00:00:00,Victim reported kyc scam incident in Lucknow.,Under Investigation
+397,Identity Theft,Uttar Pradesh,Lucknow,40894,56,Male,2023-08-21 00:00:00,Victim reported identity theft incident in Lucknow.,Closed
+398,Online Shopping Fraud,Uttar Pradesh,Varanasi,24401,42,Female,2023-12-08 00:00:00,Victim reported online shopping fraud incident in Varanasi.,Open
+399,Phishing,Uttar Pradesh,Noida,11913,21,Male,2023-10-07 00:00:00,Victim reported phishing incident in Noida.,Under Investigation
+400,Credit Card Fraud,Uttar Pradesh,Noida,24360,22,Male,2023-01-15 00:00:00,Victim reported credit card fraud incident in Noida.,Under Investigation
+401,Social Media Hack,Uttar Pradesh,Lucknow,35771,46,Male,2023-01-20 00:00:00,Victim reported social media hack incident in Lucknow.,Closed
+402,Credit Card Fraud,Uttar Pradesh,Noida,44626,37,Female,2023-12-13 00:00:00,Victim reported credit card fraud incident in Noida.,Under Investigation
+403,Phishing,Uttar Pradesh,Lucknow,26537,56,Female,2023-05-02 00:00:00,Victim reported phishing incident in Lucknow.,Under Investigation
+404,Social Media Hack,Uttar Pradesh,Varanasi,43477,34,Female,2023-12-30 00:00:00,Victim reported social media hack incident in Varanasi.,Under Investigation
+405,Loan Scam,Uttar Pradesh,Lucknow,12585,37,Female,2023-09-21 00:00:00,Victim reported loan scam incident in Lucknow.,Under Investigation
+406,Phishing,Uttar Pradesh,Noida,38348,53,Male,2023-09-07 00:00:00,Victim reported phishing incident in Noida.,Under Investigation
+407,Crypto Scam,Uttar Pradesh,Noida,24635,32,Female,2023-12-21 00:00:00,Victim reported crypto scam incident in Noida.,Under Investigation
+408,Job Scam,Uttar Pradesh,Noida,16261,46,Female,2023-06-29 00:00:00,Victim reported job scam incident in Noida.,Under Investigation
+409,Loan Scam,Uttar Pradesh,Varanasi,39719,47,Male,2023-06-11 00:00:00,Victim reported loan scam incident in Varanasi.,Closed
+410,Social Media Hack,Uttar Pradesh,Varanasi,2430,57,Male,2023-01-17 00:00:00,Victim reported social media hack incident in Varanasi.,Under Investigation
+411,Credit Card Fraud,Uttar Pradesh,Lucknow,21549,41,Male,2023-05-22 00:00:00,Victim reported credit card fraud incident in Lucknow.,Under Investigation
+412,Online Shopping Fraud,Uttar Pradesh,Lucknow,15476,25,Female,2023-05-24 00:00:00,Victim reported online shopping fraud incident in Lucknow.,Under Investigation
+413,KYC Scam,Uttar Pradesh,Varanasi,22430,28,Female,2023-01-10 00:00:00,Victim reported kyc scam incident in Varanasi.,Open
+414,Identity Theft,Uttar Pradesh,Varanasi,10739,59,Male,2023-03-24 00:00:00,Victim reported identity theft incident in Varanasi.,Closed
+415,Social Media Hack,Uttar Pradesh,Lucknow,4252,52,Female,2023-06-07 00:00:00,Victim reported social media hack incident in Lucknow.,Open
+416,Job Scam,Uttar Pradesh,Lucknow,31899,35,Male,2023-10-13 00:00:00,Victim reported job scam incident in Lucknow.,Open
+417,Crypto Scam,Uttar Pradesh,Noida,17891,58,Male,2023-07-03 00:00:00,Victim reported crypto scam incident in Noida.,Closed
+418,Credit Card Fraud,Uttar Pradesh,Varanasi,33471,19,Male,2023-12-18 00:00:00,Victim reported credit card fraud incident in Varanasi.,Closed
+419,Crypto Scam,Uttar Pradesh,Noida,47480,22,Female,2023-05-01 00:00:00,Victim reported crypto scam incident in Noida.,Under Investigation
+420,Online Shopping Fraud,Uttar Pradesh,Noida,43254,57,Female,2023-03-16 00:00:00,Victim reported online shopping fraud incident in Noida.,Closed
+421,KYC Scam,Uttar Pradesh,Varanasi,47405,56,Male,2023-09-19 00:00:00,Victim reported kyc scam incident in Varanasi.,Open
+422,KYC Scam,Uttar Pradesh,Varanasi,6748,49,Male,2023-01-07 00:00:00,Victim reported kyc scam incident in Varanasi.,Closed
+423,Online Shopping Fraud,Uttar Pradesh,Lucknow,40911,22,Male,2023-10-10 00:00:00,Victim reported online shopping fraud incident in Lucknow.,Under Investigation
+424,Credit Card Fraud,Uttar Pradesh,Varanasi,9853,25,Female,2023-06-25 00:00:00,Victim reported credit card fraud incident in Varanasi.,Closed
+425,Crypto Scam,Uttar Pradesh,Noida,12486,18,Male,2023-10-06 00:00:00,Victim reported crypto scam incident in Noida.,Open
+426,Phishing,Uttar Pradesh,Varanasi,48996,47,Male,2023-07-08 00:00:00,Victim reported phishing incident in Varanasi.,Closed
+427,Identity Theft,Uttar Pradesh,Lucknow,48331,20,Male,2023-06-14 00:00:00,Victim reported identity theft incident in Lucknow.,Closed
+428,Social Media Hack,Uttar Pradesh,Lucknow,42003,25,Female,2023-04-01 00:00:00,Victim reported social media hack incident in Lucknow.,Closed
+429,KYC Scam,Uttar Pradesh,Noida,38531,41,Male,2023-09-25 00:00:00,Victim reported kyc scam incident in Noida.,Open
+430,Crypto Scam,Uttar Pradesh,Lucknow,21658,18,Female,2023-02-17 00:00:00,Victim reported crypto scam incident in Lucknow.,Closed
+431,Crypto Scam,Uttar Pradesh,Varanasi,36740,35,Female,2023-12-07 00:00:00,Victim reported crypto scam incident in Varanasi.,Closed
+432,Crypto Scam,Uttar Pradesh,Varanasi,30934,29,Male,2023-01-17 00:00:00,Victim reported crypto scam incident in Varanasi.,Open
+433,Crypto Scam,Uttar Pradesh,Varanasi,21483,25,Female,2023-11-25 00:00:00,Victim reported crypto scam incident in Varanasi.,Open
+434,Online Shopping Fraud,Uttar Pradesh,Lucknow,17660,27,Female,2023-12-03 00:00:00,Victim reported online shopping fraud incident in Lucknow.,Closed
+435,Credit Card Fraud,Uttar Pradesh,Varanasi,39985,43,Female,2023-04-19 00:00:00,Victim reported credit card fraud incident in Varanasi.,Closed
+436,UPI Fraud,Uttar Pradesh,Noida,33951,51,Female,2023-08-04 00:00:00,Victim reported upi fraud incident in Noida.,Under Investigation
+437,Phishing,Uttar Pradesh,Varanasi,17131,58,Female,2023-03-29 00:00:00,Victim reported phishing incident in Varanasi.,Closed
+438,Loan Scam,Uttar Pradesh,Lucknow,33451,33,Female,2023-12-11 00:00:00,Victim reported loan scam incident in Lucknow.,Closed
+439,UPI Fraud,Uttar Pradesh,Noida,28575,53,Male,2023-08-24 00:00:00,Victim reported upi fraud incident in Noida.,Closed
+440,Loan Scam,Uttar Pradesh,Varanasi,45432,40,Female,2023-10-12 00:00:00,Victim reported loan scam incident in Varanasi.,Under Investigation
+441,Crypto Scam,Uttar Pradesh,Varanasi,40557,54,Female,2023-08-10 00:00:00,Victim reported crypto scam incident in Varanasi.,Under Investigation
+442,Credit Card Fraud,Uttar Pradesh,Varanasi,36670,28,Female,2023-11-21 00:00:00,Victim reported credit card fraud incident in Varanasi.,Closed
+443,Identity Theft,Uttar Pradesh,Lucknow,9901,23,Male,2023-07-05 00:00:00,Victim reported identity theft incident in Lucknow.,Open
+444,Job Scam,Uttar Pradesh,Varanasi,5153,38,Female,2023-07-09 00:00:00,Victim reported job scam incident in Varanasi.,Open
+445,Online Shopping Fraud,Uttar Pradesh,Lucknow,25102,53,Female,2023-11-07 00:00:00,Victim reported online shopping fraud incident in Lucknow.,Closed
+446,UPI Fraud,Uttar Pradesh,Lucknow,30927,45,Female,2023-07-07 00:00:00,Victim reported upi fraud incident in Lucknow.,Open
+447,UPI Fraud,Uttar Pradesh,Lucknow,16504,44,Female,2023-01-01 00:00:00,Victim reported upi fraud incident in Lucknow.,Under Investigation
+448,Crypto Scam,Uttar Pradesh,Varanasi,44474,54,Female,2023-02-08 00:00:00,Victim reported crypto scam incident in Varanasi.,Open
+449,UPI Fraud,Uttar Pradesh,Lucknow,32087,54,Male,2023-08-05 00:00:00,Victim reported upi fraud incident in Lucknow.,Open
+450,Phishing,Uttar Pradesh,Noida,27483,52,Female,2023-06-12 00:00:00,Victim reported phishing incident in Noida.,Open
+451,Crypto Scam,Uttar Pradesh,Varanasi,45862,48,Female,2023-01-09 00:00:00,Victim reported crypto scam incident in Varanasi.,Closed
+452,Job Scam,Uttar Pradesh,Varanasi,16185,23,Male,2023-11-15 00:00:00,Victim reported job scam incident in Varanasi.,Open
+453,Phishing,Uttar Pradesh,Lucknow,42312,19,Female,2023-02-10 00:00:00,Victim reported phishing incident in Lucknow.,Under Investigation
+454,Social Media Hack,Uttar Pradesh,Varanasi,2126,51,Male,2023-01-20 00:00:00,Victim reported social media hack incident in Varanasi.,Under Investigation
+455,Credit Card Fraud,Uttar Pradesh,Lucknow,1470,57,Male,2023-11-01 00:00:00,Victim reported credit card fraud incident in Lucknow.,Under Investigation
+456,Credit Card Fraud,Uttar Pradesh,Varanasi,31510,47,Male,2023-04-04 00:00:00,Victim reported credit card fraud incident in Varanasi.,Closed
+457,Loan Scam,Uttar Pradesh,Noida,25879,29,Male,2023-01-14 00:00:00,Victim reported loan scam incident in Noida.,Under Investigation
+458,Crypto Scam,Uttar Pradesh,Varanasi,15105,27,Male,2023-12-16 00:00:00,Victim reported crypto scam incident in Varanasi.,Open
+459,Social Media Hack,Uttar Pradesh,Varanasi,12437,29,Female,2024-01-01 00:00:00,Victim reported social media hack incident in Varanasi.,Under Investigation
+460,Social Media Hack,Uttar Pradesh,Varanasi,48620,51,Male,2023-01-08 00:00:00,Victim reported social media hack incident in Varanasi.,Under Investigation
+461,UPI Fraud,Uttar Pradesh,Lucknow,25151,45,Male,2023-03-16 00:00:00,Victim reported upi fraud incident in Lucknow.,Under Investigation
+462,Social Media Hack,Uttar Pradesh,Varanasi,43361,41,Female,2023-06-03 00:00:00,Victim reported social media hack incident in Varanasi.,Closed
+463,Phishing,Karnataka,Mangalore,49689,48,Female,2023-05-26 00:00:00,Victim reported phishing incident in Mangalore.,Closed
+464,Social Media Hack,Karnataka,Bengaluru,14351,31,Female,2023-05-04 00:00:00,Victim reported social media hack incident in Bengaluru.,Under Investigation
+465,Credit Card Fraud,Karnataka,Mangalore,38485,60,Male,2023-07-25 00:00:00,Victim reported credit card fraud incident in Mangalore.,Open
+466,Social Media Hack,Karnataka,Mysuru,24753,55,Female,2023-11-21 00:00:00,Victim reported social media hack incident in Mysuru.,Closed
+467,Loan Scam,Karnataka,Bengaluru,44622,20,Female,2023-12-02 00:00:00,Victim reported loan scam incident in Bengaluru.,Open
+468,Crypto Scam,Karnataka,Bengaluru,20167,56,Female,2023-01-21 00:00:00,Victim reported crypto scam incident in Bengaluru.,Closed
+469,Phishing,Karnataka,Mangalore,17835,42,Female,2023-03-04 00:00:00,Victim reported phishing incident in Mangalore.,Closed
+470,Identity Theft,Karnataka,Bengaluru,40172,37,Female,2023-10-26 00:00:00,Victim reported identity theft incident in Bengaluru.,Under Investigation
+471,Online Shopping Fraud,Karnataka,Mangalore,13545,18,Female,2023-07-20 00:00:00,Victim reported online shopping fraud incident in Mangalore.,Open
+472,UPI Fraud,Karnataka,Mangalore,48531,50,Male,2023-12-08 00:00:00,Victim reported upi fraud incident in Mangalore.,Open
+473,Credit Card Fraud,Karnataka,Mangalore,43300,34,Male,2023-05-12 00:00:00,Victim reported credit card fraud incident in Mangalore.,Under Investigation
+474,Social Media Hack,Karnataka,Mangalore,20146,19,Female,2023-01-13 00:00:00,Victim reported social media hack incident in Mangalore.,Closed
+475,Loan Scam,Karnataka,Mangalore,37985,50,Male,2023-07-10 00:00:00,Victim reported loan scam incident in Mangalore.,Under Investigation
+476,UPI Fraud,Karnataka,Bengaluru,41324,47,Male,2023-01-12 00:00:00,Victim reported upi fraud incident in Bengaluru.,Open
+477,Crypto Scam,Karnataka,Bengaluru,18113,47,Female,2023-09-05 00:00:00,Victim reported crypto scam incident in Bengaluru.,Under Investigation
+478,Credit Card Fraud,Karnataka,Mysuru,20892,32,Female,2023-07-14 00:00:00,Victim reported credit card fraud incident in Mysuru.,Closed
+479,UPI Fraud,Karnataka,Mangalore,49012,28,Male,2023-05-18 00:00:00,Victim reported upi fraud incident in Mangalore.,Closed
+480,UPI Fraud,Karnataka,Mysuru,44580,48,Female,2023-10-03 00:00:00,Victim reported upi fraud incident in Mysuru.,Closed
+481,Crypto Scam,Karnataka,Bengaluru,5418,29,Female,2023-03-03 00:00:00,Victim reported crypto scam incident in Bengaluru.,Open
+482,Loan Scam,Karnataka,Bengaluru,30781,60,Male,2023-04-29 00:00:00,Victim reported loan scam incident in Bengaluru.,Under Investigation
+483,Crypto Scam,Karnataka,Mangalore,26587,24,Female,2023-02-10 00:00:00,Victim reported crypto scam incident in Mangalore.,Closed
+484,Job Scam,Karnataka,Bengaluru,21976,37,Female,2023-05-28 00:00:00,Victim reported job scam incident in Bengaluru.,Closed
+485,Job Scam,Karnataka,Mysuru,27483,26,Male,2023-06-22 00:00:00,Victim reported job scam incident in Mysuru.,Closed
+486,Social Media Hack,Karnataka,Bengaluru,18981,38,Male,2023-01-18 00:00:00,Victim reported social media hack incident in Bengaluru.,Open
+487,Crypto Scam,Karnataka,Bengaluru,37044,25,Female,2023-08-23 00:00:00,Victim reported crypto scam incident in Bengaluru.,Closed
+488,Social Media Hack,Karnataka,Bengaluru,16416,53,Female,2023-12-18 00:00:00,Victim reported social media hack incident in Bengaluru.,Under Investigation
+489,Social Media Hack,Karnataka,Mangalore,14166,42,Male,2023-02-14 00:00:00,Victim reported social media hack incident in Mangalore.,Open
+490,KYC Scam,Karnataka,Mysuru,45236,37,Female,2023-05-07 00:00:00,Victim reported kyc scam incident in Mysuru.,Open
+491,Crypto Scam,Karnataka,Mangalore,41129,50,Male,2023-05-28 00:00:00,Victim reported crypto scam incident in Mangalore.,Open
+492,UPI Fraud,Karnataka,Mangalore,32373,21,Female,2023-03-27 00:00:00,Victim reported upi fraud incident in Mangalore.,Open
+493,Job Scam,Karnataka,Mangalore,35836,25,Female,2023-07-15 00:00:00,Victim reported job scam incident in Mangalore.,Open
+494,Loan Scam,Karnataka,Mysuru,15672,42,Male,2023-08-02 00:00:00,Victim reported loan scam incident in Mysuru.,Under Investigation
+495,Credit Card Fraud,Karnataka,Mysuru,44283,40,Female,2023-11-10 00:00:00,Victim reported credit card fraud incident in Mysuru.,Under Investigation
+496,Loan Scam,Karnataka,Bengaluru,25247,22,Male,2023-10-13 00:00:00,Victim reported loan scam incident in Bengaluru.,Under Investigation
+497,Phishing,Karnataka,Bengaluru,41832,37,Male,2023-09-07 00:00:00,Victim reported phishing incident in Bengaluru.,Closed
+498,KYC Scam,Karnataka,Bengaluru,4350,19,Female,2023-03-15 00:00:00,Victim reported kyc scam incident in Bengaluru.,Open
+499,Phishing,Karnataka,Mysuru,13877,45,Male,2023-07-28 00:00:00,Victim reported phishing incident in Mysuru.,Closed
+500,Job Scam,Karnataka,Mysuru,1896,28,Female,2023-02-21 00:00:00,Victim reported job scam incident in Mysuru.,Under Investigation
+501,Identity Theft,Karnataka,Mangalore,47159,23,Female,2023-07-29 00:00:00,Victim reported identity theft incident in Mangalore.,Under Investigation
+502,KYC Scam,Karnataka,Mangalore,14655,27,Female,2023-10-19 00:00:00,Victim reported kyc scam incident in Mangalore.,Closed
+503,Identity Theft,Karnataka,Mysuru,17809,53,Female,2023-09-21 00:00:00,Victim reported identity theft incident in Mysuru.,Under Investigation
+504,Identity Theft,Karnataka,Mangalore,45374,31,Male,2023-01-26 00:00:00,Victim reported identity theft incident in Mangalore.,Open
+505,Loan Scam,Karnataka,Bengaluru,3717,46,Female,2023-11-12 00:00:00,Victim reported loan scam incident in Bengaluru.,Under Investigation
+506,Online Shopping Fraud,Karnataka,Bengaluru,25905,41,Female,2023-08-18 00:00:00,Victim reported online shopping fraud incident in Bengaluru.,Under Investigation
+507,Social Media Hack,Karnataka,Mangalore,21973,44,Female,2023-04-28 00:00:00,Victim reported social media hack incident in Mangalore.,Under Investigation
+508,Credit Card Fraud,Karnataka,Mysuru,24031,35,Female,2023-05-10 00:00:00,Victim reported credit card fraud incident in Mysuru.,Closed
+509,Social Media Hack,Karnataka,Mangalore,9206,60,Female,2023-11-06 00:00:00,Victim reported social media hack incident in Mangalore.,Closed
+510,Social Media Hack,Karnataka,Mysuru,8747,20,Male,2023-03-29 00:00:00,Victim reported social media hack incident in Mysuru.,Closed
+511,Credit Card Fraud,Karnataka,Mangalore,7212,18,Male,2023-10-20 00:00:00,Victim reported credit card fraud incident in Mangalore.,Open
+512,Loan Scam,Karnataka,Bengaluru,47868,50,Male,2023-03-04 00:00:00,Victim reported loan scam incident in Bengaluru.,Under Investigation
+513,Online Shopping Fraud,Karnataka,Mangalore,49427,54,Male,2023-09-04 00:00:00,Victim reported online shopping fraud incident in Mangalore.,Under Investigation
+514,Loan Scam,Karnataka,Bengaluru,39672,21,Female,2023-02-02 00:00:00,Victim reported loan scam incident in Bengaluru.,Under Investigation
+515,Loan Scam,Karnataka,Mysuru,22936,25,Female,2023-12-04 00:00:00,Victim reported loan scam incident in Mysuru.,Under Investigation
+516,Identity Theft,Karnataka,Mysuru,10890,19,Female,2023-05-20 00:00:00,Victim reported identity theft incident in Mysuru.,Closed
+517,UPI Fraud,Karnataka,Bengaluru,20702,49,Male,2023-06-25 00:00:00,Victim reported upi fraud incident in Bengaluru.,Closed
+518,Crypto Scam,Karnataka,Mysuru,14879,57,Male,2023-02-28 00:00:00,Victim reported crypto scam incident in Mysuru.,Open
+519,Social Media Hack,Karnataka,Mysuru,25851,20,Female,2023-10-09 00:00:00,Victim reported social media hack incident in Mysuru.,Under Investigation
+520,Job Scam,Karnataka,Mangalore,10674,22,Female,2023-02-28 00:00:00,Victim reported job scam incident in Mangalore.,Open
+521,Job Scam,Karnataka,Mangalore,8859,30,Male,2023-05-14 00:00:00,Victim reported job scam incident in Mangalore.,Open
+522,Phishing,Karnataka,Mangalore,48371,42,Female,2023-01-30 00:00:00,Victim reported phishing incident in Mangalore.,Under Investigation
+523,Phishing,Karnataka,Bengaluru,47338,34,Female,2023-09-15 00:00:00,Victim reported phishing incident in Bengaluru.,Closed
+524,Phishing,Karnataka,Bengaluru,7638,36,Female,2023-04-10 00:00:00,Victim reported phishing incident in Bengaluru.,Closed
+525,Online Shopping Fraud,Karnataka,Bengaluru,15315,44,Male,2023-09-06 00:00:00,Victim reported online shopping fraud incident in Bengaluru.,Closed
+526,Online Shopping Fraud,Karnataka,Mangalore,16282,52,Female,2023-09-04 00:00:00,Victim reported online shopping fraud incident in Mangalore.,Closed
+527,Online Shopping Fraud,Karnataka,Mysuru,45245,40,Male,2023-02-12 00:00:00,Victim reported online shopping fraud incident in Mysuru.,Closed
+528,Crypto Scam,Karnataka,Mysuru,16595,31,Male,2023-11-13 00:00:00,Victim reported crypto scam incident in Mysuru.,Under Investigation
+529,Social Media Hack,Karnataka,Bengaluru,42513,39,Male,2023-12-17 00:00:00,Victim reported social media hack incident in Bengaluru.,Under Investigation
+530,Loan Scam,Karnataka,Mangalore,18867,51,Male,2023-04-18 00:00:00,Victim reported loan scam incident in Mangalore.,Closed
+531,Online Shopping Fraud,Karnataka,Bengaluru,3425,60,Female,2023-04-11 00:00:00,Victim reported online shopping fraud incident in Bengaluru.,Under Investigation
+532,Crypto Scam,Karnataka,Mangalore,36556,55,Female,2023-07-30 00:00:00,Victim reported crypto scam incident in Mangalore.,Under Investigation
+533,Job Scam,Karnataka,Mangalore,30849,48,Female,2023-06-18 00:00:00,Victim reported job scam incident in Mangalore.,Closed
+534,Credit Card Fraud,Karnataka,Mysuru,1707,42,Female,2023-06-13 00:00:00,Victim reported credit card fraud incident in Mysuru.,Under Investigation
+535,KYC Scam,Karnataka,Bengaluru,1423,44,Female,2023-07-05 00:00:00,Victim reported kyc scam incident in Bengaluru.,Open
+536,KYC Scam,Karnataka,Mysuru,43204,59,Female,2023-10-27 00:00:00,Victim reported kyc scam incident in Mysuru.,Under Investigation
+537,Crypto Scam,Karnataka,Mangalore,1040,57,Male,2023-01-17 00:00:00,Victim reported crypto scam incident in Mangalore.,Closed
+538,Online Shopping Fraud,Karnataka,Mangalore,20884,27,Male,2023-04-09 00:00:00,Victim reported online shopping fraud incident in Mangalore.,Open
+539,Credit Card Fraud,Karnataka,Mangalore,27395,21,Male,2023-12-07 00:00:00,Victim reported credit card fraud incident in Mangalore.,Under Investigation
+540,Phishing,Karnataka,Mysuru,30717,22,Male,2023-11-30 00:00:00,Victim reported phishing incident in Mysuru.,Under Investigation
+541,UPI Fraud,Karnataka,Mysuru,44035,23,Male,2023-01-08 00:00:00,Victim reported upi fraud incident in Mysuru.,Closed
+542,Phishing,Karnataka,Mangalore,45526,28,Male,2023-10-02 00:00:00,Victim reported phishing incident in Mangalore.,Under Investigation
+543,Online Shopping Fraud,Karnataka,Mysuru,3789,51,Male,2023-10-09 00:00:00,Victim reported online shopping fraud incident in Mysuru.,Closed
+544,Online Shopping Fraud,Karnataka,Mangalore,48234,44,Female,2023-12-10 00:00:00,Victim reported online shopping fraud incident in Mangalore.,Under Investigation
+545,Crypto Scam,Karnataka,Bengaluru,6814,41,Male,2023-12-25 00:00:00,Victim reported crypto scam incident in Bengaluru.,Under Investigation
+546,Credit Card Fraud,Karnataka,Bengaluru,20542,46,Male,2023-07-18 00:00:00,Victim reported credit card fraud incident in Bengaluru.,Under Investigation
+547,Identity Theft,Karnataka,Mangalore,27496,25,Male,2023-02-19 00:00:00,Victim reported identity theft incident in Mangalore.,Closed
+548,Crypto Scam,Karnataka,Bengaluru,28129,44,Female,2023-03-04 00:00:00,Victim reported crypto scam incident in Bengaluru.,Open
+549,Crypto Scam,Karnataka,Mangalore,10273,31,Female,2023-10-03 00:00:00,Victim reported crypto scam incident in Mangalore.,Open
+550,Phishing,Karnataka,Bengaluru,6224,29,Female,2023-08-26 00:00:00,Victim reported phishing incident in Bengaluru.,Under Investigation
+551,Loan Scam,Karnataka,Mangalore,11151,56,Male,2023-01-03 00:00:00,Victim reported loan scam incident in Mangalore.,Closed
+552,UPI Fraud,Karnataka,Bengaluru,43381,40,Female,2023-06-15 00:00:00,Victim reported upi fraud incident in Bengaluru.,Closed
+553,UPI Fraud,Karnataka,Mangalore,16995,50,Female,2023-07-29 00:00:00,Victim reported upi fraud incident in Mangalore.,Open
+554,KYC Scam,Karnataka,Mysuru,8110,26,Male,2023-12-05 00:00:00,Victim reported kyc scam incident in Mysuru.,Under Investigation
+555,Credit Card Fraud,Karnataka,Mysuru,39808,28,Male,2023-04-19 00:00:00,Victim reported credit card fraud incident in Mysuru.,Under Investigation
+556,Job Scam,Karnataka,Mangalore,7664,44,Female,2023-05-17 00:00:00,Victim reported job scam incident in Mangalore.,Under Investigation
+557,KYC Scam,Karnataka,Mangalore,30037,22,Female,2023-05-17 00:00:00,Victim reported kyc scam incident in Mangalore.,Open
+558,Loan Scam,Karnataka,Mysuru,8908,54,Male,2023-09-12 00:00:00,Victim reported loan scam incident in Mysuru.,Under Investigation
+559,KYC Scam,Karnataka,Mysuru,42698,45,Female,2023-02-27 00:00:00,Victim reported kyc scam incident in Mysuru.,Under Investigation
+560,Crypto Scam,Karnataka,Bengaluru,4360,60,Male,2023-05-23 00:00:00,Victim reported crypto scam incident in Bengaluru.,Open
+561,Identity Theft,Karnataka,Mysuru,49363,39,Male,2023-04-15 00:00:00,Victim reported identity theft incident in Mysuru.,Open
+562,Loan Scam,Karnataka,Bengaluru,41319,32,Male,2023-11-21 00:00:00,Victim reported loan scam incident in Bengaluru.,Closed
+563,UPI Fraud,Karnataka,Bengaluru,24040,34,Male,2023-11-19 00:00:00,Victim reported upi fraud incident in Bengaluru.,Open
+564,Job Scam,Karnataka,Mangalore,14670,21,Female,2023-07-13 00:00:00,Victim reported job scam incident in Mangalore.,Under Investigation
+565,Loan Scam,Karnataka,Mangalore,11554,58,Female,2023-10-23 00:00:00,Victim reported loan scam incident in Mangalore.,Open
+566,Identity Theft,Karnataka,Mangalore,24681,59,Female,2023-11-15 00:00:00,Victim reported identity theft incident in Mangalore.,Closed
+567,Credit Card Fraud,Karnataka,Bengaluru,4655,41,Female,2023-01-01 00:00:00,Victim reported credit card fraud incident in Bengaluru.,Closed
+568,Phishing,Karnataka,Bengaluru,19058,22,Male,2023-11-14 00:00:00,Victim reported phishing incident in Bengaluru.,Closed
+569,Online Shopping Fraud,Karnataka,Mysuru,32117,42,Female,2023-07-14 00:00:00,Victim reported online shopping fraud incident in Mysuru.,Under Investigation
+570,Social Media Hack,Karnataka,Mysuru,9644,19,Female,2023-02-21 00:00:00,Victim reported social media hack incident in Mysuru.,Closed
+571,Identity Theft,Karnataka,Mangalore,35087,27,Female,2023-03-12 00:00:00,Victim reported identity theft incident in Mangalore.,Closed
+572,Job Scam,Karnataka,Bengaluru,44146,22,Female,2023-02-17 00:00:00,Victim reported job scam incident in Bengaluru.,Open
+573,UPI Fraud,Karnataka,Bengaluru,26536,44,Male,2023-09-11 00:00:00,Victim reported upi fraud incident in Bengaluru.,Closed
+574,Crypto Scam,Karnataka,Mysuru,12638,44,Male,2023-03-21 00:00:00,Victim reported crypto scam incident in Mysuru.,Closed
+575,Online Shopping Fraud,Karnataka,Mangalore,8263,19,Male,2023-08-19 00:00:00,Victim reported online shopping fraud incident in Mangalore.,Under Investigation
+576,Credit Card Fraud,Karnataka,Bengaluru,30247,46,Female,2023-05-08 00:00:00,Victim reported credit card fraud incident in Bengaluru.,Open
+577,Credit Card Fraud,Karnataka,Bengaluru,19855,45,Male,2023-08-10 00:00:00,Victim reported credit card fraud incident in Bengaluru.,Open
+578,Identity Theft,Karnataka,Bengaluru,29491,41,Female,2023-02-21 00:00:00,Victim reported identity theft incident in Bengaluru.,Under Investigation
+579,KYC Scam,Karnataka,Mysuru,1895,41,Male,2023-05-25 00:00:00,Victim reported kyc scam incident in Mysuru.,Open
+580,Credit Card Fraud,Karnataka,Bengaluru,35367,50,Male,2023-09-15 00:00:00,Victim reported credit card fraud incident in Bengaluru.,Under Investigation
+581,UPI Fraud,Karnataka,Mangalore,46967,59,Male,2023-12-30 00:00:00,Victim reported upi fraud incident in Mangalore.,Under Investigation
+582,KYC Scam,Karnataka,Bengaluru,9152,40,Female,2023-04-11 00:00:00,Victim reported kyc scam incident in Bengaluru.,Under Investigation
+583,UPI Fraud,Karnataka,Mysuru,26482,49,Male,2023-05-19 00:00:00,Victim reported upi fraud incident in Mysuru.,Closed
+584,Identity Theft,Karnataka,Mangalore,29210,37,Female,2023-12-22 00:00:00,Victim reported identity theft incident in Mangalore.,Open
+585,Phishing,Karnataka,Mangalore,33021,30,Female,2023-10-16 00:00:00,Victim reported phishing incident in Mangalore.,Open
+586,Job Scam,Karnataka,Mysuru,30917,31,Male,2023-11-06 00:00:00,Victim reported job scam incident in Mysuru.,Open
+587,KYC Scam,Karnataka,Bengaluru,16612,56,Female,2023-12-21 00:00:00,Victim reported kyc scam incident in Bengaluru.,Closed
+588,Online Shopping Fraud,Karnataka,Mysuru,1969,44,Male,2023-07-20 00:00:00,Victim reported online shopping fraud incident in Mysuru.,Open
+589,UPI Fraud,Karnataka,Mangalore,34400,41,Male,2023-04-22 00:00:00,Victim reported upi fraud incident in Mangalore.,Under Investigation
+590,Social Media Hack,Karnataka,Mangalore,15210,56,Male,2023-11-02 00:00:00,Victim reported social media hack incident in Mangalore.,Closed
+591,Online Shopping Fraud,Karnataka,Bengaluru,16496,42,Female,2023-01-24 00:00:00,Victim reported online shopping fraud incident in Bengaluru.,Under Investigation
+592,Job Scam,Karnataka,Bengaluru,27080,41,Female,2024-01-01 00:00:00,Victim reported job scam incident in Bengaluru.,Open
+593,KYC Scam,Karnataka,Mysuru,23091,22,Male,2023-05-04 00:00:00,Victim reported kyc scam incident in Mysuru.,Open
+594,Identity Theft,Karnataka,Mangalore,9662,57,Female,2023-04-16 00:00:00,Victim reported identity theft incident in Mangalore.,Under Investigation
+595,Identity Theft,Karnataka,Mangalore,9881,20,Male,2023-08-20 00:00:00,Victim reported identity theft incident in Mangalore.,Open
+596,Social Media Hack,Karnataka,Bengaluru,10634,55,Male,2023-10-15 00:00:00,Victim reported social media hack incident in Bengaluru.,Closed
+597,Identity Theft,Karnataka,Bengaluru,24242,27,Female,2023-10-09 00:00:00,Victim reported identity theft incident in Bengaluru.,Closed
+598,Phishing,Karnataka,Mysuru,35252,60,Male,2023-06-19 00:00:00,Victim reported phishing incident in Mysuru.,Open
+599,KYC Scam,Karnataka,Bengaluru,37404,44,Female,2023-04-21 00:00:00,Victim reported kyc scam incident in Bengaluru.,Closed
+600,KYC Scam,Karnataka,Mangalore,5738,53,Female,2023-01-27 00:00:00,Victim reported kyc scam incident in Mangalore.,Closed
+601,Credit Card Fraud,Karnataka,Mysuru,29167,20,Female,2023-04-14 00:00:00,Victim reported credit card fraud incident in Mysuru.,Closed
+602,Phishing,Karnataka,Mangalore,39496,53,Female,2023-07-19 00:00:00,Victim reported phishing incident in Mangalore.,Closed
+603,Online Shopping Fraud,Karnataka,Mysuru,26812,33,Male,2023-05-28 00:00:00,Victim reported online shopping fraud incident in Mysuru.,Open
+604,Phishing,Karnataka,Bengaluru,10723,20,Male,2023-07-23 00:00:00,Victim reported phishing incident in Bengaluru.,Open
+605,Job Scam,Karnataka,Mysuru,27044,50,Female,2023-03-26 00:00:00,Victim reported job scam incident in Mysuru.,Open
+606,Phishing,Karnataka,Bengaluru,33669,36,Female,2023-11-23 00:00:00,Victim reported phishing incident in Bengaluru.,Open
+607,Phishing,Karnataka,Mysuru,18560,27,Female,2023-01-29 00:00:00,Victim reported phishing incident in Mysuru.,Closed
+608,Social Media Hack,Karnataka,Mangalore,23031,50,Male,2023-12-29 00:00:00,Victim reported social media hack incident in Mangalore.,Under Investigation
+609,Online Shopping Fraud,Karnataka,Mangalore,18000,59,Male,2023-01-19 00:00:00,Victim reported online shopping fraud incident in Mangalore.,Closed
+610,Phishing,Karnataka,Mysuru,10885,20,Female,2023-12-14 00:00:00,Victim reported phishing incident in Mysuru.,Open
+611,KYC Scam,Karnataka,Mysuru,1560,52,Female,2023-01-27 00:00:00,Victim reported kyc scam incident in Mysuru.,Under Investigation
+612,Identity Theft,Karnataka,Bengaluru,17419,28,Male,2023-08-26 00:00:00,Victim reported identity theft incident in Bengaluru.,Under Investigation
+613,UPI Fraud,Karnataka,Mysuru,26814,25,Female,2023-01-07 00:00:00,Victim reported upi fraud incident in Mysuru.,Open
+614,Job Scam,Karnataka,Mysuru,3577,32,Male,2023-10-14 00:00:00,Victim reported job scam incident in Mysuru.,Open
+615,KYC Scam,Karnataka,Mangalore,6469,20,Male,2023-10-23 00:00:00,Victim reported kyc scam incident in Mangalore.,Under Investigation
+616,Loan Scam,Karnataka,Mangalore,18474,33,Female,2023-01-23 00:00:00,Victim reported loan scam incident in Mangalore.,Open
+617,Crypto Scam,Karnataka,Bengaluru,31870,20,Female,2023-11-03 00:00:00,Victim reported crypto scam incident in Bengaluru.,Under Investigation
+618,UPI Fraud,Karnataka,Bengaluru,6201,20,Male,2023-09-01 00:00:00,Victim reported upi fraud incident in Bengaluru.,Under Investigation
+619,UPI Fraud,Karnataka,Mysuru,9868,18,Female,2023-04-02 00:00:00,Victim reported upi fraud incident in Mysuru.,Under Investigation
+620,Job Scam,Karnataka,Mysuru,12879,19,Male,2023-08-29 00:00:00,Victim reported job scam incident in Mysuru.,Under Investigation
+621,Credit Card Fraud,Karnataka,Bengaluru,34648,57,Male,2023-03-04 00:00:00,Victim reported credit card fraud incident in Bengaluru.,Open
+622,Loan Scam,Karnataka,Bengaluru,31525,24,Male,2023-11-24 00:00:00,Victim reported loan scam incident in Bengaluru.,Closed
+623,Online Shopping Fraud,Karnataka,Mangalore,4765,29,Male,2023-10-19 00:00:00,Victim reported online shopping fraud incident in Mangalore.,Under Investigation
+624,Crypto Scam,Karnataka,Bengaluru,2743,43,Female,2023-01-10 00:00:00,Victim reported crypto scam incident in Bengaluru.,Closed
+625,UPI Fraud,Karnataka,Mangalore,7329,29,Female,2023-04-26 00:00:00,Victim reported upi fraud incident in Mangalore.,Closed
+626,Credit Card Fraud,Karnataka,Mangalore,42389,47,Female,2023-11-09 00:00:00,Victim reported credit card fraud incident in Mangalore.,Under Investigation
+627,Online Shopping Fraud,Karnataka,Mangalore,4173,38,Female,2023-02-25 00:00:00,Victim reported online shopping fraud incident in Mangalore.,Open
+628,Identity Theft,Karnataka,Bengaluru,8496,42,Female,2023-04-08 00:00:00,Victim reported identity theft incident in Bengaluru.,Open
+629,Job Scam,Karnataka,Mysuru,49040,30,Female,2023-10-06 00:00:00,Victim reported job scam incident in Mysuru.,Under Investigation
+630,Online Shopping Fraud,Karnataka,Mangalore,16542,46,Male,2023-01-21 00:00:00,Victim reported online shopping fraud incident in Mangalore.,Closed
+631,Loan Scam,Delhi,New Delhi,3832,20,Female,2023-08-21 00:00:00,Victim reported loan scam incident in New Delhi.,Under Investigation
+632,Identity Theft,Delhi,New Delhi,557,26,Female,2023-05-11 00:00:00,Victim reported identity theft incident in New Delhi.,Under Investigation
+633,UPI Fraud,Delhi,New Delhi,14466,38,Male,2023-02-10 00:00:00,Victim reported upi fraud incident in New Delhi.,Closed
+634,Identity Theft,Delhi,New Delhi,4350,32,Female,2023-01-21 00:00:00,Victim reported identity theft incident in New Delhi.,Under Investigation
+635,Credit Card Fraud,Delhi,New Delhi,15496,19,Female,2023-10-05 00:00:00,Victim reported credit card fraud incident in New Delhi.,Under Investigation
+636,Phishing,Delhi,New Delhi,30730,47,Female,2023-07-04 00:00:00,Victim reported phishing incident in New Delhi.,Closed
+637,Identity Theft,Delhi,New Delhi,20174,45,Female,2023-04-12 00:00:00,Victim reported identity theft incident in New Delhi.,Under Investigation
+638,KYC Scam,Delhi,New Delhi,44082,36,Female,2023-07-14 00:00:00,Victim reported kyc scam incident in New Delhi.,Open
+639,Crypto Scam,Delhi,New Delhi,16794,18,Female,2023-09-17 00:00:00,Victim reported crypto scam incident in New Delhi.,Under Investigation
+640,Online Shopping Fraud,Delhi,New Delhi,4388,60,Female,2023-03-02 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Closed
+641,UPI Fraud,Delhi,New Delhi,41665,23,Male,2023-10-06 00:00:00,Victim reported upi fraud incident in New Delhi.,Closed
+642,Identity Theft,Delhi,New Delhi,2410,25,Male,2023-01-31 00:00:00,Victim reported identity theft incident in New Delhi.,Open
+643,Online Shopping Fraud,Delhi,New Delhi,10071,29,Female,2023-06-18 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Closed
+644,Job Scam,Delhi,New Delhi,11470,49,Male,2023-10-15 00:00:00,Victim reported job scam incident in New Delhi.,Open
+645,Phishing,Delhi,New Delhi,30062,43,Male,2023-08-22 00:00:00,Victim reported phishing incident in New Delhi.,Closed
+646,Phishing,Delhi,New Delhi,42013,36,Male,2023-02-16 00:00:00,Victim reported phishing incident in New Delhi.,Closed
+647,Crypto Scam,Delhi,New Delhi,6010,38,Male,2023-08-28 00:00:00,Victim reported crypto scam incident in New Delhi.,Closed
+648,Identity Theft,Delhi,New Delhi,23611,25,Female,2023-04-24 00:00:00,Victim reported identity theft incident in New Delhi.,Under Investigation
+649,Job Scam,Delhi,New Delhi,31469,35,Male,2023-04-21 00:00:00,Victim reported job scam incident in New Delhi.,Under Investigation
+650,Social Media Hack,Delhi,New Delhi,23370,25,Female,2023-04-02 00:00:00,Victim reported social media hack incident in New Delhi.,Under Investigation
+651,Loan Scam,Delhi,New Delhi,48563,18,Male,2023-12-19 00:00:00,Victim reported loan scam incident in New Delhi.,Open
+652,Online Shopping Fraud,Delhi,New Delhi,39742,21,Female,2023-01-04 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Open
+653,Job Scam,Delhi,New Delhi,41580,56,Male,2023-12-08 00:00:00,Victim reported job scam incident in New Delhi.,Closed
+654,Social Media Hack,Delhi,New Delhi,17513,58,Female,2023-12-03 00:00:00,Victim reported social media hack incident in New Delhi.,Open
+655,Social Media Hack,Delhi,New Delhi,5870,58,Female,2023-12-16 00:00:00,Victim reported social media hack incident in New Delhi.,Closed
+656,Social Media Hack,Delhi,New Delhi,5083,52,Female,2023-02-26 00:00:00,Victim reported social media hack incident in New Delhi.,Open
+657,Identity Theft,Delhi,New Delhi,9681,50,Male,2023-12-22 00:00:00,Victim reported identity theft incident in New Delhi.,Open
+658,UPI Fraud,Delhi,New Delhi,25049,51,Female,2023-12-19 00:00:00,Victim reported upi fraud incident in New Delhi.,Open
+659,Identity Theft,Delhi,New Delhi,16756,22,Female,2023-08-04 00:00:00,Victim reported identity theft incident in New Delhi.,Closed
+660,KYC Scam,Delhi,New Delhi,21666,28,Male,2023-08-08 00:00:00,Victim reported kyc scam incident in New Delhi.,Closed
+661,Social Media Hack,Delhi,New Delhi,6574,21,Female,2023-11-05 00:00:00,Victim reported social media hack incident in New Delhi.,Open
+662,KYC Scam,Delhi,New Delhi,31228,30,Female,2023-07-07 00:00:00,Victim reported kyc scam incident in New Delhi.,Under Investigation
+663,Credit Card Fraud,Delhi,New Delhi,38010,40,Female,2023-01-28 00:00:00,Victim reported credit card fraud incident in New Delhi.,Closed
+664,UPI Fraud,Delhi,New Delhi,44365,23,Female,2023-06-06 00:00:00,Victim reported upi fraud incident in New Delhi.,Under Investigation
+665,Loan Scam,Delhi,New Delhi,30331,47,Male,2023-11-09 00:00:00,Victim reported loan scam incident in New Delhi.,Under Investigation
+666,Social Media Hack,Delhi,New Delhi,29357,53,Female,2023-11-30 00:00:00,Victim reported social media hack incident in New Delhi.,Under Investigation
+667,Phishing,Delhi,New Delhi,25965,34,Male,2023-04-30 00:00:00,Victim reported phishing incident in New Delhi.,Under Investigation
+668,Job Scam,Delhi,New Delhi,6392,53,Female,2023-11-02 00:00:00,Victim reported job scam incident in New Delhi.,Open
+669,Online Shopping Fraud,Delhi,New Delhi,40528,22,Female,2023-08-16 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Open
+670,Job Scam,Delhi,New Delhi,24766,30,Female,2023-07-26 00:00:00,Victim reported job scam incident in New Delhi.,Closed
+671,Loan Scam,Delhi,New Delhi,12825,45,Male,2023-09-15 00:00:00,Victim reported loan scam incident in New Delhi.,Under Investigation
+672,UPI Fraud,Delhi,New Delhi,33742,45,Female,2023-02-23 00:00:00,Victim reported upi fraud incident in New Delhi.,Open
+673,KYC Scam,Delhi,New Delhi,8594,38,Male,2023-01-02 00:00:00,Victim reported kyc scam incident in New Delhi.,Closed
+674,Identity Theft,Delhi,New Delhi,30335,27,Male,2023-10-19 00:00:00,Victim reported identity theft incident in New Delhi.,Open
+675,Social Media Hack,Delhi,New Delhi,37303,55,Female,2023-10-13 00:00:00,Victim reported social media hack incident in New Delhi.,Closed
+676,Identity Theft,Delhi,New Delhi,2062,55,Female,2023-01-13 00:00:00,Victim reported identity theft incident in New Delhi.,Open
+677,Credit Card Fraud,Delhi,New Delhi,45546,34,Male,2023-01-20 00:00:00,Victim reported credit card fraud incident in New Delhi.,Open
+678,Phishing,Delhi,New Delhi,46373,48,Male,2023-03-18 00:00:00,Victim reported phishing incident in New Delhi.,Closed
+679,Loan Scam,Delhi,New Delhi,40511,26,Male,2023-09-20 00:00:00,Victim reported loan scam incident in New Delhi.,Open
+680,Crypto Scam,Delhi,New Delhi,24546,29,Male,2023-05-05 00:00:00,Victim reported crypto scam incident in New Delhi.,Open
+681,Phishing,Delhi,New Delhi,22725,56,Female,2023-02-25 00:00:00,Victim reported phishing incident in New Delhi.,Closed
+682,Credit Card Fraud,Delhi,New Delhi,32831,39,Female,2023-03-06 00:00:00,Victim reported credit card fraud incident in New Delhi.,Under Investigation
+683,Social Media Hack,Delhi,New Delhi,46623,25,Female,2023-01-21 00:00:00,Victim reported social media hack incident in New Delhi.,Closed
+684,Crypto Scam,Delhi,New Delhi,47416,59,Male,2023-06-23 00:00:00,Victim reported crypto scam incident in New Delhi.,Under Investigation
+685,KYC Scam,Delhi,New Delhi,48607,51,Female,2023-05-24 00:00:00,Victim reported kyc scam incident in New Delhi.,Open
+686,Crypto Scam,Delhi,New Delhi,4760,56,Male,2023-02-02 00:00:00,Victim reported crypto scam incident in New Delhi.,Open
+687,KYC Scam,Delhi,New Delhi,21009,57,Male,2023-07-01 00:00:00,Victim reported kyc scam incident in New Delhi.,Open
+688,Identity Theft,Delhi,New Delhi,35007,46,Male,2023-03-12 00:00:00,Victim reported identity theft incident in New Delhi.,Under Investigation
+689,Online Shopping Fraud,Delhi,New Delhi,43672,38,Female,2023-05-27 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Closed
+690,Social Media Hack,Delhi,New Delhi,33345,50,Male,2023-03-18 00:00:00,Victim reported social media hack incident in New Delhi.,Under Investigation
+691,Online Shopping Fraud,Delhi,New Delhi,30678,18,Male,2023-06-29 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Open
+692,UPI Fraud,Delhi,New Delhi,25391,41,Male,2023-07-11 00:00:00,Victim reported upi fraud incident in New Delhi.,Open
+693,Crypto Scam,Delhi,New Delhi,6890,34,Male,2023-09-30 00:00:00,Victim reported crypto scam incident in New Delhi.,Open
+694,Identity Theft,Delhi,New Delhi,26732,52,Male,2023-06-28 00:00:00,Victim reported identity theft incident in New Delhi.,Under Investigation
+695,KYC Scam,Delhi,New Delhi,19729,35,Male,2023-03-06 00:00:00,Victim reported kyc scam incident in New Delhi.,Closed
+696,Loan Scam,Delhi,New Delhi,1633,57,Male,2023-03-04 00:00:00,Victim reported loan scam incident in New Delhi.,Closed
+697,Credit Card Fraud,Delhi,New Delhi,13453,18,Male,2023-11-28 00:00:00,Victim reported credit card fraud incident in New Delhi.,Under Investigation
+698,Social Media Hack,Delhi,New Delhi,28060,45,Female,2023-09-15 00:00:00,Victim reported social media hack incident in New Delhi.,Open
+699,Identity Theft,Delhi,New Delhi,34210,60,Male,2023-01-26 00:00:00,Victim reported identity theft incident in New Delhi.,Open
+700,Social Media Hack,Delhi,New Delhi,31393,55,Female,2023-02-04 00:00:00,Victim reported social media hack incident in New Delhi.,Open
+701,Social Media Hack,Delhi,New Delhi,9326,52,Male,2023-04-20 00:00:00,Victim reported social media hack incident in New Delhi.,Closed
+702,Job Scam,Delhi,New Delhi,35136,33,Male,2023-03-09 00:00:00,Victim reported job scam incident in New Delhi.,Closed
+703,Phishing,Delhi,New Delhi,26020,42,Female,2023-09-03 00:00:00,Victim reported phishing incident in New Delhi.,Open
+704,Credit Card Fraud,Delhi,New Delhi,36724,43,Male,2023-02-28 00:00:00,Victim reported credit card fraud incident in New Delhi.,Under Investigation
+705,Crypto Scam,Delhi,New Delhi,16747,53,Male,2023-07-16 00:00:00,Victim reported crypto scam incident in New Delhi.,Closed
+706,Crypto Scam,Delhi,New Delhi,5099,34,Male,2023-01-09 00:00:00,Victim reported crypto scam incident in New Delhi.,Open
+707,Loan Scam,Delhi,New Delhi,34709,41,Female,2023-12-11 00:00:00,Victim reported loan scam incident in New Delhi.,Under Investigation
+708,Phishing,Delhi,New Delhi,8135,42,Female,2023-01-31 00:00:00,Victim reported phishing incident in New Delhi.,Under Investigation
+709,Loan Scam,Delhi,New Delhi,34577,24,Male,2023-11-18 00:00:00,Victim reported loan scam incident in New Delhi.,Open
+710,Online Shopping Fraud,Delhi,New Delhi,15341,50,Male,2023-05-01 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Under Investigation
+711,Credit Card Fraud,Delhi,New Delhi,34971,39,Male,2023-10-21 00:00:00,Victim reported credit card fraud incident in New Delhi.,Open
+712,Job Scam,Delhi,New Delhi,21778,51,Male,2023-04-14 00:00:00,Victim reported job scam incident in New Delhi.,Under Investigation
+713,Job Scam,Delhi,New Delhi,17700,32,Female,2023-03-27 00:00:00,Victim reported job scam incident in New Delhi.,Under Investigation
+714,Identity Theft,Delhi,New Delhi,13596,53,Male,2023-03-17 00:00:00,Victim reported identity theft incident in New Delhi.,Open
+715,Phishing,Delhi,New Delhi,3422,52,Female,2023-10-24 00:00:00,Victim reported phishing incident in New Delhi.,Open
+716,KYC Scam,Delhi,New Delhi,27764,39,Male,2023-09-26 00:00:00,Victim reported kyc scam incident in New Delhi.,Open
+717,Social Media Hack,Delhi,New Delhi,18585,60,Male,2023-12-30 00:00:00,Victim reported social media hack incident in New Delhi.,Open
+718,Job Scam,Delhi,New Delhi,30378,30,Female,2023-08-12 00:00:00,Victim reported job scam incident in New Delhi.,Open
+719,Loan Scam,Delhi,New Delhi,4821,31,Female,2023-09-20 00:00:00,Victim reported loan scam incident in New Delhi.,Open
+720,Social Media Hack,Delhi,New Delhi,39746,36,Male,2023-08-11 00:00:00,Victim reported social media hack incident in New Delhi.,Under Investigation
+721,Job Scam,Delhi,New Delhi,22548,30,Male,2023-05-31 00:00:00,Victim reported job scam incident in New Delhi.,Closed
+722,KYC Scam,Delhi,New Delhi,21990,34,Male,2023-04-18 00:00:00,Victim reported kyc scam incident in New Delhi.,Under Investigation
+723,Identity Theft,Delhi,New Delhi,17852,58,Female,2023-08-18 00:00:00,Victim reported identity theft incident in New Delhi.,Under Investigation
+724,KYC Scam,Delhi,New Delhi,19481,47,Male,2023-09-16 00:00:00,Victim reported kyc scam incident in New Delhi.,Open
+725,Loan Scam,Delhi,New Delhi,19419,39,Male,2023-05-25 00:00:00,Victim reported loan scam incident in New Delhi.,Under Investigation
+726,KYC Scam,Delhi,New Delhi,4746,23,Female,2023-01-06 00:00:00,Victim reported kyc scam incident in New Delhi.,Closed
+727,Credit Card Fraud,Delhi,New Delhi,23040,35,Male,2023-06-16 00:00:00,Victim reported credit card fraud incident in New Delhi.,Closed
+728,Social Media Hack,Delhi,New Delhi,13755,50,Female,2023-08-16 00:00:00,Victim reported social media hack incident in New Delhi.,Closed
+729,Phishing,Delhi,New Delhi,16324,44,Male,2023-03-06 00:00:00,Victim reported phishing incident in New Delhi.,Closed
+730,Online Shopping Fraud,Delhi,New Delhi,39028,53,Male,2023-02-11 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Under Investigation
+731,Loan Scam,Delhi,New Delhi,20972,22,Male,2023-07-31 00:00:00,Victim reported loan scam incident in New Delhi.,Under Investigation
+732,Crypto Scam,Delhi,New Delhi,5177,20,Male,2023-05-20 00:00:00,Victim reported crypto scam incident in New Delhi.,Closed
+733,Job Scam,Delhi,New Delhi,11208,51,Female,2023-07-01 00:00:00,Victim reported job scam incident in New Delhi.,Open
+734,Social Media Hack,Delhi,New Delhi,40337,56,Male,2023-07-07 00:00:00,Victim reported social media hack incident in New Delhi.,Open
+735,Credit Card Fraud,Delhi,New Delhi,8442,50,Male,2023-03-19 00:00:00,Victim reported credit card fraud incident in New Delhi.,Open
+736,Social Media Hack,Delhi,New Delhi,37358,28,Female,2023-04-21 00:00:00,Victim reported social media hack incident in New Delhi.,Open
+737,Identity Theft,Delhi,New Delhi,17201,31,Female,2023-11-13 00:00:00,Victim reported identity theft incident in New Delhi.,Closed
+738,Credit Card Fraud,Delhi,New Delhi,15544,33,Female,2023-02-07 00:00:00,Victim reported credit card fraud incident in New Delhi.,Open
+739,Identity Theft,Delhi,New Delhi,24312,26,Female,2023-04-13 00:00:00,Victim reported identity theft incident in New Delhi.,Open
+740,Online Shopping Fraud,Delhi,New Delhi,14406,39,Female,2023-09-14 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Under Investigation
+741,UPI Fraud,Delhi,New Delhi,43708,52,Female,2023-08-07 00:00:00,Victim reported upi fraud incident in New Delhi.,Closed
+742,Social Media Hack,Delhi,New Delhi,40730,60,Male,2023-07-14 00:00:00,Victim reported social media hack incident in New Delhi.,Closed
+743,Social Media Hack,Delhi,New Delhi,22295,59,Female,2023-09-12 00:00:00,Victim reported social media hack incident in New Delhi.,Closed
+744,Job Scam,Delhi,New Delhi,26790,49,Male,2023-11-23 00:00:00,Victim reported job scam incident in New Delhi.,Open
+745,KYC Scam,Delhi,New Delhi,1268,25,Female,2023-11-27 00:00:00,Victim reported kyc scam incident in New Delhi.,Under Investigation
+746,Phishing,Delhi,New Delhi,26694,37,Male,2023-07-11 00:00:00,Victim reported phishing incident in New Delhi.,Closed
+747,Social Media Hack,Delhi,New Delhi,9687,33,Female,2023-12-13 00:00:00,Victim reported social media hack incident in New Delhi.,Under Investigation
+748,Job Scam,Delhi,New Delhi,7708,29,Male,2023-05-22 00:00:00,Victim reported job scam incident in New Delhi.,Open
+749,Crypto Scam,Delhi,New Delhi,1221,47,Female,2023-07-04 00:00:00,Victim reported crypto scam incident in New Delhi.,Open
+750,Credit Card Fraud,Delhi,New Delhi,37363,37,Female,2023-08-23 00:00:00,Victim reported credit card fraud incident in New Delhi.,Open
+751,KYC Scam,Delhi,New Delhi,10735,26,Male,2023-05-07 00:00:00,Victim reported kyc scam incident in New Delhi.,Open
+752,KYC Scam,Delhi,New Delhi,24851,49,Female,2023-08-25 00:00:00,Victim reported kyc scam incident in New Delhi.,Under Investigation
+753,Identity Theft,Delhi,New Delhi,33309,52,Male,2023-10-18 00:00:00,Victim reported identity theft incident in New Delhi.,Under Investigation
+754,Social Media Hack,Delhi,New Delhi,10223,31,Male,2023-04-04 00:00:00,Victim reported social media hack incident in New Delhi.,Under Investigation
+755,Online Shopping Fraud,Delhi,New Delhi,14483,47,Female,2023-10-01 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Under Investigation
+756,Identity Theft,Delhi,New Delhi,4672,42,Male,2023-01-18 00:00:00,Victim reported identity theft incident in New Delhi.,Closed
+757,KYC Scam,Delhi,New Delhi,15397,36,Male,2023-05-11 00:00:00,Victim reported kyc scam incident in New Delhi.,Open
+758,Loan Scam,Delhi,New Delhi,8099,54,Female,2023-08-10 00:00:00,Victim reported loan scam incident in New Delhi.,Closed
+759,Online Shopping Fraud,Delhi,New Delhi,9197,37,Female,2023-10-25 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Closed
+760,Crypto Scam,Delhi,New Delhi,21588,21,Male,2023-01-10 00:00:00,Victim reported crypto scam incident in New Delhi.,Closed
+761,Identity Theft,Delhi,New Delhi,35694,34,Female,2023-03-27 00:00:00,Victim reported identity theft incident in New Delhi.,Under Investigation
+762,Identity Theft,Delhi,New Delhi,16901,28,Male,2023-01-17 00:00:00,Victim reported identity theft incident in New Delhi.,Open
+763,Credit Card Fraud,Delhi,New Delhi,17639,59,Female,2023-02-11 00:00:00,Victim reported credit card fraud incident in New Delhi.,Closed
+764,Social Media Hack,Delhi,New Delhi,46518,37,Female,2023-04-14 00:00:00,Victim reported social media hack incident in New Delhi.,Under Investigation
+765,Loan Scam,Delhi,New Delhi,31390,52,Female,2023-09-12 00:00:00,Victim reported loan scam incident in New Delhi.,Under Investigation
+766,Online Shopping Fraud,Delhi,New Delhi,22416,23,Male,2023-07-18 00:00:00,Victim reported online shopping fraud incident in New Delhi.,Under Investigation
+767,Crypto Scam,Delhi,New Delhi,47983,57,Male,2023-04-05 00:00:00,Victim reported crypto scam incident in New Delhi.,Open
+768,KYC Scam,Delhi,New Delhi,25946,18,Female,2023-05-15 00:00:00,Victim reported kyc scam incident in New Delhi.,Closed
+769,UPI Fraud,Delhi,New Delhi,25821,24,Male,2023-04-23 00:00:00,Victim reported upi fraud incident in New Delhi.,Under Investigation
+770,Phishing,Delhi,New Delhi,31264,20,Male,2023-03-27 00:00:00,Victim reported phishing incident in New Delhi.,Closed
+771,Credit Card Fraud,Telangana,Warangal,3709,25,Female,2023-02-27 00:00:00,Victim reported credit card fraud incident in Warangal.,Open
+772,KYC Scam,Telangana,Warangal,7634,41,Female,2023-02-06 00:00:00,Victim reported kyc scam incident in Warangal.,Under Investigation
+773,UPI Fraud,Telangana,Warangal,7380,21,Female,2023-01-12 00:00:00,Victim reported upi fraud incident in Warangal.,Closed
+774,Social Media Hack,Telangana,Hyderabad,6168,26,Female,2023-11-03 00:00:00,Victim reported social media hack incident in Hyderabad.,Closed
+775,Phishing,Telangana,Warangal,46164,38,Female,2023-07-27 00:00:00,Victim reported phishing incident in Warangal.,Open
+776,Phishing,Telangana,Warangal,1878,33,Male,2023-08-31 00:00:00,Victim reported phishing incident in Warangal.,Closed
+777,Identity Theft,Telangana,Hyderabad,10465,49,Female,2023-04-18 00:00:00,Victim reported identity theft incident in Hyderabad.,Under Investigation
+778,Crypto Scam,Telangana,Hyderabad,21936,37,Female,2023-12-08 00:00:00,Victim reported crypto scam incident in Hyderabad.,Under Investigation
+779,Crypto Scam,Telangana,Warangal,2288,56,Male,2023-03-03 00:00:00,Victim reported crypto scam incident in Warangal.,Under Investigation
+780,Loan Scam,Telangana,Warangal,5048,35,Male,2023-11-23 00:00:00,Victim reported loan scam incident in Warangal.,Open
+781,Social Media Hack,Telangana,Hyderabad,5202,51,Female,2023-10-19 00:00:00,Victim reported social media hack incident in Hyderabad.,Open
+782,Phishing,Telangana,Hyderabad,47721,22,Female,2023-11-15 00:00:00,Victim reported phishing incident in Hyderabad.,Under Investigation
+783,UPI Fraud,Telangana,Hyderabad,6913,23,Male,2023-09-28 00:00:00,Victim reported upi fraud incident in Hyderabad.,Under Investigation
+784,KYC Scam,Telangana,Warangal,29604,24,Male,2023-08-11 00:00:00,Victim reported kyc scam incident in Warangal.,Open
+785,Job Scam,Telangana,Hyderabad,18775,20,Female,2023-08-24 00:00:00,Victim reported job scam incident in Hyderabad.,Open
+786,Job Scam,Telangana,Hyderabad,26175,28,Male,2023-11-06 00:00:00,Victim reported job scam incident in Hyderabad.,Closed
+787,Loan Scam,Telangana,Warangal,34663,29,Female,2023-02-07 00:00:00,Victim reported loan scam incident in Warangal.,Open
+788,KYC Scam,Telangana,Warangal,34649,52,Female,2023-08-02 00:00:00,Victim reported kyc scam incident in Warangal.,Closed
+789,UPI Fraud,Telangana,Warangal,36427,42,Male,2023-07-24 00:00:00,Victim reported upi fraud incident in Warangal.,Open
+790,KYC Scam,Telangana,Warangal,14942,52,Male,2023-10-17 00:00:00,Victim reported kyc scam incident in Warangal.,Closed
+791,Credit Card Fraud,Telangana,Hyderabad,43165,54,Male,2023-06-15 00:00:00,Victim reported credit card fraud incident in Hyderabad.,Closed
+792,Phishing,Telangana,Warangal,42414,46,Male,2023-12-11 00:00:00,Victim reported phishing incident in Warangal.,Under Investigation
+793,Phishing,Telangana,Hyderabad,37926,51,Male,2023-10-19 00:00:00,Victim reported phishing incident in Hyderabad.,Open
+794,Phishing,Telangana,Warangal,43243,35,Male,2023-05-06 00:00:00,Victim reported phishing incident in Warangal.,Closed
+795,UPI Fraud,Telangana,Hyderabad,38420,41,Male,2023-05-17 00:00:00,Victim reported upi fraud incident in Hyderabad.,Closed
+796,Credit Card Fraud,Telangana,Warangal,38009,53,Male,2023-08-06 00:00:00,Victim reported credit card fraud incident in Warangal.,Closed
+797,UPI Fraud,Telangana,Hyderabad,5815,56,Male,2023-11-03 00:00:00,Victim reported upi fraud incident in Hyderabad.,Open
+798,Online Shopping Fraud,Telangana,Hyderabad,6623,56,Female,2023-12-17 00:00:00,Victim reported online shopping fraud incident in Hyderabad.,Open
+799,Loan Scam,Telangana,Hyderabad,26020,42,Female,2023-02-18 00:00:00,Victim reported loan scam incident in Hyderabad.,Closed
+800,Job Scam,Telangana,Warangal,8175,50,Male,2023-08-13 00:00:00,Victim reported job scam incident in Warangal.,Closed
+801,Social Media Hack,Telangana,Warangal,29545,60,Female,2023-01-07 00:00:00,Victim reported social media hack incident in Warangal.,Open
+802,Crypto Scam,Telangana,Warangal,44704,51,Male,2023-05-30 00:00:00,Victim reported crypto scam incident in Warangal.,Under Investigation
+803,Credit Card Fraud,Telangana,Hyderabad,12631,28,Male,2023-12-04 00:00:00,Victim reported credit card fraud incident in Hyderabad.,Open
+804,Loan Scam,Telangana,Hyderabad,26234,56,Male,2023-02-27 00:00:00,Victim reported loan scam incident in Hyderabad.,Closed
+805,Credit Card Fraud,Telangana,Warangal,8710,43,Female,2023-07-23 00:00:00,Victim reported credit card fraud incident in Warangal.,Under Investigation
+806,Identity Theft,Telangana,Warangal,10335,23,Male,2023-08-02 00:00:00,Victim reported identity theft incident in Warangal.,Under Investigation
+807,Social Media Hack,Telangana,Warangal,19893,39,Male,2023-12-08 00:00:00,Victim reported social media hack incident in Warangal.,Under Investigation
+808,KYC Scam,Telangana,Warangal,8390,41,Female,2023-11-13 00:00:00,Victim reported kyc scam incident in Warangal.,Under Investigation
+809,Social Media Hack,Telangana,Warangal,42350,49,Female,2023-10-18 00:00:00,Victim reported social media hack incident in Warangal.,Closed
+810,Crypto Scam,Telangana,Warangal,33214,26,Female,2023-06-15 00:00:00,Victim reported crypto scam incident in Warangal.,Closed
+811,UPI Fraud,Telangana,Hyderabad,28648,31,Female,2023-12-25 00:00:00,Victim reported upi fraud incident in Hyderabad.,Under Investigation
+812,Online Shopping Fraud,Telangana,Warangal,9336,54,Female,2023-09-07 00:00:00,Victim reported online shopping fraud incident in Warangal.,Closed
+813,Phishing,Telangana,Warangal,24362,59,Male,2023-02-21 00:00:00,Victim reported phishing incident in Warangal.,Under Investigation
+814,Loan Scam,Telangana,Warangal,47309,38,Female,2023-11-18 00:00:00,Victim reported loan scam incident in Warangal.,Under Investigation
+815,Social Media Hack,Telangana,Warangal,31981,23,Male,2023-11-05 00:00:00,Victim reported social media hack incident in Warangal.,Closed
+816,Loan Scam,Telangana,Warangal,16357,42,Male,2023-07-08 00:00:00,Victim reported loan scam incident in Warangal.,Open
+817,Crypto Scam,Telangana,Warangal,31142,51,Male,2023-08-10 00:00:00,Victim reported crypto scam incident in Warangal.,Closed
+818,Online Shopping Fraud,Telangana,Warangal,28121,55,Female,2023-12-31 00:00:00,Victim reported online shopping fraud incident in Warangal.,Open
+819,Social Media Hack,Telangana,Hyderabad,6936,51,Male,2023-09-01 00:00:00,Victim reported social media hack incident in Hyderabad.,Under Investigation
+820,Credit Card Fraud,Telangana,Warangal,12632,42,Female,2023-08-11 00:00:00,Victim reported credit card fraud incident in Warangal.,Open
+821,Loan Scam,Telangana,Warangal,41497,36,Male,2023-10-22 00:00:00,Victim reported loan scam incident in Warangal.,Open
+822,UPI Fraud,Telangana,Warangal,46516,58,Male,2023-05-19 00:00:00,Victim reported upi fraud incident in Warangal.,Closed
+823,UPI Fraud,Telangana,Warangal,11766,40,Male,2023-10-23 00:00:00,Victim reported upi fraud incident in Warangal.,Open
+824,Credit Card Fraud,Telangana,Warangal,37850,49,Female,2023-12-18 00:00:00,Victim reported credit card fraud incident in Warangal.,Open
+825,Job Scam,Telangana,Warangal,39453,32,Male,2023-04-19 00:00:00,Victim reported job scam incident in Warangal.,Open
+826,Identity Theft,Telangana,Hyderabad,44132,38,Male,2023-03-29 00:00:00,Victim reported identity theft incident in Hyderabad.,Under Investigation
+827,Crypto Scam,Telangana,Hyderabad,27627,38,Male,2023-09-09 00:00:00,Victim reported crypto scam incident in Hyderabad.,Open
+828,KYC Scam,Telangana,Warangal,20883,33,Male,2023-10-15 00:00:00,Victim reported kyc scam incident in Warangal.,Closed
+829,Credit Card Fraud,Telangana,Hyderabad,48844,59,Male,2023-05-19 00:00:00,Victim reported credit card fraud incident in Hyderabad.,Closed
+830,Online Shopping Fraud,Telangana,Warangal,4577,38,Female,2023-12-29 00:00:00,Victim reported online shopping fraud incident in Warangal.,Under Investigation
+831,Credit Card Fraud,Telangana,Hyderabad,26408,29,Male,2023-08-07 00:00:00,Victim reported credit card fraud incident in Hyderabad.,Closed
+832,Online Shopping Fraud,Telangana,Warangal,41037,21,Female,2023-02-28 00:00:00,Victim reported online shopping fraud incident in Warangal.,Closed
+833,Social Media Hack,Telangana,Hyderabad,48359,42,Male,2023-02-07 00:00:00,Victim reported social media hack incident in Hyderabad.,Open
+834,Social Media Hack,Telangana,Hyderabad,41862,43,Female,2023-03-21 00:00:00,Victim reported social media hack incident in Hyderabad.,Closed
+835,Loan Scam,Telangana,Warangal,7928,56,Male,2023-02-02 00:00:00,Victim reported loan scam incident in Warangal.,Under Investigation
+836,Loan Scam,Telangana,Warangal,37529,52,Male,2023-07-26 00:00:00,Victim reported loan scam incident in Warangal.,Closed
+837,Identity Theft,Telangana,Hyderabad,20670,19,Female,2023-01-02 00:00:00,Victim reported identity theft incident in Hyderabad.,Under Investigation
+838,Social Media Hack,Telangana,Warangal,13629,54,Male,2023-07-23 00:00:00,Victim reported social media hack incident in Warangal.,Under Investigation
+839,Crypto Scam,Telangana,Warangal,7874,27,Male,2023-01-21 00:00:00,Victim reported crypto scam incident in Warangal.,Under Investigation
+840,Crypto Scam,Telangana,Warangal,36359,45,Female,2023-03-18 00:00:00,Victim reported crypto scam incident in Warangal.,Under Investigation
+841,Social Media Hack,Telangana,Hyderabad,26678,29,Male,2023-04-04 00:00:00,Victim reported social media hack incident in Hyderabad.,Under Investigation
+842,Identity Theft,Telangana,Warangal,48754,30,Male,2023-07-05 00:00:00,Victim reported identity theft incident in Warangal.,Closed
+843,Phishing,Telangana,Hyderabad,23847,54,Female,2023-07-14 00:00:00,Victim reported phishing incident in Hyderabad.,Under Investigation
+844,Identity Theft,Telangana,Hyderabad,16612,18,Female,2023-07-31 00:00:00,Victim reported identity theft incident in Hyderabad.,Under Investigation
+845,Job Scam,Telangana,Hyderabad,18543,45,Male,2023-10-17 00:00:00,Victim reported job scam incident in Hyderabad.,Under Investigation
+846,Crypto Scam,Telangana,Hyderabad,45211,23,Male,2023-06-20 00:00:00,Victim reported crypto scam incident in Hyderabad.,Closed
+847,Online Shopping Fraud,Telangana,Warangal,26840,29,Male,2023-10-23 00:00:00,Victim reported online shopping fraud incident in Warangal.,Open
+848,UPI Fraud,Telangana,Warangal,40455,60,Female,2023-03-30 00:00:00,Victim reported upi fraud incident in Warangal.,Open
+849,Loan Scam,Telangana,Hyderabad,18425,35,Male,2023-08-01 00:00:00,Victim reported loan scam incident in Hyderabad.,Closed
+850,Phishing,Telangana,Hyderabad,6531,25,Female,2023-07-19 00:00:00,Victim reported phishing incident in Hyderabad.,Closed
+851,Loan Scam,Telangana,Warangal,9888,24,Male,2023-09-08 00:00:00,Victim reported loan scam incident in Warangal.,Closed
+852,Crypto Scam,Telangana,Warangal,38454,60,Female,2023-01-29 00:00:00,Victim reported crypto scam incident in Warangal.,Closed
+853,Job Scam,Telangana,Hyderabad,926,48,Female,2023-10-19 00:00:00,Victim reported job scam incident in Hyderabad.,Under Investigation
+854,Identity Theft,Telangana,Hyderabad,25968,21,Female,2023-06-02 00:00:00,Victim reported identity theft incident in Hyderabad.,Closed
+855,Online Shopping Fraud,Telangana,Hyderabad,3294,18,Female,2023-03-17 00:00:00,Victim reported online shopping fraud incident in Hyderabad.,Closed
+856,Loan Scam,Telangana,Hyderabad,20627,28,Female,2023-07-10 00:00:00,Victim reported loan scam incident in Hyderabad.,Closed
+857,UPI Fraud,Telangana,Warangal,42699,36,Female,2023-09-05 00:00:00,Victim reported upi fraud incident in Warangal.,Open
+858,Job Scam,Telangana,Warangal,28089,44,Male,2023-05-06 00:00:00,Victim reported job scam incident in Warangal.,Closed
+859,Phishing,Telangana,Warangal,25443,48,Female,2023-11-17 00:00:00,Victim reported phishing incident in Warangal.,Under Investigation
+860,Social Media Hack,Telangana,Warangal,25131,51,Male,2023-09-20 00:00:00,Victim reported social media hack incident in Warangal.,Under Investigation
+861,KYC Scam,Telangana,Hyderabad,744,18,Female,2023-07-05 00:00:00,Victim reported kyc scam incident in Hyderabad.,Closed
+862,Credit Card Fraud,Telangana,Hyderabad,2526,22,Male,2023-12-24 00:00:00,Victim reported credit card fraud incident in Hyderabad.,Under Investigation
+863,Loan Scam,Telangana,Warangal,3501,53,Male,2023-02-05 00:00:00,Victim reported loan scam incident in Warangal.,Closed
+864,Phishing,Telangana,Hyderabad,16795,31,Male,2023-08-13 00:00:00,Victim reported phishing incident in Hyderabad.,Open
+865,Credit Card Fraud,Telangana,Hyderabad,12498,22,Female,2023-09-12 00:00:00,Victim reported credit card fraud incident in Hyderabad.,Closed
+866,KYC Scam,Telangana,Hyderabad,38110,20,Female,2023-04-09 00:00:00,Victim reported kyc scam incident in Hyderabad.,Closed
+867,Online Shopping Fraud,Telangana,Hyderabad,1070,52,Female,2023-12-10 00:00:00,Victim reported online shopping fraud incident in Hyderabad.,Open
+868,Loan Scam,Telangana,Hyderabad,39758,22,Male,2023-05-09 00:00:00,Victim reported loan scam incident in Hyderabad.,Closed
+869,UPI Fraud,Telangana,Hyderabad,38411,18,Female,2023-07-14 00:00:00,Victim reported upi fraud incident in Hyderabad.,Open
+870,KYC Scam,Telangana,Warangal,48867,55,Female,2023-08-19 00:00:00,Victim reported kyc scam incident in Warangal.,Open
+871,KYC Scam,Telangana,Warangal,46786,58,Female,2023-08-17 00:00:00,Victim reported kyc scam incident in Warangal.,Closed
+872,KYC Scam,Telangana,Hyderabad,7558,38,Male,2023-07-02 00:00:00,Victim reported kyc scam incident in Hyderabad.,Closed
+873,KYC Scam,Telangana,Warangal,16692,27,Female,2023-04-16 00:00:00,Victim reported kyc scam incident in Warangal.,Open
+874,UPI Fraud,Telangana,Warangal,43144,59,Female,2023-08-06 00:00:00,Victim reported upi fraud incident in Warangal.,Closed
+875,Loan Scam,Telangana,Warangal,3565,25,Female,2023-02-23 00:00:00,Victim reported loan scam incident in Warangal.,Closed
+876,Phishing,Telangana,Warangal,8974,43,Male,2023-03-07 00:00:00,Victim reported phishing incident in Warangal.,Under Investigation
+877,Loan Scam,Telangana,Hyderabad,14185,44,Female,2023-05-25 00:00:00,Victim reported loan scam incident in Hyderabad.,Closed
+878,Social Media Hack,Telangana,Warangal,11861,35,Male,2023-03-31 00:00:00,Victim reported social media hack incident in Warangal.,Open
+879,KYC Scam,Telangana,Warangal,41457,49,Female,2023-09-19 00:00:00,Victim reported kyc scam incident in Warangal.,Closed
+880,Social Media Hack,Telangana,Warangal,50000,21,Male,2023-04-24 00:00:00,Victim reported social media hack incident in Warangal.,Open
+881,Job Scam,Telangana,Hyderabad,24972,58,Male,2023-11-03 00:00:00,Victim reported job scam incident in Hyderabad.,Closed
+882,Social Media Hack,Telangana,Hyderabad,14218,19,Female,2023-07-17 00:00:00,Victim reported social media hack incident in Hyderabad.,Open
+883,Crypto Scam,Rajasthan,Udaipur,42832,39,Male,2023-05-26 00:00:00,Victim reported crypto scam incident in Udaipur.,Closed
+884,Crypto Scam,Rajasthan,Udaipur,37536,25,Female,2023-12-22 00:00:00,Victim reported crypto scam incident in Udaipur.,Under Investigation
+885,Crypto Scam,Rajasthan,Udaipur,2963,19,Male,2023-04-14 00:00:00,Victim reported crypto scam incident in Udaipur.,Open
+886,KYC Scam,Rajasthan,Udaipur,7736,28,Male,2023-02-10 00:00:00,Victim reported kyc scam incident in Udaipur.,Closed
+887,Crypto Scam,Rajasthan,Udaipur,1274,41,Male,2023-09-12 00:00:00,Victim reported crypto scam incident in Udaipur.,Closed
+888,Crypto Scam,Rajasthan,Jaipur,17833,48,Female,2023-03-30 00:00:00,Victim reported crypto scam incident in Jaipur.,Closed
+889,UPI Fraud,Rajasthan,Udaipur,37649,23,Male,2023-01-29 00:00:00,Victim reported upi fraud incident in Udaipur.,Closed
+890,KYC Scam,Rajasthan,Udaipur,28320,29,Female,2023-12-23 00:00:00,Victim reported kyc scam incident in Udaipur.,Under Investigation
+891,Crypto Scam,Rajasthan,Jaipur,34863,48,Male,2023-07-25 00:00:00,Victim reported crypto scam incident in Jaipur.,Open
+892,Crypto Scam,Rajasthan,Jaipur,34787,52,Male,2023-11-26 00:00:00,Victim reported crypto scam incident in Jaipur.,Open
+893,Job Scam,Rajasthan,Jaipur,41002,49,Male,2023-07-30 00:00:00,Victim reported job scam incident in Jaipur.,Closed
+894,Phishing,Rajasthan,Jaipur,40737,54,Male,2023-10-28 00:00:00,Victim reported phishing incident in Jaipur.,Under Investigation
+895,Credit Card Fraud,Rajasthan,Jaipur,8821,58,Male,2023-12-31 00:00:00,Victim reported credit card fraud incident in Jaipur.,Open
+896,Loan Scam,Rajasthan,Jaipur,15669,28,Female,2023-07-17 00:00:00,Victim reported loan scam incident in Jaipur.,Closed
+897,Loan Scam,Rajasthan,Jaipur,35150,58,Male,2023-02-13 00:00:00,Victim reported loan scam incident in Jaipur.,Under Investigation
+898,Phishing,Rajasthan,Udaipur,4053,26,Female,2023-09-29 00:00:00,Victim reported phishing incident in Udaipur.,Closed
+899,Loan Scam,Rajasthan,Jaipur,11853,45,Female,2023-04-15 00:00:00,Victim reported loan scam incident in Jaipur.,Open
+900,Credit Card Fraud,Rajasthan,Udaipur,44077,19,Female,2023-06-13 00:00:00,Victim reported credit card fraud incident in Udaipur.,Under Investigation
+901,UPI Fraud,Rajasthan,Udaipur,44068,41,Male,2023-06-07 00:00:00,Victim reported upi fraud incident in Udaipur.,Open
+902,Social Media Hack,Rajasthan,Jaipur,15828,44,Female,2023-09-12 00:00:00,Victim reported social media hack incident in Jaipur.,Closed
+903,Online Shopping Fraud,Rajasthan,Udaipur,41540,48,Male,2023-11-27 00:00:00,Victim reported online shopping fraud incident in Udaipur.,Closed
+904,Social Media Hack,Rajasthan,Jaipur,2371,34,Male,2023-02-19 00:00:00,Victim reported social media hack incident in Jaipur.,Under Investigation
+905,KYC Scam,Rajasthan,Udaipur,22477,52,Female,2023-08-25 00:00:00,Victim reported kyc scam incident in Udaipur.,Under Investigation
+906,UPI Fraud,Rajasthan,Jaipur,18616,26,Female,2023-06-16 00:00:00,Victim reported upi fraud incident in Jaipur.,Open
+907,Identity Theft,Rajasthan,Udaipur,43649,24,Female,2023-04-25 00:00:00,Victim reported identity theft incident in Udaipur.,Under Investigation
+908,Credit Card Fraud,Rajasthan,Jaipur,5962,26,Male,2023-07-22 00:00:00,Victim reported credit card fraud incident in Jaipur.,Closed
+909,KYC Scam,Rajasthan,Jaipur,910,49,Male,2023-03-04 00:00:00,Victim reported kyc scam incident in Jaipur.,Under Investigation
+910,Crypto Scam,Rajasthan,Udaipur,26000,51,Male,2023-09-26 00:00:00,Victim reported crypto scam incident in Udaipur.,Under Investigation
+911,Crypto Scam,Rajasthan,Udaipur,29030,59,Male,2023-10-06 00:00:00,Victim reported crypto scam incident in Udaipur.,Closed
+912,Phishing,Rajasthan,Udaipur,45765,22,Female,2023-01-14 00:00:00,Victim reported phishing incident in Udaipur.,Open
+913,Credit Card Fraud,Rajasthan,Udaipur,26864,33,Female,2023-10-11 00:00:00,Victim reported credit card fraud incident in Udaipur.,Open
+914,Online Shopping Fraud,Rajasthan,Jaipur,12811,41,Female,2023-02-19 00:00:00,Victim reported online shopping fraud incident in Jaipur.,Open
+915,Job Scam,Rajasthan,Jaipur,22260,49,Male,2023-08-02 00:00:00,Victim reported job scam incident in Jaipur.,Under Investigation
+916,Crypto Scam,Rajasthan,Udaipur,18817,40,Female,2023-11-09 00:00:00,Victim reported crypto scam incident in Udaipur.,Under Investigation
+917,KYC Scam,Rajasthan,Jaipur,16439,49,Female,2023-05-03 00:00:00,Victim reported kyc scam incident in Jaipur.,Open
+918,Phishing,Rajasthan,Udaipur,7776,33,Female,2023-03-07 00:00:00,Victim reported phishing incident in Udaipur.,Open
+919,Identity Theft,Rajasthan,Jaipur,46656,42,Female,2023-04-17 00:00:00,Victim reported identity theft incident in Jaipur.,Closed
+920,Credit Card Fraud,Rajasthan,Jaipur,47798,52,Female,2023-11-12 00:00:00,Victim reported credit card fraud incident in Jaipur.,Open
+921,Loan Scam,Rajasthan,Udaipur,16152,29,Female,2023-04-25 00:00:00,Victim reported loan scam incident in Udaipur.,Under Investigation
+922,Crypto Scam,Rajasthan,Jaipur,28503,56,Male,2023-03-10 00:00:00,Victim reported crypto scam incident in Jaipur.,Closed
+923,Phishing,Rajasthan,Jaipur,46198,28,Female,2023-02-26 00:00:00,Victim reported phishing incident in Jaipur.,Open
+924,Loan Scam,Rajasthan,Jaipur,27627,19,Female,2023-12-22 00:00:00,Victim reported loan scam incident in Jaipur.,Closed
+925,Identity Theft,Rajasthan,Jaipur,46943,32,Female,2023-08-18 00:00:00,Victim reported identity theft incident in Jaipur.,Under Investigation
+926,UPI Fraud,Rajasthan,Jaipur,47710,25,Male,2023-10-20 00:00:00,Victim reported upi fraud incident in Jaipur.,Open
+927,UPI Fraud,Rajasthan,Jaipur,41816,20,Female,2023-09-03 00:00:00,Victim reported upi fraud incident in Jaipur.,Under Investigation
+928,Job Scam,Rajasthan,Jaipur,615,44,Male,2023-06-24 00:00:00,Victim reported job scam incident in Jaipur.,Under Investigation
+929,Job Scam,Rajasthan,Udaipur,29829,50,Male,2023-11-11 00:00:00,Victim reported job scam incident in Udaipur.,Open
+930,Phishing,Rajasthan,Udaipur,26713,40,Female,2023-06-22 00:00:00,Victim reported phishing incident in Udaipur.,Open
+931,Job Scam,Rajasthan,Jaipur,14516,23,Male,2023-09-09 00:00:00,Victim reported job scam incident in Jaipur.,Open
+932,Job Scam,Rajasthan,Udaipur,19490,29,Female,2023-08-25 00:00:00,Victim reported job scam incident in Udaipur.,Under Investigation
+933,KYC Scam,Rajasthan,Udaipur,38294,22,Female,2023-09-27 00:00:00,Victim reported kyc scam incident in Udaipur.,Closed
+934,Phishing,Rajasthan,Jaipur,21041,41,Male,2023-12-03 00:00:00,Victim reported phishing incident in Jaipur.,Under Investigation
+935,Crypto Scam,Rajasthan,Udaipur,42932,35,Female,2023-10-12 00:00:00,Victim reported crypto scam incident in Udaipur.,Closed
+936,Identity Theft,Rajasthan,Udaipur,18905,50,Male,2023-03-06 00:00:00,Victim reported identity theft incident in Udaipur.,Closed
+937,Phishing,Rajasthan,Jaipur,21395,36,Female,2023-07-05 00:00:00,Victim reported phishing incident in Jaipur.,Closed
+938,Credit Card Fraud,Rajasthan,Jaipur,29597,54,Male,2023-11-10 00:00:00,Victim reported credit card fraud incident in Jaipur.,Under Investigation
+939,Identity Theft,Rajasthan,Jaipur,9961,40,Male,2023-05-18 00:00:00,Victim reported identity theft incident in Jaipur.,Under Investigation
+940,Identity Theft,Rajasthan,Jaipur,45688,56,Male,2023-04-15 00:00:00,Victim reported identity theft incident in Jaipur.,Open
+941,Identity Theft,Rajasthan,Jaipur,36126,28,Female,2023-08-11 00:00:00,Victim reported identity theft incident in Jaipur.,Closed
+942,Credit Card Fraud,Rajasthan,Jaipur,37305,36,Male,2023-07-02 00:00:00,Victim reported credit card fraud incident in Jaipur.,Closed
+943,Social Media Hack,Rajasthan,Udaipur,32672,51,Female,2023-03-01 00:00:00,Victim reported social media hack incident in Udaipur.,Open
+944,Online Shopping Fraud,Rajasthan,Udaipur,2975,41,Female,2023-12-19 00:00:00,Victim reported online shopping fraud incident in Udaipur.,Closed
+945,Credit Card Fraud,Rajasthan,Jaipur,28662,60,Female,2023-12-16 00:00:00,Victim reported credit card fraud incident in Jaipur.,Closed
+946,UPI Fraud,Rajasthan,Jaipur,22331,37,Male,2023-05-05 00:00:00,Victim reported upi fraud incident in Jaipur.,Open
+947,UPI Fraud,Rajasthan,Udaipur,26327,34,Female,2023-03-19 00:00:00,Victim reported upi fraud incident in Udaipur.,Under Investigation
+948,UPI Fraud,Rajasthan,Jaipur,47271,28,Male,2023-08-10 00:00:00,Victim reported upi fraud incident in Jaipur.,Closed
+949,Credit Card Fraud,Rajasthan,Jaipur,5492,19,Male,2023-07-26 00:00:00,Victim reported credit card fraud incident in Jaipur.,Under Investigation
+950,Online Shopping Fraud,Rajasthan,Jaipur,10905,30,Male,2023-10-24 00:00:00,Victim reported online shopping fraud incident in Jaipur.,Closed
+951,Social Media Hack,Rajasthan,Jaipur,43020,24,Male,2023-04-09 00:00:00,Victim reported social media hack incident in Jaipur.,Open
+952,Identity Theft,Rajasthan,Jaipur,35128,47,Male,2023-08-23 00:00:00,Victim reported identity theft incident in Jaipur.,Under Investigation
+953,Crypto Scam,Rajasthan,Jaipur,32387,43,Female,2023-04-17 00:00:00,Victim reported crypto scam incident in Jaipur.,Under Investigation
+954,Loan Scam,Rajasthan,Jaipur,20148,32,Female,2023-08-09 00:00:00,Victim reported loan scam incident in Jaipur.,Under Investigation
+955,Loan Scam,Rajasthan,Jaipur,29001,20,Female,2023-07-08 00:00:00,Victim reported loan scam incident in Jaipur.,Under Investigation
+956,Social Media Hack,Rajasthan,Jaipur,41988,25,Male,2023-10-23 00:00:00,Victim reported social media hack incident in Jaipur.,Open
+957,Loan Scam,Rajasthan,Udaipur,43383,51,Female,2023-12-10 00:00:00,Victim reported loan scam incident in Udaipur.,Open
+958,Loan Scam,Rajasthan,Jaipur,29208,40,Female,2023-02-12 00:00:00,Victim reported loan scam incident in Jaipur.,Open
+959,UPI Fraud,Rajasthan,Udaipur,7548,53,Female,2023-01-21 00:00:00,Victim reported upi fraud incident in Udaipur.,Closed
+960,Social Media Hack,Rajasthan,Jaipur,37372,57,Male,2023-02-27 00:00:00,Victim reported social media hack incident in Jaipur.,Under Investigation
+961,Social Media Hack,Rajasthan,Udaipur,49313,53,Male,2023-05-08 00:00:00,Victim reported social media hack incident in Udaipur.,Under Investigation
+962,Job Scam,Rajasthan,Udaipur,1710,37,Male,2023-09-11 00:00:00,Victim reported job scam incident in Udaipur.,Closed
+963,Crypto Scam,Rajasthan,Udaipur,1751,37,Male,2023-04-13 00:00:00,Victim reported crypto scam incident in Udaipur.,Closed
+964,Credit Card Fraud,Rajasthan,Udaipur,40060,40,Female,2023-12-05 00:00:00,Victim reported credit card fraud incident in Udaipur.,Open
+965,Job Scam,Rajasthan,Jaipur,17371,35,Male,2023-03-11 00:00:00,Victim reported job scam incident in Jaipur.,Under Investigation
+966,Crypto Scam,Rajasthan,Udaipur,41580,40,Male,2023-11-29 00:00:00,Victim reported crypto scam incident in Udaipur.,Closed
+967,UPI Fraud,Rajasthan,Jaipur,6682,36,Female,2023-06-13 00:00:00,Victim reported upi fraud incident in Jaipur.,Closed
+968,Job Scam,Rajasthan,Udaipur,21947,45,Male,2023-08-28 00:00:00,Victim reported job scam incident in Udaipur.,Open
+969,Crypto Scam,Rajasthan,Jaipur,39089,54,Female,2023-12-06 00:00:00,Victim reported crypto scam incident in Jaipur.,Open
+970,Credit Card Fraud,Rajasthan,Jaipur,38892,45,Male,2023-02-03 00:00:00,Victim reported credit card fraud incident in Jaipur.,Open
+971,Identity Theft,Rajasthan,Udaipur,27374,30,Male,2023-01-23 00:00:00,Victim reported identity theft incident in Udaipur.,Closed
+972,UPI Fraud,Rajasthan,Jaipur,31497,52,Female,2023-12-19 00:00:00,Victim reported upi fraud incident in Jaipur.,Open
+973,Online Shopping Fraud,Rajasthan,Udaipur,25852,31,Female,2023-08-20 00:00:00,Victim reported online shopping fraud incident in Udaipur.,Open
+974,Job Scam,Rajasthan,Jaipur,45214,37,Female,2023-07-11 00:00:00,Victim reported job scam incident in Jaipur.,Open
+975,Crypto Scam,Rajasthan,Udaipur,9163,52,Female,2023-12-07 00:00:00,Victim reported crypto scam incident in Udaipur.,Open
+976,Credit Card Fraud,Rajasthan,Jaipur,16443,39,Male,2023-09-18 00:00:00,Victim reported credit card fraud incident in Jaipur.,Closed
+977,Credit Card Fraud,Rajasthan,Jaipur,1711,43,Male,2023-07-26 00:00:00,Victim reported credit card fraud incident in Jaipur.,Closed
+978,Crypto Scam,Rajasthan,Udaipur,30659,54,Female,2023-02-04 00:00:00,Victim reported crypto scam incident in Udaipur.,Open
+979,Crypto Scam,Rajasthan,Jaipur,33584,55,Male,2023-11-12 00:00:00,Victim reported crypto scam incident in Jaipur.,Open
+980,Crypto Scam,Rajasthan,Jaipur,48496,38,Female,2023-11-12 00:00:00,Victim reported crypto scam incident in Jaipur.,Closed
+981,Identity Theft,West Bengal,Siliguri,40995,52,Male,2023-07-19 00:00:00,Victim reported identity theft incident in Siliguri.,Open
+982,Online Shopping Fraud,West Bengal,Siliguri,23976,25,Male,2023-04-15 00:00:00,Victim reported online shopping fraud incident in Siliguri.,Open
+983,Phishing,West Bengal,Siliguri,5361,21,Male,2023-07-24 00:00:00,Victim reported phishing incident in Siliguri.,Open
+984,KYC Scam,West Bengal,Kolkata,2307,19,Female,2023-03-17 00:00:00,Victim reported kyc scam incident in Kolkata.,Open
+985,Identity Theft,West Bengal,Siliguri,16336,53,Female,2023-02-01 00:00:00,Victim reported identity theft incident in Siliguri.,Closed
+986,Phishing,West Bengal,Kolkata,10951,36,Male,2023-04-01 00:00:00,Victim reported phishing incident in Kolkata.,Closed
+987,Loan Scam,West Bengal,Siliguri,19942,54,Male,2023-03-22 00:00:00,Victim reported loan scam incident in Siliguri.,Open
+988,Crypto Scam,West Bengal,Siliguri,2466,31,Female,2023-06-10 00:00:00,Victim reported crypto scam incident in Siliguri.,Open
+989,Identity Theft,West Bengal,Siliguri,45293,56,Male,2023-04-12 00:00:00,Victim reported identity theft incident in Siliguri.,Under Investigation
+990,Loan Scam,West Bengal,Kolkata,11361,60,Female,2023-01-22 00:00:00,Victim reported loan scam incident in Kolkata.,Open
+991,Phishing,West Bengal,Siliguri,24060,26,Male,2023-03-24 00:00:00,Victim reported phishing incident in Siliguri.,Under Investigation
+992,KYC Scam,West Bengal,Siliguri,16818,35,Male,2024-01-01 00:00:00,Victim reported kyc scam incident in Siliguri.,Open
+993,Crypto Scam,West Bengal,Kolkata,4889,40,Female,2023-09-14 00:00:00,Victim reported crypto scam incident in Kolkata.,Open
+994,Phishing,West Bengal,Kolkata,41597,58,Female,2023-06-18 00:00:00,Victim reported phishing incident in Kolkata.,Under Investigation
+995,Job Scam,West Bengal,Kolkata,25547,39,Female,2023-12-12 00:00:00,Victim reported job scam incident in Kolkata.,Closed
+996,Loan Scam,West Bengal,Kolkata,8713,28,Male,2023-04-17 00:00:00,Victim reported loan scam incident in Kolkata.,Under Investigation
+997,Identity Theft,West Bengal,Kolkata,29653,48,Male,2023-10-19 00:00:00,Victim reported identity theft incident in Kolkata.,Open
+998,Social Media Hack,West Bengal,Siliguri,40214,27,Male,2023-08-16 00:00:00,Victim reported social media hack incident in Siliguri.,Closed
+999,Crypto Scam,West Bengal,Kolkata,29282,21,Male,2023-02-24 00:00:00,Victim reported crypto scam incident in Kolkata.,Closed
+1000,UPI Fraud,West Bengal,Kolkata,37590,52,Male,2023-07-05 00:00:00,Victim reported upi fraud incident in Kolkata.,Open
+1001,Phishing,West Bengal,Siliguri,32447,20,Male,2023-03-19 00:00:00,Victim reported phishing incident in Siliguri.,Under Investigation
+1002,KYC Scam,West Bengal,Kolkata,3128,40,Female,2023-02-02 00:00:00,Victim reported kyc scam incident in Kolkata.,Closed
+1003,Online Shopping Fraud,West Bengal,Kolkata,4807,18,Female,2023-09-11 00:00:00,Victim reported online shopping fraud incident in Kolkata.,Closed
+1004,Crypto Scam,West Bengal,Siliguri,40337,30,Female,2023-07-03 00:00:00,Victim reported crypto scam incident in Siliguri.,Under Investigation
+1005,Loan Scam,West Bengal,Kolkata,22100,26,Female,2023-08-13 00:00:00,Victim reported loan scam incident in Kolkata.,Open
+1006,KYC Scam,West Bengal,Siliguri,9405,21,Male,2023-06-09 00:00:00,Victim reported kyc scam incident in Siliguri.,Open
+1007,Credit Card Fraud,West Bengal,Siliguri,43385,56,Female,2023-09-18 00:00:00,Victim reported credit card fraud incident in Siliguri.,Closed
+1008,Crypto Scam,West Bengal,Kolkata,45398,44,Female,2023-04-11 00:00:00,Victim reported crypto scam incident in Kolkata.,Open
+1009,Crypto Scam,West Bengal,Kolkata,47326,20,Female,2023-01-16 00:00:00,Victim reported crypto scam incident in Kolkata.,Closed
+1010,UPI Fraud,West Bengal,Kolkata,525,56,Female,2023-09-19 00:00:00,Victim reported upi fraud incident in Kolkata.,Under Investigation
+1011,KYC Scam,West Bengal,Siliguri,43710,51,Male,2023-10-23 00:00:00,Victim reported kyc scam incident in Siliguri.,Under Investigation
+1012,UPI Fraud,West Bengal,Siliguri,20627,31,Male,2023-05-22 00:00:00,Victim reported upi fraud incident in Siliguri.,Open
+1013,Social Media Hack,West Bengal,Siliguri,23358,34,Male,2023-04-18 00:00:00,Victim reported social media hack incident in Siliguri.,Open
+1014,UPI Fraud,West Bengal,Siliguri,27532,45,Female,2023-10-18 00:00:00,Victim reported upi fraud incident in Siliguri.,Open
+1015,Job Scam,West Bengal,Siliguri,46429,58,Male,2023-04-11 00:00:00,Victim reported job scam incident in Siliguri.,Closed
+1016,Job Scam,West Bengal,Siliguri,20706,36,Male,2023-10-10 00:00:00,Victim reported job scam incident in Siliguri.,Closed
+1017,Loan Scam,West Bengal,Kolkata,45128,23,Female,2023-09-07 00:00:00,Victim reported loan scam incident in Kolkata.,Closed
+1018,Online Shopping Fraud,West Bengal,Siliguri,33141,47,Male,2023-11-25 00:00:00,Victim reported online shopping fraud incident in Siliguri.,Under Investigation
+1019,KYC Scam,West Bengal,Siliguri,23450,22,Female,2023-07-23 00:00:00,Victim reported kyc scam incident in Siliguri.,Under Investigation
+1020,KYC Scam,West Bengal,Kolkata,26369,54,Female,2023-02-20 00:00:00,Victim reported kyc scam incident in Kolkata.,Closed
+1021,UPI Fraud,West Bengal,Siliguri,12834,58,Male,2023-05-19 00:00:00,Victim reported upi fraud incident in Siliguri.,Open
+1022,Phishing,West Bengal,Kolkata,29780,38,Male,2023-02-12 00:00:00,Victim reported phishing incident in Kolkata.,Under Investigation
+1023,Crypto Scam,West Bengal,Kolkata,2344,54,Female,2023-08-23 00:00:00,Victim reported crypto scam incident in Kolkata.,Under Investigation
+1024,UPI Fraud,West Bengal,Kolkata,44317,37,Female,2023-04-04 00:00:00,Victim reported upi fraud incident in Kolkata.,Closed
+1025,Loan Scam,West Bengal,Kolkata,34042,56,Male,2023-03-15 00:00:00,Victim reported loan scam incident in Kolkata.,Open
+1026,Job Scam,West Bengal,Siliguri,49134,33,Female,2023-11-15 00:00:00,Victim reported job scam incident in Siliguri.,Closed
+1027,Credit Card Fraud,West Bengal,Siliguri,49630,50,Male,2023-07-04 00:00:00,Victim reported credit card fraud incident in Siliguri.,Under Investigation
+1028,Social Media Hack,West Bengal,Siliguri,23830,28,Female,2023-09-05 00:00:00,Victim reported social media hack incident in Siliguri.,Closed
+1029,Online Shopping Fraud,West Bengal,Siliguri,42343,48,Female,2023-10-02 00:00:00,Victim reported online shopping fraud incident in Siliguri.,Open
+1030,Identity Theft,West Bengal,Siliguri,3590,27,Female,2023-02-02 00:00:00,Victim reported identity theft incident in Siliguri.,Closed
+1031,Social Media Hack,West Bengal,Kolkata,10546,33,Male,2023-06-13 00:00:00,Victim reported social media hack incident in Kolkata.,Open
+1032,Loan Scam,West Bengal,Siliguri,22413,52,Female,2023-11-13 00:00:00,Victim reported loan scam incident in Siliguri.,Open
+1033,Social Media Hack,West Bengal,Siliguri,10002,60,Male,2023-11-21 00:00:00,Victim reported social media hack incident in Siliguri.,Under Investigation
+1034,UPI Fraud,West Bengal,Siliguri,17034,49,Female,2023-06-03 00:00:00,Victim reported upi fraud incident in Siliguri.,Open
+1035,Identity Theft,West Bengal,Kolkata,25840,24,Female,2023-07-19 00:00:00,Victim reported identity theft incident in Kolkata.,Closed
+1036,Job Scam,West Bengal,Siliguri,16675,41,Male,2023-09-05 00:00:00,Victim reported job scam incident in Siliguri.,Under Investigation
+1037,Crypto Scam,West Bengal,Siliguri,30889,42,Female,2023-08-06 00:00:00,Victim reported crypto scam incident in Siliguri.,Open
+1038,Loan Scam,West Bengal,Kolkata,7101,40,Female,2023-11-16 00:00:00,Victim reported loan scam incident in Kolkata.,Under Investigation
+1039,Online Shopping Fraud,West Bengal,Siliguri,30658,36,Male,2023-09-22 00:00:00,Victim reported online shopping fraud incident in Siliguri.,Closed
+1040,Credit Card Fraud,West Bengal,Kolkata,11077,24,Male,2023-02-09 00:00:00,Victim reported credit card fraud incident in Kolkata.,Open
+1041,Identity Theft,West Bengal,Kolkata,27296,44,Female,2023-10-30 00:00:00,Victim reported identity theft incident in Kolkata.,Closed
+1042,Online Shopping Fraud,West Bengal,Kolkata,41720,39,Male,2023-01-12 00:00:00,Victim reported online shopping fraud incident in Kolkata.,Open
+1043,Identity Theft,West Bengal,Siliguri,29425,48,Female,2023-08-19 00:00:00,Victim reported identity theft incident in Siliguri.,Under Investigation
+1044,Crypto Scam,West Bengal,Siliguri,21657,21,Male,2023-02-03 00:00:00,Victim reported crypto scam incident in Siliguri.,Open
+1045,Credit Card Fraud,West Bengal,Kolkata,49048,39,Female,2023-10-22 00:00:00,Victim reported credit card fraud incident in Kolkata.,Closed
+1046,Crypto Scam,West Bengal,Siliguri,15973,22,Female,2023-08-16 00:00:00,Victim reported crypto scam incident in Siliguri.,Under Investigation
+1047,Credit Card Fraud,West Bengal,Kolkata,46791,60,Male,2023-01-17 00:00:00,Victim reported credit card fraud incident in Kolkata.,Open
+1048,Online Shopping Fraud,West Bengal,Kolkata,2603,54,Female,2023-01-04 00:00:00,Victim reported online shopping fraud incident in Kolkata.,Closed
+1049,Loan Scam,West Bengal,Siliguri,27705,41,Male,2023-05-28 00:00:00,Victim reported loan scam incident in Siliguri.,Under Investigation
+1050,Identity Theft,West Bengal,Kolkata,30165,29,Female,2023-07-10 00:00:00,Victim reported identity theft incident in Kolkata.,Closed
+1051,Identity Theft,West Bengal,Kolkata,43825,55,Female,2023-06-09 00:00:00,Victim reported identity theft incident in Kolkata.,Under Investigation
+1052,KYC Scam,West Bengal,Kolkata,30816,30,Male,2023-11-28 00:00:00,Victim reported kyc scam incident in Kolkata.,Under Investigation
+1053,Loan Scam,West Bengal,Kolkata,2490,42,Male,2023-05-23 00:00:00,Victim reported loan scam incident in Kolkata.,Open
+1054,Job Scam,West Bengal,Kolkata,9731,32,Female,2023-01-29 00:00:00,Victim reported job scam incident in Kolkata.,Closed
+1055,Identity Theft,West Bengal,Kolkata,43736,37,Male,2023-10-19 00:00:00,Victim reported identity theft incident in Kolkata.,Closed
+1056,Phishing,West Bengal,Kolkata,33799,33,Male,2023-06-06 00:00:00,Victim reported phishing incident in Kolkata.,Open
+1057,Social Media Hack,West Bengal,Kolkata,23083,59,Female,2023-09-05 00:00:00,Victim reported social media hack incident in Kolkata.,Closed
+1058,Social Media Hack,West Bengal,Siliguri,31301,47,Female,2023-03-24 00:00:00,Victim reported social media hack incident in Siliguri.,Open
+1059,Online Shopping Fraud,West Bengal,Kolkata,16771,29,Male,2023-02-07 00:00:00,Victim reported online shopping fraud incident in Kolkata.,Open
+1060,Credit Card Fraud,West Bengal,Siliguri,28575,45,Male,2023-02-25 00:00:00,Victim reported credit card fraud incident in Siliguri.,Under Investigation
+1061,Crypto Scam,West Bengal,Kolkata,16028,59,Female,2023-02-26 00:00:00,Victim reported crypto scam incident in Kolkata.,Under Investigation
+1062,KYC Scam,West Bengal,Siliguri,1461,38,Female,2023-09-09 00:00:00,Victim reported kyc scam incident in Siliguri.,Open
+1063,Social Media Hack,West Bengal,Siliguri,12027,37,Female,2023-01-20 00:00:00,Victim reported social media hack incident in Siliguri.,Under Investigation
+1064,Credit Card Fraud,West Bengal,Siliguri,21602,42,Male,2023-11-10 00:00:00,Victim reported credit card fraud incident in Siliguri.,Open
+1065,Social Media Hack,West Bengal,Kolkata,35386,43,Female,2023-07-11 00:00:00,Victim reported social media hack incident in Kolkata.,Open
+1066,Crypto Scam,West Bengal,Kolkata,3799,33,Male,2023-12-10 00:00:00,Victim reported crypto scam incident in Kolkata.,Closed
+1067,Crypto Scam,West Bengal,Siliguri,46002,50,Male,2023-09-20 00:00:00,Victim reported crypto scam incident in Siliguri.,Under Investigation
+1068,Crypto Scam,West Bengal,Kolkata,9768,59,Female,2023-08-21 00:00:00,Victim reported crypto scam incident in Kolkata.,Under Investigation
+1069,UPI Fraud,West Bengal,Siliguri,12404,44,Female,2023-11-01 00:00:00,Victim reported upi fraud incident in Siliguri.,Under Investigation
+1070,Job Scam,West Bengal,Kolkata,16560,53,Female,2023-07-01 00:00:00,Victim reported job scam incident in Kolkata.,Open
+1071,Social Media Hack,West Bengal,Kolkata,1781,58,Female,2023-02-02 00:00:00,Victim reported social media hack incident in Kolkata.,Under Investigation
+1072,Online Shopping Fraud,West Bengal,Kolkata,39455,41,Male,2023-09-01 00:00:00,Victim reported online shopping fraud incident in Kolkata.,Under Investigation
+1073,Social Media Hack,West Bengal,Kolkata,16532,49,Male,2023-12-15 00:00:00,Victim reported social media hack incident in Kolkata.,Closed
+1074,Online Shopping Fraud,West Bengal,Siliguri,3093,32,Female,2023-12-25 00:00:00,Victim reported online shopping fraud incident in Siliguri.,Open
+1075,UPI Fraud,West Bengal,Siliguri,19970,29,Female,2023-04-11 00:00:00,Victim reported upi fraud incident in Siliguri.,Under Investigation
+1076,Online Shopping Fraud,West Bengal,Siliguri,21712,56,Male,2023-02-25 00:00:00,Victim reported online shopping fraud incident in Siliguri.,Open
+1077,Online Shopping Fraud,West Bengal,Kolkata,4612,20,Female,2023-02-17 00:00:00,Victim reported online shopping fraud incident in Kolkata.,Under Investigation
+1078,Job Scam,West Bengal,Kolkata,30197,36,Female,2023-07-21 00:00:00,Victim reported job scam incident in Kolkata.,Closed
+1079,Crypto Scam,Tamil Nadu,Coimbatore,26106,43,Female,2023-10-19 00:00:00,Victim reported crypto scam incident in Coimbatore.,Closed
+1080,Job Scam,Tamil Nadu,Chennai,14643,59,Male,2023-03-09 00:00:00,Victim reported job scam incident in Chennai.,Closed
+1081,Online Shopping Fraud,Tamil Nadu,Coimbatore,23475,58,Female,2023-03-22 00:00:00,Victim reported online shopping fraud incident in Coimbatore.,Open
+1082,Identity Theft,Tamil Nadu,Chennai,21268,43,Male,2023-12-21 00:00:00,Victim reported identity theft incident in Chennai.,Open
+1083,Phishing,Tamil Nadu,Chennai,25446,35,Male,2023-11-18 00:00:00,Victim reported phishing incident in Chennai.,Open
+1084,Job Scam,Tamil Nadu,Chennai,29860,30,Female,2023-05-08 00:00:00,Victim reported job scam incident in Chennai.,Open
+1085,Identity Theft,Tamil Nadu,Chennai,22609,31,Female,2023-07-26 00:00:00,Victim reported identity theft incident in Chennai.,Closed
+1086,Loan Scam,Tamil Nadu,Chennai,27945,21,Male,2023-07-17 00:00:00,Victim reported loan scam incident in Chennai.,Under Investigation
+1087,KYC Scam,Tamil Nadu,Chennai,38705,38,Male,2023-07-14 00:00:00,Victim reported kyc scam incident in Chennai.,Open
+1088,UPI Fraud,Tamil Nadu,Chennai,26677,53,Female,2023-03-10 00:00:00,Victim reported upi fraud incident in Chennai.,Under Investigation
+1089,Online Shopping Fraud,Tamil Nadu,Chennai,30499,56,Female,2023-11-12 00:00:00,Victim reported online shopping fraud incident in Chennai.,Closed
+1090,Credit Card Fraud,Tamil Nadu,Chennai,28474,19,Female,2023-01-15 00:00:00,Victim reported credit card fraud incident in Chennai.,Closed
+1091,UPI Fraud,Tamil Nadu,Coimbatore,35979,28,Male,2023-11-08 00:00:00,Victim reported upi fraud incident in Coimbatore.,Under Investigation
+1092,Loan Scam,Tamil Nadu,Chennai,40498,20,Female,2023-05-26 00:00:00,Victim reported loan scam incident in Chennai.,Closed
+1093,Job Scam,Tamil Nadu,Coimbatore,7231,29,Male,2023-07-08 00:00:00,Victim reported job scam incident in Coimbatore.,Closed
+1094,Job Scam,Tamil Nadu,Coimbatore,31143,48,Male,2023-09-24 00:00:00,Victim reported job scam incident in Coimbatore.,Closed
+1095,Phishing,Tamil Nadu,Chennai,48200,55,Female,2023-11-07 00:00:00,Victim reported phishing incident in Chennai.,Open
+1096,UPI Fraud,Tamil Nadu,Chennai,8347,18,Female,2023-02-27 00:00:00,Victim reported upi fraud incident in Chennai.,Open
+1097,Credit Card Fraud,Tamil Nadu,Chennai,49669,42,Female,2023-08-16 00:00:00,Victim reported credit card fraud incident in Chennai.,Under Investigation
+1098,Social Media Hack,Tamil Nadu,Coimbatore,18909,23,Male,2023-01-01 00:00:00,Victim reported social media hack incident in Coimbatore.,Closed
+1099,Credit Card Fraud,Tamil Nadu,Coimbatore,8367,49,Male,2023-10-15 00:00:00,Victim reported credit card fraud incident in Coimbatore.,Closed
+1100,Job Scam,Tamil Nadu,Chennai,48119,25,Female,2023-06-14 00:00:00,Victim reported job scam incident in Chennai.,Under Investigation
+1101,Crypto Scam,Tamil Nadu,Coimbatore,44090,37,Female,2023-09-07 00:00:00,Victim reported crypto scam incident in Coimbatore.,Closed
+1102,KYC Scam,Tamil Nadu,Chennai,32911,24,Female,2023-01-12 00:00:00,Victim reported kyc scam incident in Chennai.,Closed
+1103,Credit Card Fraud,Tamil Nadu,Chennai,46908,58,Male,2023-02-09 00:00:00,Victim reported credit card fraud incident in Chennai.,Open
+1104,Loan Scam,Tamil Nadu,Coimbatore,47902,45,Female,2023-09-22 00:00:00,Victim reported loan scam incident in Coimbatore.,Under Investigation
+1105,Social Media Hack,Tamil Nadu,Chennai,20850,42,Male,2023-05-10 00:00:00,Victim reported social media hack incident in Chennai.,Closed
+1106,Crypto Scam,Tamil Nadu,Coimbatore,47821,23,Male,2023-12-29 00:00:00,Victim reported crypto scam incident in Coimbatore.,Under Investigation
+1107,UPI Fraud,Tamil Nadu,Chennai,48124,39,Male,2023-08-18 00:00:00,Victim reported upi fraud incident in Chennai.,Closed
+1108,Phishing,Tamil Nadu,Coimbatore,4516,52,Male,2023-01-30 00:00:00,Victim reported phishing incident in Coimbatore.,Closed
+1109,Identity Theft,Tamil Nadu,Chennai,38878,32,Male,2023-03-24 00:00:00,Victim reported identity theft incident in Chennai.,Closed
+1110,Online Shopping Fraud,Tamil Nadu,Coimbatore,17696,34,Male,2023-12-16 00:00:00,Victim reported online shopping fraud incident in Coimbatore.,Open
+1111,Crypto Scam,Tamil Nadu,Coimbatore,31471,37,Male,2023-12-09 00:00:00,Victim reported crypto scam incident in Coimbatore.,Open
+1112,Job Scam,Tamil Nadu,Coimbatore,40109,28,Male,2023-01-08 00:00:00,Victim reported job scam incident in Coimbatore.,Under Investigation
+1113,Phishing,Tamil Nadu,Chennai,36371,58,Male,2023-10-18 00:00:00,Victim reported phishing incident in Chennai.,Closed
+1114,Credit Card Fraud,Tamil Nadu,Coimbatore,8471,55,Male,2023-10-29 00:00:00,Victim reported credit card fraud incident in Coimbatore.,Open
+1115,Loan Scam,Tamil Nadu,Coimbatore,31625,37,Male,2023-06-11 00:00:00,Victim reported loan scam incident in Coimbatore.,Closed
+1116,Loan Scam,Tamil Nadu,Chennai,17068,52,Female,2023-01-18 00:00:00,Victim reported loan scam incident in Chennai.,Closed
+1117,KYC Scam,Tamil Nadu,Chennai,2843,22,Male,2023-03-06 00:00:00,Victim reported kyc scam incident in Chennai.,Under Investigation
+1118,UPI Fraud,Tamil Nadu,Chennai,48322,46,Female,2023-05-23 00:00:00,Victim reported upi fraud incident in Chennai.,Open
+1119,UPI Fraud,Tamil Nadu,Chennai,35360,39,Male,2023-12-02 00:00:00,Victim reported upi fraud incident in Chennai.,Open
+1120,Loan Scam,Tamil Nadu,Coimbatore,18541,58,Male,2023-09-07 00:00:00,Victim reported loan scam incident in Coimbatore.,Closed
+1121,Social Media Hack,Tamil Nadu,Coimbatore,47874,46,Female,2023-04-12 00:00:00,Victim reported social media hack incident in Coimbatore.,Under Investigation
+1122,KYC Scam,Tamil Nadu,Chennai,8461,28,Male,2023-05-17 00:00:00,Victim reported kyc scam incident in Chennai.,Closed
+1123,Online Shopping Fraud,Tamil Nadu,Chennai,31653,19,Female,2023-11-28 00:00:00,Victim reported online shopping fraud incident in Chennai.,Under Investigation
+1124,Loan Scam,Tamil Nadu,Chennai,7194,39,Female,2023-10-24 00:00:00,Victim reported loan scam incident in Chennai.,Under Investigation
+1125,UPI Fraud,Tamil Nadu,Chennai,36251,55,Female,2023-09-08 00:00:00,Victim reported upi fraud incident in Chennai.,Closed
+1126,Phishing,Tamil Nadu,Chennai,47414,18,Female,2023-06-15 00:00:00,Victim reported phishing incident in Chennai.,Under Investigation
+1127,Job Scam,Tamil Nadu,Chennai,18093,52,Male,2023-05-07 00:00:00,Victim reported job scam incident in Chennai.,Open
+1128,Identity Theft,Tamil Nadu,Coimbatore,14237,38,Male,2023-05-24 00:00:00,Victim reported identity theft incident in Coimbatore.,Under Investigation
+1129,Crypto Scam,Tamil Nadu,Coimbatore,26221,35,Male,2023-06-24 00:00:00,Victim reported crypto scam incident in Coimbatore.,Closed
+1130,Online Shopping Fraud,Tamil Nadu,Coimbatore,551,48,Female,2023-08-17 00:00:00,Victim reported online shopping fraud incident in Coimbatore.,Closed
+1131,KYC Scam,Tamil Nadu,Coimbatore,11991,44,Female,2023-05-01 00:00:00,Victim reported kyc scam incident in Coimbatore.,Under Investigation
+1132,Loan Scam,Tamil Nadu,Chennai,45980,18,Male,2023-07-14 00:00:00,Victim reported loan scam incident in Chennai.,Open
+1133,Social Media Hack,Tamil Nadu,Chennai,47374,47,Male,2023-01-03 00:00:00,Victim reported social media hack incident in Chennai.,Under Investigation
+1134,Job Scam,Tamil Nadu,Chennai,45898,55,Male,2023-09-07 00:00:00,Victim reported job scam incident in Chennai.,Open
+1135,Online Shopping Fraud,Tamil Nadu,Chennai,39834,24,Male,2023-06-08 00:00:00,Victim reported online shopping fraud incident in Chennai.,Open
+1136,Job Scam,Tamil Nadu,Coimbatore,19820,35,Female,2023-04-16 00:00:00,Victim reported job scam incident in Coimbatore.,Under Investigation
+1137,KYC Scam,Tamil Nadu,Chennai,13823,56,Female,2023-03-15 00:00:00,Victim reported kyc scam incident in Chennai.,Open
+1138,Crypto Scam,Tamil Nadu,Coimbatore,6454,59,Male,2023-01-11 00:00:00,Victim reported crypto scam incident in Coimbatore.,Under Investigation
+1139,Identity Theft,Tamil Nadu,Coimbatore,44361,53,Male,2023-12-19 00:00:00,Victim reported identity theft incident in Coimbatore.,Under Investigation
+1140,Crypto Scam,Tamil Nadu,Chennai,46131,42,Female,2023-01-14 00:00:00,Victim reported crypto scam incident in Chennai.,Closed
+1141,Online Shopping Fraud,Tamil Nadu,Chennai,28917,18,Male,2023-03-20 00:00:00,Victim reported online shopping fraud incident in Chennai.,Closed
+1142,Identity Theft,Tamil Nadu,Chennai,34601,47,Male,2023-12-07 00:00:00,Victim reported identity theft incident in Chennai.,Under Investigation
+1143,KYC Scam,Tamil Nadu,Coimbatore,15740,53,Male,2023-05-20 00:00:00,Victim reported kyc scam incident in Coimbatore.,Open
+1144,Credit Card Fraud,Tamil Nadu,Chennai,40376,26,Female,2023-07-20 00:00:00,Victim reported credit card fraud incident in Chennai.,Under Investigation
+1145,Social Media Hack,Tamil Nadu,Coimbatore,23387,23,Female,2023-10-06 00:00:00,Victim reported social media hack incident in Coimbatore.,Open
+1146,Job Scam,Tamil Nadu,Chennai,21824,38,Male,2023-05-02 00:00:00,Victim reported job scam incident in Chennai.,Closed
+1147,Social Media Hack,Tamil Nadu,Coimbatore,20532,55,Male,2023-10-15 00:00:00,Victim reported social media hack incident in Coimbatore.,Open
+1148,Job Scam,Tamil Nadu,Chennai,45756,47,Male,2023-11-18 00:00:00,Victim reported job scam incident in Chennai.,Under Investigation
+1149,Social Media Hack,Tamil Nadu,Chennai,38686,41,Female,2023-10-12 00:00:00,Victim reported social media hack incident in Chennai.,Closed
+1150,Phishing,Tamil Nadu,Chennai,9242,53,Female,2023-04-01 00:00:00,Victim reported phishing incident in Chennai.,Under Investigation
+1151,Social Media Hack,Tamil Nadu,Chennai,8778,52,Male,2023-07-05 00:00:00,Victim reported social media hack incident in Chennai.,Closed
+1152,Credit Card Fraud,Tamil Nadu,Coimbatore,3598,43,Male,2023-10-05 00:00:00,Victim reported credit card fraud incident in Coimbatore.,Under Investigation
+1153,Phishing,Tamil Nadu,Coimbatore,34299,29,Female,2023-12-22 00:00:00,Victim reported phishing incident in Coimbatore.,Under Investigation
+1154,Social Media Hack,Tamil Nadu,Coimbatore,8762,48,Male,2023-11-20 00:00:00,Victim reported social media hack incident in Coimbatore.,Open
+1155,Job Scam,Tamil Nadu,Coimbatore,42040,59,Female,2023-12-09 00:00:00,Victim reported job scam incident in Coimbatore.,Open
+1156,Crypto Scam,Tamil Nadu,Coimbatore,12075,47,Female,2023-01-09 00:00:00,Victim reported crypto scam incident in Coimbatore.,Under Investigation
+1157,Credit Card Fraud,Tamil Nadu,Coimbatore,45244,33,Female,2023-04-02 00:00:00,Victim reported credit card fraud incident in Coimbatore.,Closed
+1158,Credit Card Fraud,Tamil Nadu,Chennai,15280,60,Female,2023-10-30 00:00:00,Victim reported credit card fraud incident in Chennai.,Open
+1159,Crypto Scam,Tamil Nadu,Coimbatore,2960,38,Male,2023-05-07 00:00:00,Victim reported crypto scam incident in Coimbatore.,Closed
+1160,Job Scam,Tamil Nadu,Chennai,10484,52,Female,2023-11-09 00:00:00,Victim reported job scam incident in Chennai.,Under Investigation
+1161,Social Media Hack,Tamil Nadu,Coimbatore,39718,37,Male,2023-07-02 00:00:00,Victim reported social media hack incident in Coimbatore.,Closed
+1162,Online Shopping Fraud,Tamil Nadu,Coimbatore,32852,49,Male,2023-12-11 00:00:00,Victim reported online shopping fraud incident in Coimbatore.,Open
+1163,Social Media Hack,Tamil Nadu,Coimbatore,4472,29,Male,2023-07-14 00:00:00,Victim reported social media hack incident in Coimbatore.,Under Investigation
+1164,Social Media Hack,Tamil Nadu,Chennai,1755,26,Female,2023-12-13 00:00:00,Victim reported social media hack incident in Chennai.,Under Investigation
+1165,Credit Card Fraud,Tamil Nadu,Chennai,45004,25,Male,2023-03-24 00:00:00,Victim reported credit card fraud incident in Chennai.,Closed
+1166,Phishing,Tamil Nadu,Coimbatore,7733,38,Male,2023-01-04 00:00:00,Victim reported phishing incident in Coimbatore.,Open
+1167,Phishing,Tamil Nadu,Coimbatore,32118,27,Female,2023-04-21 00:00:00,Victim reported phishing incident in Coimbatore.,Closed
+1168,Credit Card Fraud,Tamil Nadu,Chennai,6156,21,Female,2023-07-05 00:00:00,Victim reported credit card fraud incident in Chennai.,Open
+1169,Identity Theft,Tamil Nadu,Chennai,12109,46,Male,2023-03-21 00:00:00,Victim reported identity theft incident in Chennai.,Closed
+1170,Loan Scam,Tamil Nadu,Chennai,21954,24,Female,2023-10-22 00:00:00,Victim reported loan scam incident in Chennai.,Under Investigation
+1171,Job Scam,Tamil Nadu,Chennai,511,49,Female,2023-08-03 00:00:00,Victim reported job scam incident in Chennai.,Open
+1172,Job Scam,Tamil Nadu,Chennai,43069,24,Female,2023-10-03 00:00:00,Victim reported job scam incident in Chennai.,Closed
+1173,UPI Fraud,Tamil Nadu,Coimbatore,32443,52,Male,2023-04-04 00:00:00,Victim reported upi fraud incident in Coimbatore.,Open
+1174,Job Scam,Tamil Nadu,Coimbatore,39711,42,Female,2023-11-19 00:00:00,Victim reported job scam incident in Coimbatore.,Open
+1175,Social Media Hack,Tamil Nadu,Coimbatore,44593,23,Female,2023-06-02 00:00:00,Victim reported social media hack incident in Coimbatore.,Open
+1176,Job Scam,Tamil Nadu,Chennai,25209,34,Female,2023-09-09 00:00:00,Victim reported job scam incident in Chennai.,Closed
+1177,Loan Scam,Gujarat,Ahmedabad,24380,49,Female,2023-08-09 00:00:00,Victim reported loan scam incident in Ahmedabad.,Closed
+1178,Identity Theft,Gujarat,Surat,10941,28,Male,2023-04-10 00:00:00,Victim reported identity theft incident in Surat.,Closed
+1179,Loan Scam,Gujarat,Surat,20965,47,Male,2023-08-25 00:00:00,Victim reported loan scam incident in Surat.,Closed
+1180,Credit Card Fraud,Gujarat,Surat,46596,22,Female,2023-04-02 00:00:00,Victim reported credit card fraud incident in Surat.,Under Investigation
+1181,Online Shopping Fraud,Gujarat,Ahmedabad,18331,29,Male,2023-07-09 00:00:00,Victim reported online shopping fraud incident in Ahmedabad.,Open
+1182,Phishing,Gujarat,Ahmedabad,48404,52,Female,2023-04-06 00:00:00,Victim reported phishing incident in Ahmedabad.,Open
+1183,Online Shopping Fraud,Gujarat,Ahmedabad,31262,53,Male,2023-09-07 00:00:00,Victim reported online shopping fraud incident in Ahmedabad.,Closed
+1184,Online Shopping Fraud,Gujarat,Ahmedabad,33166,38,Female,2023-11-30 00:00:00,Victim reported online shopping fraud incident in Ahmedabad.,Open
+1185,Online Shopping Fraud,Gujarat,Surat,43967,40,Female,2023-12-06 00:00:00,Victim reported online shopping fraud incident in Surat.,Open
+1186,Loan Scam,Gujarat,Surat,12540,34,Male,2023-10-07 00:00:00,Victim reported loan scam incident in Surat.,Under Investigation
+1187,UPI Fraud,Gujarat,Ahmedabad,5158,49,Female,2023-04-08 00:00:00,Victim reported upi fraud incident in Ahmedabad.,Closed
+1188,Loan Scam,Gujarat,Ahmedabad,44959,54,Male,2023-02-10 00:00:00,Victim reported loan scam incident in Ahmedabad.,Under Investigation
+1189,Online Shopping Fraud,Gujarat,Surat,31744,50,Female,2023-01-09 00:00:00,Victim reported online shopping fraud incident in Surat.,Open
+1190,Job Scam,Gujarat,Ahmedabad,38943,44,Female,2023-01-25 00:00:00,Victim reported job scam incident in Ahmedabad.,Closed
+1191,Identity Theft,Gujarat,Ahmedabad,40524,23,Female,2023-07-30 00:00:00,Victim reported identity theft incident in Ahmedabad.,Closed
+1192,KYC Scam,Gujarat,Surat,38281,41,Female,2023-11-09 00:00:00,Victim reported kyc scam incident in Surat.,Under Investigation
+1193,Phishing,Gujarat,Surat,29820,35,Female,2023-02-19 00:00:00,Victim reported phishing incident in Surat.,Open
+1194,KYC Scam,Gujarat,Ahmedabad,49834,59,Female,2023-11-29 00:00:00,Victim reported kyc scam incident in Ahmedabad.,Closed
+1195,Loan Scam,Gujarat,Surat,45124,42,Male,2023-10-07 00:00:00,Victim reported loan scam incident in Surat.,Open
+1196,Identity Theft,Gujarat,Surat,10954,36,Male,2023-08-14 00:00:00,Victim reported identity theft incident in Surat.,Under Investigation
+1197,Credit Card Fraud,Gujarat,Surat,38988,21,Female,2023-12-29 00:00:00,Victim reported credit card fraud incident in Surat.,Open
+1198,UPI Fraud,Gujarat,Surat,11689,59,Male,2023-05-29 00:00:00,Victim reported upi fraud incident in Surat.,Closed
+1199,Job Scam,Gujarat,Ahmedabad,47925,21,Male,2023-01-22 00:00:00,Victim reported job scam incident in Ahmedabad.,Under Investigation
+1200,Identity Theft,Gujarat,Surat,34349,43,Male,2023-08-14 00:00:00,Victim reported identity theft incident in Surat.,Closed
+1201,UPI Fraud,Gujarat,Ahmedabad,15338,54,Female,2023-03-19 00:00:00,Victim reported upi fraud incident in Ahmedabad.,Closed
+1202,Identity Theft,Gujarat,Surat,8169,19,Female,2023-04-08 00:00:00,Victim reported identity theft incident in Surat.,Open
+1203,Online Shopping Fraud,Gujarat,Surat,16072,32,Male,2023-05-04 00:00:00,Victim reported online shopping fraud incident in Surat.,Closed
+1204,Loan Scam,Gujarat,Ahmedabad,924,55,Female,2023-12-27 00:00:00,Victim reported loan scam incident in Ahmedabad.,Open
+1205,Credit Card Fraud,Gujarat,Surat,3711,41,Male,2023-01-15 00:00:00,Victim reported credit card fraud incident in Surat.,Closed
+1206,Credit Card Fraud,Gujarat,Ahmedabad,14966,39,Male,2023-11-14 00:00:00,Victim reported credit card fraud incident in Ahmedabad.,Under Investigation
+1207,UPI Fraud,Gujarat,Ahmedabad,30577,29,Male,2023-05-05 00:00:00,Victim reported upi fraud incident in Ahmedabad.,Closed
+1208,Job Scam,Gujarat,Surat,3577,43,Female,2023-07-16 00:00:00,Victim reported job scam incident in Surat.,Under Investigation
+1209,Crypto Scam,Gujarat,Surat,38785,52,Female,2023-08-14 00:00:00,Victim reported crypto scam incident in Surat.,Under Investigation
+1210,Identity Theft,Gujarat,Ahmedabad,8859,21,Male,2023-07-31 00:00:00,Victim reported identity theft incident in Ahmedabad.,Under Investigation
+1211,Loan Scam,Gujarat,Surat,23222,25,Male,2023-04-13 00:00:00,Victim reported loan scam incident in Surat.,Closed
+1212,Online Shopping Fraud,Gujarat,Surat,33546,20,Female,2023-11-26 00:00:00,Victim reported online shopping fraud incident in Surat.,Under Investigation
+1213,Job Scam,Gujarat,Ahmedabad,5632,30,Female,2023-06-21 00:00:00,Victim reported job scam incident in Ahmedabad.,Closed
+1214,Identity Theft,Gujarat,Surat,12451,55,Male,2023-11-30 00:00:00,Victim reported identity theft incident in Surat.,Under Investigation
+1215,Phishing,Gujarat,Surat,48110,18,Female,2023-03-09 00:00:00,Victim reported phishing incident in Surat.,Closed
+1216,KYC Scam,Gujarat,Ahmedabad,34888,23,Female,2023-05-19 00:00:00,Victim reported kyc scam incident in Ahmedabad.,Open
+1217,Social Media Hack,Gujarat,Surat,27913,29,Female,2023-05-03 00:00:00,Victim reported social media hack incident in Surat.,Open
+1218,Loan Scam,Gujarat,Surat,25166,36,Male,2023-09-23 00:00:00,Victim reported loan scam incident in Surat.,Open
+1219,Crypto Scam,Gujarat,Surat,11547,37,Male,2023-08-29 00:00:00,Victim reported crypto scam incident in Surat.,Closed
+1220,Loan Scam,Gujarat,Surat,9671,41,Female,2023-10-09 00:00:00,Victim reported loan scam incident in Surat.,Under Investigation
+1221,Identity Theft,Gujarat,Ahmedabad,8880,48,Female,2023-05-09 00:00:00,Victim reported identity theft incident in Ahmedabad.,Closed
+1222,UPI Fraud,Gujarat,Ahmedabad,15195,53,Female,2023-04-09 00:00:00,Victim reported upi fraud incident in Ahmedabad.,Open
+1223,Online Shopping Fraud,Gujarat,Ahmedabad,37871,42,Male,2023-06-30 00:00:00,Victim reported online shopping fraud incident in Ahmedabad.,Under Investigation
+1224,Identity Theft,Gujarat,Ahmedabad,10376,46,Female,2023-08-09 00:00:00,Victim reported identity theft incident in Ahmedabad.,Under Investigation
+1225,Credit Card Fraud,Gujarat,Surat,8755,50,Male,2023-04-07 00:00:00,Victim reported credit card fraud incident in Surat.,Under Investigation
+1226,UPI Fraud,Gujarat,Surat,47367,24,Male,2023-06-24 00:00:00,Victim reported upi fraud incident in Surat.,Closed
+1227,Crypto Scam,Gujarat,Ahmedabad,2957,40,Male,2023-11-07 00:00:00,Victim reported crypto scam incident in Ahmedabad.,Closed
+1228,KYC Scam,Gujarat,Surat,17592,25,Female,2023-06-18 00:00:00,Victim reported kyc scam incident in Surat.,Open
+1229,UPI Fraud,Gujarat,Surat,44929,26,Male,2023-10-31 00:00:00,Victim reported upi fraud incident in Surat.,Open
+1230,Social Media Hack,Gujarat,Ahmedabad,44074,52,Male,2023-01-06 00:00:00,Victim reported social media hack incident in Ahmedabad.,Closed
+1231,UPI Fraud,Gujarat,Ahmedabad,25052,37,Female,2023-06-09 00:00:00,Victim reported upi fraud incident in Ahmedabad.,Closed
+1232,KYC Scam,Gujarat,Surat,46633,39,Female,2023-04-09 00:00:00,Victim reported kyc scam incident in Surat.,Under Investigation
+1233,Social Media Hack,Gujarat,Surat,25832,38,Female,2023-01-25 00:00:00,Victim reported social media hack incident in Surat.,Under Investigation
+1234,Loan Scam,Gujarat,Surat,12712,45,Female,2023-09-29 00:00:00,Victim reported loan scam incident in Surat.,Under Investigation
+1235,Social Media Hack,Gujarat,Surat,21267,22,Male,2023-04-12 00:00:00,Victim reported social media hack incident in Surat.,Open
+1236,Job Scam,Gujarat,Ahmedabad,26964,46,Male,2023-12-19 00:00:00,Victim reported job scam incident in Ahmedabad.,Closed
+1237,Crypto Scam,Gujarat,Ahmedabad,34005,29,Female,2023-08-08 00:00:00,Victim reported crypto scam incident in Ahmedabad.,Closed
+1238,Loan Scam,Gujarat,Ahmedabad,30632,35,Female,2023-09-27 00:00:00,Victim reported loan scam incident in Ahmedabad.,Open
+1239,UPI Fraud,Gujarat,Ahmedabad,41939,52,Male,2023-12-14 00:00:00,Victim reported upi fraud incident in Ahmedabad.,Under Investigation
+1240,KYC Scam,Gujarat,Ahmedabad,14975,59,Female,2023-09-29 00:00:00,Victim reported kyc scam incident in Ahmedabad.,Closed
+1241,Credit Card Fraud,Gujarat,Ahmedabad,9456,52,Male,2023-05-27 00:00:00,Victim reported credit card fraud incident in Ahmedabad.,Open
+1242,Identity Theft,Gujarat,Surat,18200,45,Male,2023-02-13 00:00:00,Victim reported identity theft incident in Surat.,Closed
+1243,Loan Scam,Gujarat,Ahmedabad,49561,46,Male,2023-01-17 00:00:00,Victim reported loan scam incident in Ahmedabad.,Open
+1244,UPI Fraud,Gujarat,Surat,13443,55,Female,2023-07-25 00:00:00,Victim reported upi fraud incident in Surat.,Closed
+1245,Phishing,Gujarat,Surat,49609,48,Male,2023-10-22 00:00:00,Victim reported phishing incident in Surat.,Under Investigation
+1246,Credit Card Fraud,Gujarat,Surat,31799,60,Female,2023-07-12 00:00:00,Victim reported credit card fraud incident in Surat.,Under Investigation
+1247,Online Shopping Fraud,Gujarat,Ahmedabad,30745,32,Female,2023-05-31 00:00:00,Victim reported online shopping fraud incident in Ahmedabad.,Closed
+1248,Crypto Scam,Gujarat,Ahmedabad,14269,57,Female,2023-05-21 00:00:00,Victim reported crypto scam incident in Ahmedabad.,Open
+1249,Crypto Scam,Gujarat,Surat,27007,59,Male,2023-03-13 00:00:00,Victim reported crypto scam incident in Surat.,Closed
+1250,Job Scam,Gujarat,Ahmedabad,31569,38,Female,2023-05-03 00:00:00,Victim reported job scam incident in Ahmedabad.,Open
+1251,Credit Card Fraud,Gujarat,Ahmedabad,46362,27,Male,2023-04-27 00:00:00,Victim reported credit card fraud incident in Ahmedabad.,Under Investigation
+1252,Credit Card Fraud,Gujarat,Surat,40168,36,Male,2023-02-01 00:00:00,Victim reported credit card fraud incident in Surat.,Closed
+1253,Loan Scam,Gujarat,Surat,8473,40,Female,2023-03-29 00:00:00,Victim reported loan scam incident in Surat.,Open
+1254,KYC Scam,Gujarat,Surat,31082,53,Male,2023-08-10 00:00:00,Victim reported kyc scam incident in Surat.,Closed
+1255,Social Media Hack,Gujarat,Ahmedabad,3613,29,Male,2023-07-09 00:00:00,Victim reported social media hack incident in Ahmedabad.,Under Investigation
+1256,Crypto Scam,Gujarat,Surat,4712,30,Male,2023-08-14 00:00:00,Victim reported crypto scam incident in Surat.,Open
+1257,KYC Scam,Gujarat,Ahmedabad,30188,25,Male,2023-06-29 00:00:00,Victim reported kyc scam incident in Ahmedabad.,Under Investigation
+1258,Social Media Hack,Gujarat,Surat,31005,45,Female,2023-07-24 00:00:00,Victim reported social media hack incident in Surat.,Open
+1259,Social Media Hack,Gujarat,Surat,33100,54,Male,2023-05-06 00:00:00,Victim reported social media hack incident in Surat.,Closed
+1260,Crypto Scam,Gujarat,Ahmedabad,5656,46,Male,2023-10-12 00:00:00,Victim reported crypto scam incident in Ahmedabad.,Closed
+1261,UPI Fraud,Madhya Pradesh,Indore,6398,41,Male,2023-11-08 00:00:00,Victim reported upi fraud incident in Indore.,Under Investigation
+1262,Loan Scam,Madhya Pradesh,Bhopal,22982,29,Female,2023-10-17 00:00:00,Victim reported loan scam incident in Bhopal.,Closed
+1263,Credit Card Fraud,Madhya Pradesh,Indore,16494,41,Male,2023-05-16 00:00:00,Victim reported credit card fraud incident in Indore.,Under Investigation
+1264,Phishing,Madhya Pradesh,Bhopal,22227,25,Female,2023-05-01 00:00:00,Victim reported phishing incident in Bhopal.,Under Investigation
+1265,Phishing,Madhya Pradesh,Indore,47125,47,Male,2023-10-23 00:00:00,Victim reported phishing incident in Indore.,Under Investigation
+1266,Identity Theft,Madhya Pradesh,Bhopal,18691,32,Male,2023-03-06 00:00:00,Victim reported identity theft incident in Bhopal.,Closed
+1267,Loan Scam,Madhya Pradesh,Indore,47189,23,Male,2023-04-21 00:00:00,Victim reported loan scam incident in Indore.,Open
+1268,UPI Fraud,Madhya Pradesh,Indore,12174,26,Male,2023-03-12 00:00:00,Victim reported upi fraud incident in Indore.,Under Investigation
+1269,Social Media Hack,Madhya Pradesh,Indore,4528,31,Female,2023-07-05 00:00:00,Victim reported social media hack incident in Indore.,Under Investigation
+1270,Social Media Hack,Madhya Pradesh,Bhopal,35131,19,Male,2023-06-14 00:00:00,Victim reported social media hack incident in Bhopal.,Open
+1271,Credit Card Fraud,Madhya Pradesh,Bhopal,8158,21,Male,2023-09-30 00:00:00,Victim reported credit card fraud incident in Bhopal.,Under Investigation
+1272,UPI Fraud,Madhya Pradesh,Bhopal,18495,27,Female,2023-01-05 00:00:00,Victim reported upi fraud incident in Bhopal.,Under Investigation
+1273,Credit Card Fraud,Madhya Pradesh,Bhopal,25125,21,Male,2023-04-15 00:00:00,Victim reported credit card fraud incident in Bhopal.,Closed
+1274,Online Shopping Fraud,Madhya Pradesh,Bhopal,18857,20,Female,2023-04-25 00:00:00,Victim reported online shopping fraud incident in Bhopal.,Open
+1275,Credit Card Fraud,Madhya Pradesh,Bhopal,15969,49,Male,2023-04-12 00:00:00,Victim reported credit card fraud incident in Bhopal.,Open
+1276,KYC Scam,Madhya Pradesh,Bhopal,28467,58,Male,2023-11-19 00:00:00,Victim reported kyc scam incident in Bhopal.,Open
+1277,Loan Scam,Madhya Pradesh,Indore,37407,31,Female,2023-12-27 00:00:00,Victim reported loan scam incident in Indore.,Open
+1278,Phishing,Madhya Pradesh,Indore,18665,43,Female,2023-11-06 00:00:00,Victim reported phishing incident in Indore.,Closed
+1279,Identity Theft,Madhya Pradesh,Bhopal,22172,25,Female,2023-09-22 00:00:00,Victim reported identity theft incident in Bhopal.,Under Investigation
+1280,Identity Theft,Madhya Pradesh,Bhopal,3946,33,Female,2023-10-03 00:00:00,Victim reported identity theft incident in Bhopal.,Open
+1281,Phishing,Madhya Pradesh,Bhopal,45540,35,Male,2023-11-11 00:00:00,Victim reported phishing incident in Bhopal.,Open
+1282,Loan Scam,Madhya Pradesh,Bhopal,30127,26,Male,2023-12-28 00:00:00,Victim reported loan scam incident in Bhopal.,Under Investigation
+1283,Loan Scam,Madhya Pradesh,Indore,13770,60,Male,2023-06-07 00:00:00,Victim reported loan scam incident in Indore.,Under Investigation
+1284,Credit Card Fraud,Madhya Pradesh,Indore,8132,57,Female,2023-09-25 00:00:00,Victim reported credit card fraud incident in Indore.,Closed
+1285,Identity Theft,Madhya Pradesh,Bhopal,3001,27,Female,2023-06-18 00:00:00,Victim reported identity theft incident in Bhopal.,Open
+1286,Job Scam,Madhya Pradesh,Bhopal,44722,19,Female,2023-05-18 00:00:00,Victim reported job scam incident in Bhopal.,Closed
+1287,UPI Fraud,Madhya Pradesh,Bhopal,45422,57,Female,2023-12-11 00:00:00,Victim reported upi fraud incident in Bhopal.,Under Investigation
+1288,Crypto Scam,Madhya Pradesh,Bhopal,36470,30,Male,2023-04-23 00:00:00,Victim reported crypto scam incident in Bhopal.,Open
+1289,Identity Theft,Madhya Pradesh,Indore,2461,27,Female,2023-06-09 00:00:00,Victim reported identity theft incident in Indore.,Open
+1290,Credit Card Fraud,Madhya Pradesh,Bhopal,29489,19,Male,2023-09-06 00:00:00,Victim reported credit card fraud incident in Bhopal.,Closed
+1291,Phishing,Madhya Pradesh,Indore,37464,50,Female,2023-07-20 00:00:00,Victim reported phishing incident in Indore.,Closed
+1292,Online Shopping Fraud,Madhya Pradesh,Indore,48690,22,Male,2023-12-12 00:00:00,Victim reported online shopping fraud incident in Indore.,Under Investigation
+1293,Social Media Hack,Madhya Pradesh,Bhopal,8992,19,Male,2023-11-17 00:00:00,Victim reported social media hack incident in Bhopal.,Closed
+1294,Loan Scam,Madhya Pradesh,Bhopal,799,42,Female,2023-06-05 00:00:00,Victim reported loan scam incident in Bhopal.,Under Investigation
+1295,Crypto Scam,Madhya Pradesh,Bhopal,16714,57,Male,2023-03-17 00:00:00,Victim reported crypto scam incident in Bhopal.,Under Investigation
+1296,Phishing,Madhya Pradesh,Bhopal,44285,27,Female,2023-01-11 00:00:00,Victim reported phishing incident in Bhopal.,Open
+1297,KYC Scam,Madhya Pradesh,Bhopal,24354,32,Male,2023-09-05 00:00:00,Victim reported kyc scam incident in Bhopal.,Open
+1298,Online Shopping Fraud,Madhya Pradesh,Bhopal,42567,58,Female,2023-05-21 00:00:00,Victim reported online shopping fraud incident in Bhopal.,Open
+1299,Job Scam,Madhya Pradesh,Indore,1509,23,Male,2023-07-04 00:00:00,Victim reported job scam incident in Indore.,Open
+1300,Identity Theft,Madhya Pradesh,Bhopal,1406,50,Male,2023-02-15 00:00:00,Victim reported identity theft incident in Bhopal.,Open
+1301,Loan Scam,Madhya Pradesh,Bhopal,42444,18,Female,2023-06-17 00:00:00,Victim reported loan scam incident in Bhopal.,Open
+1302,Online Shopping Fraud,Madhya Pradesh,Bhopal,43981,20,Male,2023-05-12 00:00:00,Victim reported online shopping fraud incident in Bhopal.,Open
+1303,Online Shopping Fraud,Madhya Pradesh,Bhopal,5638,59,Female,2023-10-23 00:00:00,Victim reported online shopping fraud incident in Bhopal.,Under Investigation
+1304,Identity Theft,Madhya Pradesh,Indore,917,53,Female,2023-05-21 00:00:00,Victim reported identity theft incident in Indore.,Open
+1305,Credit Card Fraud,Madhya Pradesh,Indore,36486,40,Male,2023-06-30 00:00:00,Victim reported credit card fraud incident in Indore.,Closed
+1306,Loan Scam,Madhya Pradesh,Indore,24698,27,Male,2023-10-31 00:00:00,Victim reported loan scam incident in Indore.,Under Investigation
+1307,Identity Theft,Madhya Pradesh,Indore,11299,36,Male,2023-06-12 00:00:00,Victim reported identity theft incident in Indore.,Closed
+1308,Credit Card Fraud,Madhya Pradesh,Bhopal,26132,50,Male,2023-07-06 00:00:00,Victim reported credit card fraud incident in Bhopal.,Under Investigation
+1309,UPI Fraud,Madhya Pradesh,Bhopal,20555,59,Male,2023-01-01 00:00:00,Victim reported upi fraud incident in Bhopal.,Under Investigation
+1310,UPI Fraud,Madhya Pradesh,Indore,21349,19,Male,2023-09-18 00:00:00,Victim reported upi fraud incident in Indore.,Under Investigation
+1311,Social Media Hack,Madhya Pradesh,Bhopal,2392,33,Male,2023-07-22 00:00:00,Victim reported social media hack incident in Bhopal.,Closed
+1312,Social Media Hack,Madhya Pradesh,Bhopal,35256,47,Female,2023-07-21 00:00:00,Victim reported social media hack incident in Bhopal.,Open
+1313,Credit Card Fraud,Madhya Pradesh,Bhopal,15486,28,Male,2023-10-27 00:00:00,Victim reported credit card fraud incident in Bhopal.,Closed
+1314,Crypto Scam,Madhya Pradesh,Indore,25081,37,Male,2023-10-08 00:00:00,Victim reported crypto scam incident in Indore.,Under Investigation
+1315,Phishing,Madhya Pradesh,Bhopal,36331,21,Male,2023-05-28 00:00:00,Victim reported phishing incident in Bhopal.,Under Investigation
+1316,Job Scam,Madhya Pradesh,Indore,8918,26,Female,2023-05-25 00:00:00,Victim reported job scam incident in Indore.,Open
+1317,Online Shopping Fraud,Madhya Pradesh,Bhopal,18231,39,Male,2023-04-25 00:00:00,Victim reported online shopping fraud incident in Bhopal.,Closed
+1318,Online Shopping Fraud,Madhya Pradesh,Indore,24576,52,Female,2023-08-28 00:00:00,Victim reported online shopping fraud incident in Indore.,Open
+1319,KYC Scam,Madhya Pradesh,Bhopal,35300,53,Female,2023-07-17 00:00:00,Victim reported kyc scam incident in Bhopal.,Open
+1320,Social Media Hack,Madhya Pradesh,Indore,49048,40,Female,2023-02-19 00:00:00,Victim reported social media hack incident in Indore.,Closed
+1321,Crypto Scam,Madhya Pradesh,Indore,47873,40,Female,2023-10-06 00:00:00,Victim reported crypto scam incident in Indore.,Closed
+1322,UPI Fraud,Madhya Pradesh,Indore,38124,47,Male,2023-06-10 00:00:00,Victim reported upi fraud incident in Indore.,Closed
+1323,Crypto Scam,Madhya Pradesh,Bhopal,39206,25,Male,2023-02-05 00:00:00,Victim reported crypto scam incident in Bhopal.,Under Investigation
+1324,Crypto Scam,Madhya Pradesh,Bhopal,32879,31,Male,2023-10-18 00:00:00,Victim reported crypto scam incident in Bhopal.,Under Investigation
+1325,Online Shopping Fraud,Madhya Pradesh,Bhopal,32638,31,Male,2023-04-03 00:00:00,Victim reported online shopping fraud incident in Bhopal.,Under Investigation
+1326,Job Scam,Madhya Pradesh,Bhopal,25009,23,Male,2023-04-22 00:00:00,Victim reported job scam incident in Bhopal.,Under Investigation
+1327,UPI Fraud,Madhya Pradesh,Indore,21159,31,Female,2023-07-23 00:00:00,Victim reported upi fraud incident in Indore.,Closed
+1328,Phishing,Madhya Pradesh,Bhopal,19785,60,Female,2023-02-27 00:00:00,Victim reported phishing incident in Bhopal.,Closed
+1329,Social Media Hack,Madhya Pradesh,Indore,39714,55,Female,2023-02-07 00:00:00,Victim reported social media hack incident in Indore.,Closed
+1330,Job Scam,Madhya Pradesh,Indore,49015,42,Female,2023-10-26 00:00:00,Victim reported job scam incident in Indore.,Under Investigation
+1331,Phishing,Others,Patna,45076,41,Female,2023-02-09 00:00:00,Victim reported phishing incident in Patna.,Open
+1332,Identity Theft,Others,Chandigarh,44446,55,Female,2023-10-04 00:00:00,Victim reported identity theft incident in Chandigarh.,Under Investigation
+1333,Phishing,Others,Patna,32321,19,Male,2023-06-23 00:00:00,Victim reported phishing incident in Patna.,Under Investigation
+1334,Crypto Scam,Others,Patna,9626,39,Male,2023-11-30 00:00:00,Victim reported crypto scam incident in Patna.,Closed
+1335,KYC Scam,Others,Chandigarh,35560,22,Female,2023-08-24 00:00:00,Victim reported kyc scam incident in Chandigarh.,Open
+1336,Social Media Hack,Others,Ranchi,47683,58,Male,2023-06-06 00:00:00,Victim reported social media hack incident in Ranchi.,Under Investigation
+1337,UPI Fraud,Others,Patna,13300,31,Female,2023-02-14 00:00:00,Victim reported upi fraud incident in Patna.,Under Investigation
+1338,Phishing,Others,Ranchi,2663,60,Female,2023-08-24 00:00:00,Victim reported phishing incident in Ranchi.,Closed
+1339,Loan Scam,Others,Ranchi,44826,58,Male,2023-09-01 00:00:00,Victim reported loan scam incident in Ranchi.,Under Investigation
+1340,Social Media Hack,Others,Ranchi,39119,40,Male,2023-02-03 00:00:00,Victim reported social media hack incident in Ranchi.,Open
+1341,Credit Card Fraud,Others,Ranchi,26201,22,Male,2023-04-22 00:00:00,Victim reported credit card fraud incident in Ranchi.,Open
+1342,Identity Theft,Others,Ranchi,8553,50,Female,2023-02-05 00:00:00,Victim reported identity theft incident in Ranchi.,Open
+1343,Credit Card Fraud,Others,Chandigarh,44867,57,Male,2023-09-21 00:00:00,Victim reported credit card fraud incident in Chandigarh.,Under Investigation
+1344,Identity Theft,Others,Ranchi,12898,44,Female,2023-12-02 00:00:00,Victim reported identity theft incident in Ranchi.,Under Investigation
+1345,Crypto Scam,Others,Patna,20614,58,Male,2023-05-09 00:00:00,Victim reported crypto scam incident in Patna.,Under Investigation
+1346,Job Scam,Others,Ranchi,13831,43,Female,2023-11-29 00:00:00,Victim reported job scam incident in Ranchi.,Closed
+1347,Online Shopping Fraud,Others,Chandigarh,40795,48,Male,2023-02-15 00:00:00,Victim reported online shopping fraud incident in Chandigarh.,Under Investigation
+1348,Identity Theft,Others,Ranchi,30280,34,Male,2023-05-12 00:00:00,Victim reported identity theft incident in Ranchi.,Open
+1349,Identity Theft,Others,Chandigarh,23118,28,Male,2023-11-09 00:00:00,Victim reported identity theft incident in Chandigarh.,Closed
+1350,Social Media Hack,Others,Ranchi,32777,58,Female,2023-01-03 00:00:00,Victim reported social media hack incident in Ranchi.,Closed
+1351,Crypto Scam,Others,Patna,3122,45,Female,2023-06-10 00:00:00,Victim reported crypto scam incident in Patna.,Closed
+1352,KYC Scam,Others,Ranchi,29227,27,Female,2023-04-30 00:00:00,Victim reported kyc scam incident in Ranchi.,Open
+1353,Identity Theft,Others,Patna,12482,56,Female,2023-06-03 00:00:00,Victim reported identity theft incident in Patna.,Closed
+1354,Job Scam,Others,Chandigarh,24496,59,Male,2023-11-08 00:00:00,Victim reported job scam incident in Chandigarh.,Closed
+1355,Loan Scam,Others,Patna,11879,24,Female,2023-01-15 00:00:00,Victim reported loan scam incident in Patna.,Open
+1356,Crypto Scam,Others,Ranchi,11606,52,Male,2023-12-25 00:00:00,Victim reported crypto scam incident in Ranchi.,Open
+1357,UPI Fraud,Others,Ranchi,3042,21,Male,2023-04-12 00:00:00,Victim reported upi fraud incident in Ranchi.,Closed
+1358,Job Scam,Others,Chandigarh,8797,18,Female,2023-05-19 00:00:00,Victim reported job scam incident in Chandigarh.,Under Investigation
+1359,Loan Scam,Others,Chandigarh,49427,36,Female,2023-09-30 00:00:00,Victim reported loan scam incident in Chandigarh.,Under Investigation
+1360,Credit Card Fraud,Others,Patna,19270,51,Female,2023-10-21 00:00:00,Victim reported credit card fraud incident in Patna.,Closed
+1361,Identity Theft,Others,Ranchi,14604,49,Female,2023-06-11 00:00:00,Victim reported identity theft incident in Ranchi.,Closed
+1362,Loan Scam,Others,Patna,3971,23,Male,2023-12-11 00:00:00,Victim reported loan scam incident in Patna.,Under Investigation
+1363,Loan Scam,Others,Patna,45991,31,Male,2023-09-24 00:00:00,Victim reported loan scam incident in Patna.,Open
+1364,Identity Theft,Others,Chandigarh,38991,31,Female,2023-01-15 00:00:00,Victim reported identity theft incident in Chandigarh.,Closed
+1365,KYC Scam,Others,Chandigarh,42066,38,Female,2023-02-09 00:00:00,Victim reported kyc scam incident in Chandigarh.,Under Investigation
+1366,Identity Theft,Others,Ranchi,18316,25,Male,2023-09-09 00:00:00,Victim reported identity theft incident in Ranchi.,Closed
+1367,Crypto Scam,Others,Patna,13878,22,Female,2023-10-24 00:00:00,Victim reported crypto scam incident in Patna.,Closed
+1368,Social Media Hack,Others,Patna,13627,49,Male,2023-08-17 00:00:00,Victim reported social media hack incident in Patna.,Open
+1369,KYC Scam,Others,Patna,2384,55,Male,2023-12-12 00:00:00,Victim reported kyc scam incident in Patna.,Closed
+1370,Online Shopping Fraud,Others,Patna,43124,60,Female,2023-04-25 00:00:00,Victim reported online shopping fraud incident in Patna.,Open
+1371,Online Shopping Fraud,Others,Ranchi,42530,20,Male,2023-09-30 00:00:00,Victim reported online shopping fraud incident in Ranchi.,Open
+1372,Loan Scam,Others,Patna,13030,55,Female,2023-12-04 00:00:00,Victim reported loan scam incident in Patna.,Under Investigation
+1373,Loan Scam,Others,Ranchi,10169,21,Male,2023-11-18 00:00:00,Victim reported loan scam incident in Ranchi.,Closed
+1374,Identity Theft,Others,Ranchi,32860,38,Female,2023-08-31 00:00:00,Victim reported identity theft incident in Ranchi.,Open
+1375,Social Media Hack,Others,Chandigarh,16289,49,Female,2023-04-04 00:00:00,Victim reported social media hack incident in Chandigarh.,Open
+1376,Loan Scam,Others,Chandigarh,33471,51,Male,2023-09-24 00:00:00,Victim reported loan scam incident in Chandigarh.,Open
+1377,UPI Fraud,Others,Patna,40487,44,Male,2023-09-28 00:00:00,Victim reported upi fraud incident in Patna.,Under Investigation
+1378,Identity Theft,Others,Ranchi,46522,29,Male,2023-02-03 00:00:00,Victim reported identity theft incident in Ranchi.,Closed
+1379,Credit Card Fraud,Others,Ranchi,2903,42,Female,2023-10-06 00:00:00,Victim reported credit card fraud incident in Ranchi.,Open
+1380,Crypto Scam,Others,Patna,23177,26,Female,2023-04-25 00:00:00,Victim reported crypto scam incident in Patna.,Under Investigation
+1381,KYC Scam,Others,Patna,24077,44,Male,2023-03-21 00:00:00,Victim reported kyc scam incident in Patna.,Under Investigation
+1382,Online Shopping Fraud,Others,Patna,3791,25,Male,2023-03-01 00:00:00,Victim reported online shopping fraud incident in Patna.,Open
+1383,KYC Scam,Others,Ranchi,40402,19,Female,2023-04-29 00:00:00,Victim reported kyc scam incident in Ranchi.,Closed
+1384,Credit Card Fraud,Others,Patna,23187,41,Female,2023-12-03 00:00:00,Victim reported credit card fraud incident in Patna.,Closed
+1385,Job Scam,Others,Chandigarh,31995,28,Female,2023-11-21 00:00:00,Victim reported job scam incident in Chandigarh.,Under Investigation
+1386,Online Shopping Fraud,Others,Ranchi,31347,49,Male,2023-08-09 00:00:00,Victim reported online shopping fraud incident in Ranchi.,Open
+1387,Online Shopping Fraud,Others,Chandigarh,38879,34,Female,2023-07-06 00:00:00,Victim reported online shopping fraud incident in Chandigarh.,Closed
+1388,Phishing,Others,Chandigarh,10962,60,Male,2023-07-10 00:00:00,Victim reported phishing incident in Chandigarh.,Under Investigation
+1389,Job Scam,Others,Chandigarh,31747,26,Female,2023-06-29 00:00:00,Victim reported job scam incident in Chandigarh.,Under Investigation
+1390,UPI Fraud,Others,Ranchi,6477,41,Female,2023-07-01 00:00:00,Victim reported upi fraud incident in Ranchi.,Open
+1391,Online Shopping Fraud,Others,Ranchi,3058,37,Female,2023-04-10 00:00:00,Victim reported online shopping fraud incident in Ranchi.,Open
+1392,Online Shopping Fraud,Others,Chandigarh,3199,49,Female,2023-01-01 00:00:00,Victim reported online shopping fraud incident in Chandigarh.,Under Investigation
+1393,Phishing,Others,Ranchi,39060,22,Female,2023-08-12 00:00:00,Victim reported phishing incident in Ranchi.,Under Investigation
+1394,KYC Scam,Others,Chandigarh,49929,54,Male,2023-07-04 00:00:00,Victim reported kyc scam incident in Chandigarh.,Closed
+1395,Job Scam,Others,Ranchi,22966,52,Female,2023-03-05 00:00:00,Victim reported job scam incident in Ranchi.,Under Investigation
+1396,Social Media Hack,Others,Patna,44877,24,Male,2023-02-01 00:00:00,Victim reported social media hack incident in Patna.,Under Investigation
+1397,UPI Fraud,Others,Ranchi,5301,53,Male,2023-06-07 00:00:00,Victim reported upi fraud incident in Ranchi.,Under Investigation
+1398,UPI Fraud,Others,Ranchi,22719,34,Female,2023-12-28 00:00:00,Victim reported upi fraud incident in Ranchi.,Under Investigation
+1399,UPI Fraud,Others,Ranchi,28677,58,Male,2023-05-03 00:00:00,Victim reported upi fraud incident in Ranchi.,Under Investigation
+1400,UPI Fraud,Others,Chandigarh,1633,36,Male,2023-02-13 00:00:00,Victim reported upi fraud incident in Chandigarh.,Open
